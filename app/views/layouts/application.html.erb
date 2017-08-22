@@ -9,6 +9,12 @@
   </head>
 
   <body>
+  	<ul>
+  		<li> <%= link_to "Home", welcome_index_path %> </li>
+  		<li> <%= link_to "Zillow Reports", welcome_zillow_path %> </li>
+  		<li> <%= link_to "Trulia Reports", welcome_trulia_path %> </li>
+
+  	</ul>
     <%= yield %>
   </body>
 </html>
