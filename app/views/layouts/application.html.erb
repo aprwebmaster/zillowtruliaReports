@@ -10,13 +10,24 @@
   </head>
 
   <body>
-  	<div class="container">
-  		<ul class="nav nav-tabs">
-  		<li> <%= link_to "Home", welcome_index_path %> </li>
-  		<li> <%= link_to "Zillow Reports", welcome_zillow_path %> </li>
-  		<li> <%= link_to "Trulia Reports", welcome_trulia_path %> </li>
-
-  	</ul>
+    <div class="container">
+      <div class="header clearfix">
+        <nav>
+          <ul class="nav nav-pills float-right">
+            <li class="nav-item">
+              <a class="nav-link active"><%= link_to "Home", welcome_index_path %> <span class="sr-only">(current)</span></a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link"><%= link_to "Zillow Reports", welcome_zillow_path %></a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link"><%= link_to "Trulia Reports", welcome_trulia_path %></a>
+            </li>
+          </ul>
+        </nav>
+        <h3 class="text-muted">APR Property Data Application</h3>
+      </div>
+  	
     <%= yield %>
     </div>
   </body>
