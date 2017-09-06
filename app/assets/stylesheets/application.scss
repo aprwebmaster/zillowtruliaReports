@@ -13,6 +13,8 @@
  *= require_tree .
  *= require_self
  */
+@import url('https://fonts.googleapis.com/css?family=Droid+Sans');
+@import url('https://fonts.googleapis.com/css?family=Oswald');
 @import "bootstrap-sprockets";
 @import "bootstrap";
 
@@ -20,3 +22,24 @@
 	overflow: scroll;
 	min-height: 600px;
 }
+h1 {
+	font-family: "Oswald";
+}
+h3{ 
+	font-family: "Droid Sans Mono";
+	font-weight: bold;
+}
+nav {
+	border-bottom-style: solid;
+	border-color: black;
+	border-width: 1px;
+}
+.nav a{
+	font-family: "Droid Sans Mono";
+	font-size:18px;
+	color: #000000;
+}
+.nav a:hover {
+	color: #AF8E1D;
+	background: #ffffff;
+	}
