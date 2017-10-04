@@ -7,4 +7,7 @@ class WelcomeController < ApplicationController
 
   def trulia
   end
+
+  def listglobally
+  end
 end
