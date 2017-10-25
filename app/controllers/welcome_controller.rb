@@ -10,4 +10,8 @@ class WelcomeController < ApplicationController
 
   def listglobally
   end
+
+  def blackknight
+  end
+  
 end
