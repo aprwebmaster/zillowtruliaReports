@@ -54,6 +54,57 @@ rel="stylesheet"type="text/css" />
  }
  //]]>
 </script>
+
+<script language="javascript" type="text/javascript">
+ //<![CDATA[ //Required for calling the Period Code (Month,Bi-Monthly,Quaterly)
+ this.GetLPSChart = function(type) {
+ // 1= Monthly
+ // 2= Bi-Monthly
+ // 3= Quarterly
+
+ SubmitSearch2(type);
+ }
+
+
+ function SubmitSearch2(type) {
+ if (document.getElementById("txtAddress2") != null) {
+ var Address = document.getElementById('txtAddress2').value;
+ var AuthKey = "16D8B43C-897E-441F-B771-D7C5D18D8FD1_1";
+ var RequestType = "4";
+ //Set the requestType
+ if (type != undefined) {
+ RequestType = RequestType + "_" + type;
+ }
+ else {
+ type = "4";
+ }
+
+ GetLPSWidget(Address, RequestType, AuthKey, type);
+ }
+ }
+ function GetLPSWidget2(Address, RequestType, AuthKey, type) {
+ var _request = new LPS().Request(AuthKey, Address, RequestType, "Result");
+ this.Result = function(result) {
+ onDataReceived(result, type);
+ _request.Dispose();
+ }
+ }
+ function onDataReceived2(result, type)
+{
+ if (result.Status == "ERROR") {
+ document.getElementById(divHTML2).innerHTML = result.Message;
+
+ } else { 
+ 	document.getElementById('divHTML2').innerHTML =
+	result.DataCollections[0].Visualization;
+ 	//Required for display the Chart.
+	var chart = new LPSChart();
+ 	chart.chartSetup();
+ 	chart.ChartSelected(type);
+ }
+ }
+ //]]>
+</script>
 <body>
  <table>
  	<tr>
@@ -82,6 +133,38 @@ rel="stylesheet"type="text/css" />
  	<tr>
  		<td colspan="2">
  			<div id="divHTML">
+ 			</div>
+ 		</td>
+ 	</tr>
+ </table>
+
+ <table>
+ 	<tr>
+ 		<td><h3>Property Median Sales by Zip</h3>
+ 		</td>
+ 	</tr>
+ 	<tr> 
+ 	<td> <p>Please enter a Zip Code and click 'Submit' to see data about Median Sales for that Zip Code.</p>
+ 	</td>
+ 	</tr>
+ 	<tr>
+ 		<td>
+ 		<input type="text" style="width: 250px;" id="txtAddress2" />
+ 		</td>
+ 		</tr>
+ 	
+ 		<td>
+ 		<br> <input type="button" class="btn btn-primary" onclick="SubmitSearch2()" value="Submit" />
+ 		</td>
+ 	</tr>
+ 	<tr>
+ 		<td>
+ 		&nbsp;
+ 		</td>
+ 	</tr>
+ 	<tr>
+ 		<td colspan="2">
+ 			<div id="divHTML2">
  			</div>
  		</td>
  	</tr>
