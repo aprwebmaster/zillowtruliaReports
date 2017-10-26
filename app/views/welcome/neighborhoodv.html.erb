@@ -1,0 +1,89 @@
+<html>
+<script src="https://v2.sitexdata.com/Graph/js/lpstoolkit.js" type="text/javascript"></script>
+<link href="https://xml.sitexdata.com/restapi/Assets/css/chart.css"
+rel="stylesheet"type="text/css" />
+<script language="javascript" type="text/javascript">
+ //<![CDATA[ //Required for calling the Period Code (Month,Bi-Monthly,Quaterly)
+ this.GetLPSChart = function(type) {
+ // 1= Monthly
+ // 2= Bi-Monthly
+ // 3= Quarterly
+
+ SubmitSearch5(type);
+ }
+
+
+ function SubmitSearch5(type) {
+ if (document.getElementById("txtAddress5") != null) {
+ var Address = document.getElementById('txtAddress5').value;
+ var AuthKey = "16D8B43C-897E-441F-B771-D7C5D18D8FD1_1";
+ var RequestType = "2048";
+ //Set the requestType
+ if (type != undefined) {
+ RequestType = RequestType + "_" + type;
+ }
+ else {
+ type = "2048";
+ }
+
+ GetLPSWidget5(Address, RequestType, AuthKey, type);
+ }
+ }
+ function GetLPSWidget5(Address, RequestType, AuthKey, type) {
+ var _request = new LPS().Request(AuthKey, Address, RequestType, "Result");
+ this.Result = function(result) {
+ onDataReceived5(result, type);
+ _request.Dispose();
+ }
+ }
+ function onDataReceived5(result, type)
+{
+ if (result.Status == "ERROR") {
+ document.getElementById(divHTML5).innerHTML = result.Message;
+
+ } else { 
+ 	document.getElementById('divHTML5').innerHTML =
+	result.DataCollections[0].Visualization;
+ 	//Required for display the Chart.
+	var chart = new LPSChart();
+ 	chart.chartSetup();
+ 	chart.ChartSelected(type);
+ }
+ }
+ //]]>
+</script>
+<body>
+<table>
+ 	<tr>
+ 		<td><h3>Neighborhood Valuation by ZIP</h3>
+ 		</td>
+ 	</tr>
+ 	<tr> 
+ 	<td> <p>Please enter a ZIP code and click 'Submit' to view a neighborhood valuation report. </p>
+ 	</td>
+ 	</tr>
+ 	<tr>
+ 		<td>
+ 		<input type="text" style="width: 250px;" id="txtAddress5" />
+ 		</td>
+ 		</tr>
+ 	
+ 		<td>
+ 		<br> <input type="button" class="btn btn-primary" onclick="SubmitSearch5()" value="Submit" />
+ 		</td>
+ 	</tr>
+ 	<tr>
+ 		<td>
+ 		&nbsp;
+ 		</td>
+ 	</tr>
+ 	<tr>
+ 		<td colspan="2">
+ 			<div id="divHTML5">
+ 			</div>
+ 		</td>
+ 	</tr>
+ </table>
+ <p> <a class="nav-link"><%= link_to "Return to Black Knight Financial Reports page", welcome_blackknight_path %></a></p>
+</body>
+</html> 

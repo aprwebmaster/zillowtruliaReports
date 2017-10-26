@@ -9,6 +9,24 @@ Rails.application.routes.draw do
 
   get 'welcome/blackknight'
 
+  get 'welcome/propertyvalue'
+
+  get 'welcome/mediansales'
+
+  get 'welcome/propertyinformationreport'
+
+  get 'welcome/comparablesales'
+
+  get 'welcome/neighborhoodv'
+
+  get 'welcome/annualpercentage'
+
+  get 'welcome/unitsales'
+
+  get 'welcome/salesbyrange'
+
+  get 'welcome/forclosures'
+
   root to: 'welcome#index'
 
   # For details on the DSL available within this file, see http://guides.rubyonrails.org/routing.html
