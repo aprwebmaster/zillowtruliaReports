@@ -1,0 +1,28 @@
+<html>
+<script>
+require 'net/http'
+require 'uri'
+
+uri = URI.parse("https://search.onboard-apis.com/propertyapi/v1.0.0/property/snapshot?cityname=Los%20Angeles")
+request = Net::HTTP::Get.new(uri)
+request["Accept"] = "application/json"
+request["Apikey"] = "219fcf892e07493cfc5246f9f7e66ba2"
+
+req_options = {
+  use_ssl: uri.scheme == "https",
+}
+
+response = Net::HTTP.start(uri.hostname, uri.port, req_options) do |http|
+  http.request(request)
+end
+
+# response.code
+# response.body
+</script>
+<div>
+	<% begin %> 
+	<p><% puts response.code %></p>
+	<p><% puts response.body %></p>
+	<% end %> 
+
+</div>
