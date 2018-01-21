@@ -43,6 +43,8 @@ gem 'json'
 
 gem 'httparty'
 
+gem 'chartkick'
+
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 

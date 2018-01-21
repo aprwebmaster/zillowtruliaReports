@@ -1,0 +1,2 @@
+class Onboarddatum < ApplicationRecord
+end

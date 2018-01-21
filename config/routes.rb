@@ -1,4 +1,6 @@
 Rails.application.routes.draw do
+  get 'onboard/initialize'
+
   get 'welcome/index'
 
   get 'welcome/zillow'
