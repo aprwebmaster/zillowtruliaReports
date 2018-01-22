@@ -1,32 +1,32 @@
 <AreaReport>
-    <AreaId></AreaId>    
+    <AreaId>27482,27485</AreaId>    
     <AvgSalesPriceReport>
-        <Jan2017>1673</Jan2017>
-        <Feb2017>2171</Feb2017>
-        <March2017>1933</March2017>
-        <April2017>1882</April2017>
-        <May2017>1854</May2017>
-        <June2017>2012</June2017>
-        <July2017>2034</July2017>
-        <Aug2017>2155</Aug2017>
-        <Sep2017>2159</Sep2017>
-        <Oct2017>1892</Oct2017>
-        <Nov2017>2131</Nov2017>
-        <Dec2017>2022</Dec2017>
+        <Jan2017>1673000</Jan2017>
+        <Feb2017>2171000</Feb2017>
+        <March2017>1933000</March2017>
+        <April2017>1882000</April2017>
+        <May2017>1854000</May2017>
+        <June2017>2012000</June2017>
+        <July2017>2034000</July2017>
+        <Aug2017>2155000</Aug2017>
+        <Sep2017>2159000</Sep2017>
+        <Oct2017>1892000</Oct2017>
+        <Nov2017>2131000</Nov2017>
+        <Dec2017>2022000</Dec2017>
     </AvgSalesPriceReport>
     <MedianSalesPriceReport>
-        <Jan2017>1510</Jan2017>
-        <Feb2017>2205</Feb2017>
-        <March2017>1818</March2017>
-        <April2017>1775</April2017>
-        <May2017>1670</May2017>
-        <June2017>1813</June2017>
-        <July2017>1825</July2017>
-        <Aug2017>1785</Aug2017>
-        <Sep2017>2085</Sep2017>
-        <Oct2017>1671</Oct2017>
-        <Nov2017>1768</Nov2017>
-        <Dec2017>1875</Dec2017>
+        <Jan2017>1510000</Jan2017>
+        <Feb2017>2205000</Feb2017>
+        <March2017>1818000</March2017>
+        <April2017>1775000</April2017>
+        <May2017>1670000</May2017>
+        <June2017>1813000</June2017>
+        <July2017>1825000</July2017>
+        <Aug2017>1785000</Aug2017>
+        <Sep2017>2085000</Sep2017>
+        <Oct2017>1671000</Oct2017>
+        <Nov2017>1768000</Nov2017>
+        <Dec2017>1875000</Dec2017>
     </MedianSalesPriceReport>
     <NewListingsReport>
         <Jan2017>41</Jan2017>
@@ -69,5 +69,76 @@
         <Oct2017>100</Oct2017>
         <Nov2017>100</Nov2017>
         <Dec2017>99</Dec2017>  
+    </SoldvsLstPct>
+<AreaId>286683</AreaId>    
+    <AvgSalesPriceReport>
+        <Jan2017>1588000</Jan2017>
+        <Feb2017>1350000</Feb2017>
+        <March2017>2961000</March2017>
+        <April2017>660000</April2017>
+        <May2017>558000</May2017>
+        <June2017>0</June2017>
+        <July2017>1075000</July2017>
+        <Aug2017>1025000</Aug2017>
+        <Sep2017>1332000</Sep2017>
+        <Oct2017>1375000</Oct2017>
+        <Nov2017>1919000</Nov2017>
+        <Dec2017>1575000</Dec2017>
+    </AvgSalesPriceReport>
+    <MedianSalesPriceReport>
+        <Jan2017>1750000</Jan2017>
+        <Feb2017>1350000</Feb2017>
+        <March2017>1784000</March2017>
+        <April2017>660000</April2017>
+        <May2017>558000</May2017>
+        <June2017>0</June2017>
+        <July2017>1075000</July2017>
+        <Aug2017>1025000</Aug2017>
+        <Sep2017>1350000</Sep2017>
+        <Oct2017>1375000</Oct2017>
+        <Nov2017>1530000</Nov2017>
+        <Dec2017>1575000</Dec2017>
+    </MedianSalesPriceReport>
+    <NewListingsReport>
+        <Jan2017>1</Jan2017>
+        <Feb2017>5</Feb2017>
+        <March2017>1</March2017>
+        <April2017>0</April2017>
+        <May2017>1</May2017>
+        <June2017>1</June2017>
+        <July2017>3</July2017>
+        <Aug2017>2</Aug2017>
+        <Sep2017>2</Sep2017>
+        <Oct2017>10</Oct2017>
+        <Nov2017>1</Nov2017>
+        <Dec2017>0</Dec2017>    
+    </NewListingsReport>
+    <SoldListingsReport>
+        <Jan2017>3</Jan2017>
+        <Feb2017>1</Feb2017>
+        <March2017>4</March2017>
+        <April2017>1</April2017>
+        <May2017>2</May2017>
+        <June2017>0</June2017>
+        <July2017>1</July2017>
+        <Aug2017>1</Aug2017>
+        <Sep2017>3</Sep2017>
+        <Oct2017>1</Oct2017>
+        <Nov2017>4</Nov2017>
+        <Dec2017>2</Dec2017>    
+    </SoldListingsReport>
+    <SoldvsLstPct>
+        <Jan2017>99</Jan2017>
+        <Feb2017>100</Feb2017>
+        <March2017>102</March2017>
+        <April2017>116</April2017>
+        <May2017>101</May2017>
+        <June2017>0</June2017>
+        <July2017>108</July2017>
+        <Aug2017>114</Aug2017>
+        <Sep2017>118</Sep2017>
+        <Oct2017>106</Oct2017>
+        <Nov2017>109</Nov2017>
+        <Dec2017>111</Dec2017>  
     </SoldvsLstPct>
 </AreaReport>
