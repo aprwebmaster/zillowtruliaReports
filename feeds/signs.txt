@@ -1,0 +1,1160 @@
+[USER]
+!LOGIN,!PASSWORD,!FIRSTNAME,!LASTNAME,!COMPANY,!EMAIL,!PHONE,!STATUS,!MEMBERSHIP
+waatlo@apr.com,,Wesley,Aatlo,San Jose - Almaden Valley,waatlo@apr.com,408.754.1500,Y,AGENT
+eafdari@apr.com,,Ensy,Afdari,Los Gatos,eafdari@apr.com,408.357.8601,Y,AGENT
+araguilar@apr.com,,Ashley,Aguilar,San Jose - Almaden Valley,araguilar@apr.com,510.205.9565,Y,AGENT
+jahmadji@apr.com,,Janis,Ahmadjian-Baer,Los Altos,jahmadji@apr.com,650.209.1527,Y,AGENT
+mahn@apr.com,,Madigan,Ahn,Carmel,mahn@apr.com,831.293.4100,Y,AGENT
+nahnemann@apr.com,,Nancy,Ahnemann,Corte Madera - Central Marin,nahnemann@apr.com,415.755.1111,Y,AGENT
+taiello@apr.com,,Theresa,Aiello,San Mateo,taiello@apr.com,650.642.0678,Y,AGENT
+salbanese@apr.com,,Sandy,Albanese,Los Gatos,salbanese@apr.com,408.802.6104,Y,AGENT
+malbers@apr.com,,Marilynne,Albers,San Francisco,malbers@apr.com,415.614.4363,Y,AGENT
+galbertson@apr.com,,Greg,Albertson,Carmel,galbertson@apr.com,831.840.5582,Y,AGENT
+malexander@apr.com,,Mary Beth,Alexander,Half Moon Bay,malexander@apr.com,415.608.9327,Y,AGENT
+zalkhaleef@apr.com,,Zaina,Alkhaleef,Menlo Park,zalkhaleef@apr.com,408.307.9222,Y,AGENT
+lalkire@apr.com,,Louise,Alkire,Los Gatos,lalkire@apr.com,408.499.7334,Y,AGENT
+azita@apr.com,,Azita,Allahverdi,Saratoga,azita@apr.com,408.741.1111  Ext. 313,Y,AGENT
+mallan@apr.com,,Mary,Allan,Saratoga,mallan@apr.com,408.391.5951,Y,AGENT
+daniel@apr.com,,Daniel,Alpher,Pleasanton / Livermore Valley,daniel@apr.com,925.548.6500,Y,AGENT
+eameri@apr.com,,Erika,Ameri,Los Altos,eameri@apr.com,650.209.1508,Y,AGENT
+ktames@apr.com,,Kevin T.,Ames,Menlo Park,ktames@apr.com,650.995.6534,Y,AGENT
+canderson@apr.com,,Chris,Anderson,Menlo Park,canderson@apr.com,650.543.1205,Y,AGENT
+loretaa@apr.com,,Loreta,Anderson,Burlingame,loretaa@apr.com,650.931.2951,Y,AGENT
+manderson@apr.com,,Millie,Anderson,Corte Madera - Central Marin,manderson@apr.com,415.496.2909,Y,AGENT
+tanderso@apr.com,,Tim,Anderson,Los Altos,tanderso@apr.com,650.209.1590,Y,AGENT
+cindyandrade@apr.com,,Cindy,Andrade,San Jose - Almaden Valley,cindyandrade@apr.com,408.375.5135,Y,AGENT
+mandrighetto@apr.com,,Mario,Andrighetto,Woodside,mandrighetto@apr.com,650-796-4902,Y,AGENT
+canisman@apr.com,,Carla Priola,Anisman,Woodside,canisman@apr.com,650.888.9521,Y,AGENT
+sansari@apr.com,,Shawn,Ansari,Los Gatos,sansari@apr.com,408.529.4574,Y,AGENT
+aantone@apr.com,,Alison,Antone,Los Gatos,aantone@apr.com,408.836.8880,Y,AGENT
+daquila@apr.com,,Denise,Aquila,San Mateo,daquila@apr.com,650.740.8930,Y,AGENT
+aaramandla@apr.com,,Azad,Aramandla,Pleasanton / Livermore Valley,aaramandla@apr.com,209.814.8210,Y,AGENT
+rardizzo@apr.com,,Rick,Ardizzone,Los Gatos,rardizzo@apr.com,408.891.8149,Y,AGENT
+ksparer@apr.com,,Kathleen,Areias Sparer,Burlingame,ksparer@apr.com,650.464.3248,Y,AGENT
+larmenio@apr.com,,Lynn,Armenio,Burlingame,larmenio@apr.com,650.773.4493,Y,AGENT
+marmenta@apr.com,,Michael,Armenta,Los Gatos,marmenta@apr.com,408.829.8861,Y,AGENT
+larmentano@apr.com,,Larry,Armentano,Saratoga,larmentano@apr.com,408.741.1111,Y,AGENT
+sarora@apr.com,,Sunaina,Arora,Saratoga,sarora@apr.com,408.329.0502,Y,AGENT
+dean@asborno.com,,Dean,Asborno,Woodside,dean@asborno.com,650.529.1111,Y,AGENT
+gascher@apr.com,,Gloria Melmon ,Ascher,Saratoga,gascher@apr.com,408.781.8624,Y,AGENT
+eashley@apr.com,,Ellen,Ashley,Woodside,eashley@apr.com,650.434.4336,Y,AGENT
+cashurst@apr.com,,Cam,Ashurst,Corte Madera - Central Marin,cashurst@apr.com,415.755.1111,Y,AGENT
+matencio@apr.com,,Marilou,Atencio,San Mateo,matencio@apr.com,650.692.8662,Y,AGENT
+tatwell@apr.com,,Tori,Atwell,Los Altos,tatwell@apr.com,650.996.0123,Y,AGENT
+jatwood@apr.com,,Jeff,Atwood,Los Gatos,jatwood@apr.com,408.313.2805,Y,AGENT
+yasmine@apr.com,,Yasmine,Austere,Danville / Blackhawk,yasmine@apr.com,925.998.9747,Y,AGENT
+cbabalis@apr.com,,Chris,Babalis,Carmel,cbabalis@apr.com,831.884.3868,Y,AGENT
+dbackinoff@apr.com,,Diana,Backinoff,Oakland Hills - Montclair Village,dbackinoff@apr.com,510-381-8890,Y,AGENT
+obagheri@apr.com,,Omied,Bagheri,Los Gatos,obagheri@apr.com,408.655.8292,Y,AGENT
+abaglieri@apr.com,,Angelo,Baglieri,APR Investment Group,abaglieri@apr.com,(415) 424-8201,Y,AGENT
+rbaiati@apr.com,,Rachel,Baiati,Orinda,rbaiati@apr.com,925.876.0737,Y,AGENT
+sbailey@apr.com,,Shirley,Bailey,Los Altos,sbailey@apr.com,650.209.1580,Y,AGENT
+LBaker@apr.com,,Linda,Baker,Los Gatos,LBaker@apr.com,408.712.3432,Y,AGENT
+tbalandra@apr.com,,Terri,Balandra,Los Gatos,tbalandra@apr.com,408.357.8803,Y,AGENT
+rballer@apr.com,,Rachel,Baller,Oakland Hills - Montclair Village,rballer@apr.com,510.339.8900,Y,AGENT
+lballin@apr.com,,Lynda,Ballin,Carmel,lballin@apr.com,831.224.2799,Y,AGENT
+edbangle@apr.com,,Ed,Bangle,Saratoga,edbangle@apr.com,408.218.5795,Y,AGENT
+moe@apr.com,,Moe,Baniani,Saratoga,moe@apr.com,408.313.6680,Y,AGENT
+sbarakat@apr.com,,Subhi,Barakat,San Francisco,sbarakat@apr.com,415.533.4600,Y,AGENT
+cbaray@apr.com,,Camellia,Baray,Oakland Hills - Montclair Village,cbaray@apr.com,510.646.0053,Y,AGENT
+rbarcos@apr.com,,Roland,Barcos,San Jose - Almaden Valley,rbarcos@apr.com,408-209-0555,Y,AGENT
+jbarman@apr.com,,John,Barman,Palo Alto,jbarman@apr.com,(650) 380-8440,Y,AGENT
+jbarnett@apr.com,,Jeff,Barnett,Los Gatos,jbarnett@apr.com,408.357.8600,Y,OFFICE ADMINISTRATOR
+jbarrett@apr.com,,Jaime,Barrett-Vigil,San Mateo,jbarrett@apr.com,650.931.2826,Y,AGENT
+cbartlett@apr.com,,Carol,Bartlett,Woodside,cbartlett@apr.com,650.867.7788,Y,AGENT
+waykab@apr.com,,Wayka,Bartolacelli,Corte Madera - Central Marin,waykab@apr.com,415.860.4687,Y,AGENT
+jbaumann@apr.com,,Julie,Baumann,Burlingame,jbaumann@apr.com,650.576.8889,Y,AGENT
+lbautista@apr.com,,Lisa,Bautista,Oakland Hills - Montclair Village,lbautista@apr.com,510.967.1109,Y,AGENT
+cbechtel@apr.com,,Carolyn,Bechtel,Menlo Park,cbechtel@apr.com,650.543.1201,Y,AGENT
+grantbeggs@apr.com,,Grant,Beggs,San Francisco,grantbeggs@apr.com,415.815.9701,Y,AGENT
+hbeilin@apr.com,,Harry,Beilin,Menlo Park,hbeilin@apr.com,650.462.1111,Y,AGENT
+jbell@apr.com,,Jim,Bell,Carmel,jbell@apr.com,831.620.6174,Y,AGENT
+rbell@apr.com,,Rick,Bell,Los Altos,rbell@apr.com,650.209.1513,Y,AGENT
+sbell@apr.com,,Suzanne,Bell,Los Altos,sbell@apr.com,650.209.1502,Y,AGENT
+mbellingham@apr.com,,Mayling,Bellingham,Burlingame,mbellingham@apr.com,650.931.2019,Y,AGENT
+sbellingham@apr.com,,Stephen,Bellingham,Burlingame,sbellingham@apr.com,650.922.3335,Y,AGENT
+sherrib@apr.com,,Sherri,Belluomini,Tiburon / Belvedere,sherrib@apr.com,415.889.2015,Y,AGENT
+rosa@apr.com,,Rosa,Bencuya,Saratoga,rosa@apr.com,408.499.2077,Y,AGENT
+abenson@apr.com,,Andrew,Benson,Burlingame,abenson@apr.com,650.773.1147,Y,AGENT
+cjbenson@apr.com,,Chuck,Benson,Orinda,cjbenson@apr.com,925.438.2039,Y,AGENT
+lbenson@apr.com,,Laurie,Benson,Burlingame,lbenson@apr.com,650.245.4530,Y,AGENT
+jbentley@apr.com,,Joseph,Bentley,Menlo Park,jbentley@apr.com,650.543.1162,Y,AGENT
+jbenvenuto@apr.com,,Joe,Benvenuto,Burlingame,jbenvenuto@apr.com,650.931.2093,Y,AGENT
+pberg@apr.com,,Pamela,Berg,Los Gatos,pberg@apr.com,408.832.5140,Y,AGENT
+jberlin@apr.com,,Jo Anne,Berlin,Mill Valley,jberlin@apr.com,415.847.0301,Y,AGENT
+jberson@apr.com,,Joanne,Berson,Danville / Blackhawk,jberson@apr.com,925.895.9345,Y,AGENT
+gbethge@apr.com,,Gaby,Bethge,Walnut Creek,gbethge@apr.com,925.627.3018,Y,AGENT
+sbian@apr.com,,Sean,Bian,Pleasanton / Livermore Valley,sbian@apr.com,+1 925 999 0086,Y,AGENT
+Buffy@BuffyBianchini.com,,Buffy,Bianchini,Woodside,Buffy@BuffyBianchini.com,650.888.6379,Y,AGENT
+catherine@grr8lif.com,,Catherine,Bierwith,Alameda,catherine@grr8lif.com,510.418.3731,Y,AGENT
+abitooei@apr.com,,Ali,Bitooei,Walnut Creek,abitooei@apr.com,925.566.4255,Y,AGENT
+jbleier@apr.com,,Jason,Bleier,Danville / Blackhawk,jbleier@apr.com,925.997.7373,Y,AGENT
+kbleier@apr.com,,Kathie,Bleier,Danville / Blackhawk,kbleier@apr.com,925.791.2567,Y,AGENT
+abock@apr.com,,Ashley,Bock,Ross,abock@apr.com,415.335.5525,Y,AGENT
+dbodan@apr.com,,Debi,Bodan,Pleasanton / Livermore Valley,dbodan@apr.com,925.640.3778,Y,AGENT
+mbodley@apr.com,,Michelle,Bodley,San Mateo,mbodley@apr.com,650.548.1111,Y,AGENT
+sboerner@apr.com,,Susan,Boerner,San Jose - Almaden Valley,sboerner@apr.com,408.921.7619,Y,AGENT
+shughes@apr.com,,Sheri,Bogard-Hughes,Los Altos,shughes@apr.com,650.279.4003,Y,AGENT
+cbogardogorman@apr.com,,Cindy,Bogard-O'Gorman,Los Altos,cbogardogorman@apr.com,650.209.1614,Y,AGENT
+judybt@apr.com,,Judy,Bogard-Tanigami,Los Altos,judybt@apr.com,650.207.2111,Y,AGENT
+mbonn@apr.com,,Mark,Bonn,APR Investment Group,mbonn@apr.com,415.814.6690,Y,OFFICE ADMINISTRATOR
+Mike@mikeboos.com,,Mike,Boos,San Mateo,Mike@mikeboos.com,650.645.1745,Y,AGENT
+thill@apr.com,,Taylor,Booth,Burlingame,thill@apr.com,650.678.9513,Y,AGENT
+matt@apr.com,,Matt,Borden,Danville / Blackhawk,matt@apr.com,925.314.1111,Y,AGENT
+cborison@apr.com,,Carol Yaffa,Borison,Palo Alto,cborison@apr.com,650.303.9569,Y,AGENT
+lynnb@apr.com,,Lynn,Borley,Pleasanton / Livermore Valley,lynnb@apr.com,925.487.3371,Y,AGENT
+ebosch@apr.com,,Eileen,Bosch,Saratoga,ebosch@apr.com,408-892-3333,Y,AGENT
+carolynb@apr.com,,Carolyn,Botts,Los Altos,carolynb@apr.com,650.209.1592,Y,AGENT
+abouchard@apr.com,,Anke,Bouchard,Palo Alto,abouchard@apr.com,650.543.1122,Y,AGENT
+abouja@apr.com,,Alex,Bouja,Los Gatos,abouja@apr.com,408.357.8805,Y,AGENT
+lboukis@apr.com,,Lori,Boukis,Orinda,lboukis@apr.com,925.482.5432,Y,AGENT
+lbouret@apr.com,,Lori,Bouret,Woodside,lbouret@apr.com,(650) 533-3450,Y,AGENT
+bertabower@apr.com,,Berta,Bower,Saratoga,bertabower@apr.com,408-718-1133,Y,AGENT
+bobbower@apr.com,,Bob,Bower,Saratoga,bobbower@apr.com,408.741.1111 Ext. 702,Y,AGENT
+djbower@apr.com,,Dennis,Bower,Los Altos,djbower@apr.com,650.941.1111,Y,AGENT
+suebowie@apr.com,,Sue,Bowie,San Francisco - Noe Valley,suebowie@apr.com,415.642.4000,Y,AGENT
+jboyle@apr.com,,Jim,Boyle,San Mateo,jboyle@apr.com,650.931.2801,Y,AGENT
+abracci@apr.com,,Ann,Bracci,Alameda,abracci@apr.com,510.809.1111,Y,AGENT
+laurabradfield@apr.com,,Laura,Bradfield,Half Moon Bay,laurabradfield@apr.com,650.787.6031,Y,AGENT
+Jessica@JessicaBranson.com,,Jessica,Branson,San Francisco - Noe Valley,Jessica@JessicaBranson.com,415.341.7177,Y,AGENT
+mbraun@apr.com,,Matt,Braun,Los Gatos,mbraun@apr.com,408.390.1102,Y,AGENT
+kbrickman@apr.com,,Kaaren,Brickman,Orinda,kbrickman@apr.com,925.351.5049,Y,AGENT
+kbridgman@apr.com,,Kathy,Bridgman,Los Altos,kbridgman@apr.com,650.209.1589,Y,AGENT
+courtney@apr.com,,Courtney,Bridgman-Eltherington,Los Altos,courtney@apr.com,650.209.1613,Y,AGENT
+dbrill@apr.com,,Derk,Brill,Palo Alto,dbrill@apr.com,650.543.1117,Y,AGENT
+sbrinks@apr.com,,Steve,Brinkman,Los Altos,sbrinks@apr.com,650.209.1530,Y,AGENT
+dbrinsmead@apr.com,,Debra,Brinsmead,Saratoga,dbrinsmead@apr.com,650.906.0488,Y,AGENT
+pbriscoe@apr.com,,Patricia,Briscoe,Menlo Park,pbriscoe@apr.com,650.543.1171,Y,AGENT
+cbrockman@apr.com,,Christine,Brockman,Carmel,cbrockman@apr.com,831.455.6595,Y,AGENT
+bbrody@apr.com,,Beth,Brody,Mill Valley,bbrody@apr.com,bbrody@apr.com,Y,AGENT
+jbrolan@apr.com,,Jerome,Brolan,Half Moon Bay,jbrolan@apr.com,(650) 455-4904,Y,AGENT
+bbrown@apr.com,,Bob,Brown,Half Moon Bay,bbrown@apr.com,650.479.1175,Y,AGENT
+nicholasbrown@apr.com,,Nicholas,Brown,Palo Alto,nicholasbrown@apr.com,650.665.0201,Y,AGENT
+dbruk@apr.com,,Dina,Bruk,Walnut Creek,dbruk@apr.com,925.627.3028,Y,AGENT
+mbryman@apr.com,,Marc,Bryman,Menlo Park,mbryman@apr.com,650.543.1163,Y,AGENT
+sbucolo@apr.com,,Sherry,Bucolo,Palo Alto,sbucolo@apr.com,650.543.1060,Y,AGENT
+tbudzich@apr.com,,Teresa,Budzich,Menlo Park,tbudzich@apr.com,650.543.1044,Y,AGENT
+lorib@apr.com,,Lori,Buecheler,Palo Alto,lorib@apr.com,650.387.2716,Y,AGENT
+jbuenrostro@apr.com,,Jennifer,Buenrostro,Palo Alto,jbuenrostro@apr.com,650.543.1097,Y,AGENT
+gbulanti@apr.com,,Gary,Bulanti,Menlo Park,gbulanti@apr.com,650.543.1186,Y,AGENT
+cburnett@apr.com,,Carol,Burnett,Saratoga,cburnett@apr.com,408.741.1111,Y,OFFICE ADMINISTRATOR
+loribw@apr.com,,Lori,Burrows-Warren,Menlo Park,loribw@apr.com,650.462.1111,Y,AGENT
+cbusch@apr.com,,Carolin,Busch,Orinda,cbusch@apr.com,925.402.4844,Y,AGENT
+b@bcallahan.com,,Brendan,Callahan,Menlo Park - Downtown,b@bcallahan.com,650.387.2535,Y,AGENT
+jcampion@apr.com,,Jodi,Campion,Burlingame,jcampion@apr.com,650.931.2051,Y,AGENT
+mcampione@apr.com,,Marguerite,Campione,Walnut Creek,mcampione@apr.com,925.934.1111,Y,AGENT
+ccanepa@apr.com,,Christina,Canepa,Walnut Creek,ccanepa@apr.com,925.482.6557,Y,AGENT
+ccarlson@apr.com,,Carol,Carlson,Los Gatos,ccarlson@apr.com,408.358.1111,Y,AGENT
+juliecarlson@apr.com,,Julie,Carlson,San Jose - Almaden Valley,juliecarlson@apr.com,408.202.1690,Y,AGENT
+lcarlson@apr.com,,Lara,Carlson,Saratoga,lcarlson@apr.com,408.605.3981,Y,AGENT
+ncarlson@apr.com,,Nancy,Carlson,Saratoga,ncarlson@apr.com,408.892.5272,Y,AGENT
+gcarlsted@apr.com,,Greg,Carlsted,San Jose - Almaden Valley,gcarlsted@apr.com,408.754.1500,Y,AGENT
+pcarper@apr.com,,Patrice,Carper,Los Gatos,pcarper@apr.com,408.421.9976,Y,AGENT
+pcarson@apr.com,,Peter,Carson,Menlo Park,pcarson@apr.com,650.823.3968,Y,AGENT
+hazelc@apr.com,,Hazel,Carter-Hattem,Tiburon / Belvedere,hazelc@apr.com,415.889.2000,Y,AGENT
+ljohnson@apr.com,,Lois,Caskey Johnson,Oakland Hills - Montclair Village,ljohnson@apr.com,510.339.8900,Y,AGENT
+rcassar@apr.com,,Renee DeVivo,Cassar,Menlo Park,rcassar@apr.com,650.759.7289,Y,AGENT
+valerie@apr.com,,Valerie,Castellana,Tiburon / Belvedere,valerie@apr.com,415.533.9211,Y,AGENT
+reneec@apr.com,,Renee,Catania,Carmel,reneec@apr.com,831.293.3668,Y,AGENT
+joanie@apr.com,,Joanie Cotter,Cattermole,San Mateo,joanie@apr.com,650.576.9792,Y,AGENT
+dcauchi@apr.com,,David,Cauchi,Burlingame,dcauchi@apr.com,650.375.1111,Y,AGENT
+mikala@apr.com,,Mikala,Caune,Los Gatos,mikala@apr.com,408.357.8651,Y,AGENT
+dcellini@apr.com,,Deborah,Cellini,Orinda,dcellini@apr.com,925-381-6235,Y,AGENT
+greg@apr.com,,Greg,Celotti,Palo Alto,greg@apr.com,650.740.1580,Y,AGENT
+achai@apr.com,,Angelica,Chai,Palo Alto,achai@apr.com,650.323.1111,Y,AGENT
+dchambers@apr.com,,Donna,Chambers,San Mateo,dchambers@apr.com,650.218.5134,Y,AGENT
+juliannechan@apr.com,,Julianne,Chan,Danville / Blackhawk,juliannechan@apr.com,925.791.2583,Y,AGENT
+dchandle@apr.com,,Diane,Chandler,Los Gatos,dchandle@apr.com,408.205.5454,Y,AGENT
+cchang@apr.com,,Charlene,Chang,Palo Alto,cchang@apr.com,650.543.1108,Y,AGENT
+hchang@apr.com,,Hailey,Chang,Los Gatos,hchang@apr.com,408.391.6552,Y,AGENT
+harrychang@apr.com,,Harry,Chang,Palo Alto,harrychang@apr.com,650.543.1061,Y,AGENT
+hmchang@apr.com,,Michelle,Chang,Los Gatos,hmchang@apr.com,408.429.4205,Y,AGENT
+nchapman@apr.com,,Nannette,Chapman,Danville / Blackhawk,nchapman@apr.com,650.576.7996,Y,AGENT
+donc@apr.com,,Don,Chareonchitswad,San Mateo,donc@apr.com,650.548.1111,Y,AGENT
+ccharney@apr.com,,Courtney,Charney,Menlo Park,ccharney@apr.com,650.543.1239,Y,AGENT
+jchase@apr.com,,Jeannie,Chase,Morgan Hill,jchase@apr.com,408-781-1199,Y,AGENT
+dchavez@apr.com,,Daniel,Chavez,APR Investment Group,dchavez@apr.com,650.375.1111,Y,AGENT
+martinc@apr.com,,Martin,Chavez,Burlingame,martinc@apr.com,650.375.1111,Y,AGENT
+rchavez@apr.com,,Raymond,Chavez,Los Gatos,rchavez@apr.com,408.655.7900,Y,AGENT
+gchechopoulos@apr.com,,George,Chechopoulos,San Mateo,gchechopoulos@apr.com,650.548.1111,Y,AGENT
+cchee@apr.com,,Craig,Chee,APR Investment Group,cchee@apr.com,415.264.2766,Y,AGENT
+jchen@apr.com,,Jade,Chen,Saratoga,jchen@apr.com,408.621.1117,Y,AGENT
+ccheng@apr.com,,Christine,Cheng,Oakland Hills - Montclair Village,ccheng@apr.com,510.629.9499,Y,AGENT
+Elan@ElanChertock.com,,Elan,Chertock,Alameda,Elan@ElanChertock.com,510.387.8420,Y,AGENT
+dchesler@apr.com,,Diane,Chesler,Woodside,dchesler@apr.com,650.434.4321,Y,AGENT
+jchestnut@apr.com,,Janna,Chestnut,Pleasanton / Livermore Valley,jchestnut@apr.com,925.876.6105,Y,AGENT
+manoc@apr.com,,Mano,Chidambaram,Pleasanton / Livermore Valley,manoc@apr.com,925.336.0521,Y,AGENT
+schilukuri@apr.com,,Suneeta,Chilukuri,Menlo Park,schilukuri@apr.com,650.543.1208,Y,AGENT
+sharry@apr.com,,Sharry,Chimienti,Walnut Creek,sharry@apr.com,925.627.3085,Y,AGENT
+vincentc@apr.com,,Vincent,Choi,Saratoga,vincentc@apr.com,408.206.3466,Y,AGENT
+dchou@apr.com,,Daphne,Chou,Saratoga,dchou@apr.com,408.218.7522,Y,AGENT
+jchow@apr.com,,Jacky,Chow,San Francisco,jchow@apr.com,jacky@jackyhome.com,Y,AGENT
+hchu@apr.com,,Helen,Chu,Oakland Hills - Montclair Village,hchu@apr.com,510.717.4701,Y,AGENT
+achung@apr.com,,Andy,Chung,Saratoga,achung@apr.com,408.623.7025,Y,AGENT
+mattc@apr.com,,Matt,Ciganek,San Francisco,mattc@apr.com,(415) 240-9901,Y,AGENT
+ttcilia@apr.com,,Tu-Anh,Cilia,Half Moon Bay,ttcilia@apr.com,415-806-0524,Y,AGENT
+ccintas@apr.com,,Caitlin,Cintas,Los Gatos,ccintas@apr.com,(408)398-6917,Y,AGENT
+judy@judycitron.com,,Judy,Citron,Menlo Park,judy@judycitron.com,650.543.1206,Y,AGENT
+cclark@apr.com,,Chris,Clark,Oakland Hills - Montclair Village,cclark@apr.com,(415) 298-5179,Y,AGENT
+kimclark@apr.com,,Kim,Clark,Los Altos,kimclark@apr.com,650.941.1111,Y,AGENT
+roseclark@apr.com,,Rose,Clark,Carmel,roseclark@apr.com,831.809.2799,Y,AGENT
+sclark@apr.com,,Susan,Clark,Carmel,sclark@apr.com,831.320.6801,Y,AGENT
+eclay@apr.com,,Erna,Clay,Carmel,eclay@apr.com,831.620.6131,Y,AGENT
+cindyc@apr.com,,Cindy,Cockcroft,Los Gatos,cindyc@apr.com,408.357.8613,Y,AGENT
+bcoh@apr.com,,Ben,Coh,Burlingame,bcoh@apr.com,650.931.2977,Y,AGENT
+ACohen@apr.com,,AJ,Cohen,Danville / Blackhawk,ACohen@apr.com,925.819.2747,Y,AGENT
+mcohen@apr.com,,Mary,Cohen,Los Gatos,mcohen@apr.com,408.357.8666,Y,AGENT
+anamaria@apr.com,,Anamaria,Cojocaru,San Mateo,anamaria@apr.com,650.773.8727,Y,AGENT
+icole@apr.com,,Isabelle,Cole,Palo Alto,icole@apr.com,650.814.0360,Y,AGENT
+jcole@apr.com,,Jeff,Cole,Saratoga,jcole@apr.com,408.674.1897,Y,AGENT
+kcole@apr.com,,Kevin,Cole,Saratoga,kcole@apr.com,408.805.0450,Y,AGENT
+jim@apr.com,,Jim,Colhoun,Orinda,jim@apr.com,925.200.2795,Y,AGENT
+jcollins@apr.com,,Jill,Collins,Walnut Creek,jcollins@apr.com,925-595-4556,Y,AGENT
+scomaroto@apr.com,,Sandy,Comaroto,Burlingame,scomaroto@apr.com,650.714.1359,Y,AGENT
+stevecomfort@apr.com,,Steve,Comfort,Walnut Creek,stevecomfort@apr.com,925.679.5255,Y,AGENT
+Samantha@SamanthaCompetente.com,,Samantha ,Competente,San Francisco - Noe Valley,Samantha@SamanthaCompetente.com,415.810.7330,Y,AGENT
+bconkin@apr.com,,Barb,Conkin-Orrock,Los Altos,bconkin@apr.com,650.209.1539,Y,AGENT
+jconley@apr.com,,Jennifer,Conley,Los Altos,jconley@apr.com,650.941.1111,Y,AGENT
+hconnell@apr.com,,Hazel,Connell,San Mateo,hconnell@apr.com,650.548.1111,Y,AGENT
+mconnoll@apr.com,,Marion,Connolly,Los Gatos,mconnoll@apr.com,408.348.8027,Y,AGENT
+kencon@apr.com,,Ken,Constantino,San Mateo,kencon@apr.com,650.931.2807,Y,AGENT
+sconti@apr.com,,Serena,Conti,Burlingame,sconti@apr.com,650.619.8398,Y,AGENT
+lcools@apr.com,,Liliane,Cools,Burlingame,lcools@apr.com,650.245.2414,Y,AGENT
+jcorby@apr.com,,Janette,Corby,Orinda,jcorby@apr.com,925.438.2063,Y,AGENT
+acorio@apr.com,,Aeysha,Corio,Walnut Creek,acorio@apr.com,925.550.7193,Y,AGENT
+mcorman@apr.com,,Monica,Corman,Menlo Park,mcorman@apr.com,650.543.1164,Y,AGENT
+tcorreia@apr.com,,Tom,Correia,Los Altos,tcorreia@apr.com,650.209.1587,Y,AGENT
+gcorsi@apr.com,,Gina,Corsi,Danville / Blackhawk,gcorsi@apr.com,925-791-2525,Y,AGENT
+scourtney@apr.com,,Sarah,Courtney,Pleasanton / Livermore Valley,scourtney@apr.com,925.216.5835,Y,AGENT
+jcox@apr.com,,James,Cox,Los Gatos,jcox@apr.com,408.357.8616,Y,AGENT
+kevincox@apr.com,,Kevin,Cox,Danville / Blackhawk,kevincox@apr.com,925.989.8028,Y,AGENT
+patcox@apr.com,,Pat,Cox,Danville / Blackhawk,patcox@apr.com,925.963.6404,Y,AGENT
+jcrandell@apr.com,,Jeffrey,Crandell,San Mateo,jcrandell@apr.com,650.548.1111,Y,AGENT
+acrawford@apr.com,,Anne,Crawford,Half Moon Bay,acrawford@apr.com,650.479.1114,Y,AGENT
+richardandkandis@apr.com,,Richard,Crouch,Saratoga,richardandkandis@apr.com,408.741.1111,Y,AGENT
+EllenNorthBay@gmail.com,,Ellen,Crusoe,Corte Madera - Central Marin,EllenNorthBay@gmail.com,707.326.0405,Y,AGENT
+scullen@apr.com,,Samia,Cullen,Palo Alto,scullen@apr.com,650.384.5392,Y,AGENT
+susanc@apr.com,,Susan,Cullen,Mill Valley,susanc@apr.com,415.384.1111,Y,AGENT
+pculp@apr.com,,Pamela,Culp,Palo Alto,pculp@apr.com,650.543.1051,Y,AGENT
+acummins@apr.com,,Anne,Cummins,Saratoga,acummins@apr.com,408.741.1111,Y,AGENT
+dcunningham@apr.com,,Dede,Cunningham,Alameda,dcunningham@apr.com,510.809.1111,Y,AGENT
+maryellencurtis@apr.com,,Mary Ellen,Curtis,San Mateo,maryellencurtis@apr.com,650.931.2844,Y,AGENT
+bcusack@apr.com,,Becky,Cusack,Alameda,bcusack@apr.com,510-220-5468,Y,AGENT
+cutrufelli@apr.com,,Joe,Cutrufelli III,Walnut Creek,cutrufelli@apr.com,925.917.4663,Y,OFFICE ADMINISTRATOR
+sdaggett@apr.com,,Stacey,Daggett,Pleasanton / Livermore Valley,sdaggett@apr.com,925.251.1111,Y,AGENT
+bdakin@apr.com,,Brian,Dakin,Woodside,bdakin@apr.com,650.483.5760,Y,AGENT
+vdakin@apr.com,,Valerie,Dakin,Woodside,vdakin@apr.com,650.787.8363,Y,AGENT
+loren@lorendakin.com,,Loren,Dakin Jr.,Menlo Park - Downtown,loren@lorendakin.com,650.304.3100,Y,AGENT
+jdalton@apr.com,,Janice,Dalton,Danville / Blackhawk,jdalton@apr.com,925.785.3680,Y,AGENT
+edamelio@apr.com,,Erica,Damelio,San Mateo,edamelio@apr.com,650.571.8000,Y,AGENT
+scott@scottdancer.com,,Scott,Dancer,Woodside,scott@scottdancer.com,650.529.1111,Y,AGENT
+jdane@apr.com,,Jeannette,Dane,San Mateo,jdane@apr.com,650.302.0891,Y,AGENT
+edaschbach@apr.com,,Elizabeth,Daschbach,Menlo Park - Downtown,edaschbach@apr.com,650.207.0781,Y,AGENT
+louisad@apr.com,,Louisa,Davis,San Jose - Almaden Valley,louisad@apr.com,408.499.2668,Y,AGENT
+cdedomenico@apr.com,,Claudia,De Domenico,Corte Madera - Central Marin,cdedomenico@apr.com,415.496.2949,Y,AGENT
+sdebrezion@apr.com,,Sarah,Debrezion,San Jose - Almaden Valley,sdebrezion@apr.com,408.685.6409,Y,AGENT
+adechelbor@apr.com,,Anne,DeChelbor,Corte Madera - Central Marin,adechelbor@apr.com,415.755.1111,Y,AGENT
+jdecker@apr.com,,Judy,Decker,Palo Alto,jdecker@apr.com,650.799.4294,Y,AGENT
+ldedera@apr.com,,Louise,DeDera,Menlo Park,ldedera@apr.com,650.642.1422,Y,AGENT
+ed@eddee.net,,Ed,Dee,Los Gatos,ed@eddee.net,408.896.1117,Y,AGENT
+LDEFILIPPO@apr.com,,Laura,DeFilippo,Los Gatos,LDEFILIPPO@apr.com,cell 408.500.9952 | CALL OR TEXT ME ANYTIME!,Y,AGENT
+mdelbarco@apr.com,,Miguel G.,del Barco,Walnut Creek,mdelbarco@apr.com,925.478.9545,Y,AGENT
+adelehanty@apr.com,,Ashley,Delehanty,San Mateo,adelehanty@apr.com,650.375.1111,Y,AGENT
+cdelleck@apr.com,,Carol,Dellecker,Carmel,cdelleck@apr.com,831.620.6132,Y,AGENT
+bdemore@apr.com,,Bobbi,DeMore,Corte Madera - Central Marin,bdemore@apr.com,415. 496.2935,Y,AGENT
+cderouen@apr.com,,Cynthia,DeRouen,Tiburon / Belvedere,cderouen@apr.com,415.846.9394,Y,AGENT
+cdesmond@apr.com,,Cecilia,Desmond,Saratoga,cdesmond@apr.com,408.741.1111,Y,AGENT
+cdetar@apr.com,,Celia,DeTar,Los Gatos,cdetar@apr.com,408.931.0773,Y,AGENT
+mdevivo@apr.com,,Megan,DeVivo,Los Gatos,mdevivo@apr.com,831.207.6060,Y,AGENT
+tdexel@apr.com,,Tom,Dexel,Carmel,tdexel@apr.com,831.620.6151,Y,AGENT
+rdhillon@apr.com,,Rita,Dhillon,Danville / Blackhawk,rdhillon@apr.com,925.791.2588,Y,AGENT
+tdhillon@apr.com,,Tim,Dhillon,Danville / Blackhawk,tdhillon@apr.com,(925) 570-0418,Y,AGENT
+sdickey@apr.com,,Sue,Dickey,San Mateo,sdickey@apr.com,650.888.4993,Y,AGENT
+rdielman@apr.com,,Robin,Dielman,Los Gatos,rdielman@apr.com,408.807.1357,Y,AGENT
+pdimacali@apr.com,,Pacita,Dimacali,Alameda,pdimacali@apr.com,510.809.1111,Y,AGENT
+edini@apr.com,,Elizabeth,Dini,Carmel,edini@apr.com,831.620-6133,Y,AGENT
+jdiodati@apr.com,,Jeff,Diodati,San Mateo,jdiodati@apr.com,650.931.2853,Y,AGENT
+sjamison@apr.com,,Stacey,Diodati-Jamison,Menlo Park,sjamison@apr.com,650.867.7976,Y,AGENT
+ddocktor@apr.com,,Desiree,Docktor,Palo Alto,ddocktor@apr.com,650.543.1067,Y,AGENT
+mdong@apr.com,,Michael,Dong,Pleasanton / Livermore Valley,mdong@apr.com,650.283.8298,Y,AGENT
+ddorombozi@apr.com,,Dori,Dorombozi,Los Altos,ddorombozi@apr.com,650.996.7177,Y,AGENT
+mdorst@apr.com,,Marybeth,Dorst,Menlo Park,mdorst@apr.com,650.543.1227,Y,AGENT
+bdougherty@apr.com,,Bruce,Dougherty,Los Altos,bdougherty@apr.com,650.388.2703,Y,AGENT
+cdoyle@apr.com,,Cherie,Doyle,Pleasanton / Livermore Valley,cdoyle@apr.com,925.580.2552,Y,AGENT
+kdoyle@apr.com,,Kaarin,Doyle,Pleasanton / Livermore Valley,kdoyle@apr.com,925.518.6346,Y,AGENT
+mdrljaca@apr.com,,Michael,Drljaca,Los Gatos,mdrljaca@apr.com,408.930.9922,Y,AGENT
+steve@stevedroz.com,,Steve,Droz,San Mateo,steve@stevedroz.com,650-255.3651,Y,AGENT
+ddrummond@apr.com,,Dante,Drummond,Palo Alto,ddrummond@apr.com,650.400.9390,Y,AGENT
+aduarte@apr.com,,April,Duarte,Pleasanton / Livermore Valley,aduarte@apr.com,925.519.4497,Y,AGENT
+cduarte@apr.com,,Christopher,Duarte,Pleasanton / Livermore Valley,cduarte@apr.com,925.699.1969,Y,AGENT
+geoff@apr.com,,Geoff,Dugmore,Novato,geoff@apr.com,415.892.9155,Y,AGENT
+pduncan@apr.com,,Peter,Duncan,Corte Madera - Central Marin,pduncan@apr.com,415.328.1983,Y,AGENT
+adunckel@apr.com,,Alan,Dunckel,Palo Alto,adunckel@apr.com,650.400.0327,Y,AGENT
+ndurante@apr.com,,Nina,Durante,Saratoga,ndurante@apr.com,408.741.1111,Y,AGENT
+ddwyer@apr.com,,Diane,Dwyer,Burlingame,ddwyer@apr.com,650.375.1111,Y,AGENT
+pdwyer@apr.com,,Patty,Dwyer,Burlingame,pdwyer@apr.com,650.931.2035,Y,AGENT
+jearl@apr.com,,Jack,Earl,Los Altos,jearl@apr.com,650.209.1598,Y,AGENT
+rutheddy@apr.com,,Ruth,Eddy,Orinda,rutheddy@apr.com,925.258.1111,Y,AGENT
+nelkhatib@apr.com,,Nadia,Elkhatib,Burlingame,nelkhatib@apr.com,650.906.1563,Y,AGENT
+melliott@apr.com,,Mary,Elliott,San Mateo,melliott@apr.com,650.931.2812,Y,AGENT
+ajain@apr.com,,Anjali Jain,Ellis,Burlingame,ajain@apr.com,650.425.0352,Y,AGENT
+annellison@aol.com,,Ann,Ellison,Burlingame,annellison@aol.com,650-931-2034,Y,AGENT
+telste@apr.com,,Trish,Elste,Walnut Creek,telste@apr.com,925.322.7509,Y,AGENT
+ghodsi@apr.com,,Ghodsi,Emambakhsh,Los Altos,ghodsi@apr.com,650.823.1799,Y,AGENT
+ednaeng@apr.com,,Edna,Eng,Saratoga,ednaeng@apr.com,408.605.5528,Y,AGENT
+Michelle@MichelleEnglert.com,,Michelle,Englert,San Francisco,Michelle@MichelleEnglert.com,650.387.4405,Y,AGENT
+senzmann@apr.com,,Susan,Enzmann,Los Altos,senzmann@apr.com,650.209.1564,Y,AGENT
+jerion@apr.com,,Jan,Erion,Alameda,jerion@apr.com,510.809.1111,Y,AGENT
+gerneta@apr.com,,Galina,Erneta,San Mateo,gerneta@apr.com,650.740.8353,Y,AGENT
+mernst@apr.com,,Maryann,Ernst,Burlingame,mernst@apr.com,415.361.9921,Y,AGENT
+krystale@apr.com,,Krystal,Eshagh,Saratoga,krystale@apr.com,408.234.1963,Y,AGENT
+lesposito@apr.com,,Linda,Esposito,Corte Madera - Central Marin,lesposito@apr.com,415.785.8324,Y,AGENT
+nessabhoy@apr.com,,Nadr,Essabhoy,Palo Alto,nessabhoy@apr.com,650.543.1124,Y,AGENT
+jestupinian@apr.com,,Joy,Estupinian,San Mateo,jestupinian@apr.com,650.548.1111,Y,AGENT
+paiello@apr.com,,Peter,F. Aiello,San Mateo,paiello@apr.com,650.931.2830,Y,OFFICE ADMINISTRATOR
+wfaber@apr.com,,Bill,Faber,Carmel,wfaber@apr.com,831.915.3518,Y,AGENT
+afaghiri@apr.com,,Alireza,Faghiri,Menlo Park,afaghiri@apr.com,650.543.1193,Y,AGENT
+lfahrer@apr.com,,Lauren,Fahrer,Walnut Creek,lfahrer@apr.com,415.341.5708,Y,AGENT
+wfalk@apr.com,,Willa,Falk,Menlo Park,wfalk@apr.com,650.207.1093,Y,AGENT
+tfanucch@apr.com,,Tom,Fanucchi,San Mateo,tfanucch@apr.com,650.931.2814,Y,AGENT
+dfaught@apr.com,,Don,Faught,Pleasanton / Livermore Valley,dfaught@apr.com,925.872.7070,Y,OFFICE ADMINISTRATOR
+Leslie@apr.com,,Leslie,Faught,Pleasanton / Livermore Valley,Leslie@apr.com,925.784.7979,Y,AGENT
+judyf@apr.com,,Judy,Faulhaber,Los Altos,judyf@apr.com,650.704.1177,Y,AGENT
+dfei@apr.com,,Delia,Fei,Palo Alto,dfei@apr.com,650.543.1025,Y,AGENT
+jfelder@apr.com,,Josh,Felder,Palo Alto,jfelder@apr.com,650-400-7142,Y,AGENT
+mary@maryficklin.com,,Mary,Ficklin,San Mateo,mary@maryficklin.com,650.454.0112,Y,AGENT
+hfinkle@apr.com,,Harry,Finkle,Carmel,hfinkle@apr.com,831.622.1040,Y,AGENT
+mfinkle@apr.com,,Maria,Finkle,Carmel,mfinkle@apr.com,831.277.6728,Y,AGENT
+bfinn@apr.com,,Bill,Finnegan,Orinda,bfinn@apr.com,925.438.2012,Y,AGENT
+bfinnegan@apr.com,,Billy,Finnegan,Orinda,bfinnegan@apr.com,925.258.1111,Y,AGENT
+sfleming@apr.com,,Sheryl,Fleming,Burlingame,sfleming@apr.com,650.931.2851,Y,AGENT
+mfliegauf@apr.com,,Margritha,Fliegauf,Mill Valley,mfliegauf@apr.com,415.888.8403,Y,AGENT
+rflores@apr.com,,Ricky,Flores,Woodside,rflores@apr.com,(408) 565-5626,Y,AGENT
+jflouty@apr.com,,Julie,Flouty,Burlingame,jflouty@apr.com,650.504.6900,Y,AGENT
+cfloyd@apr.com,,Charles,Floyd,San Mateo,cfloyd@apr.com,650.548.1111,Y,AGENT
+jfong@apr.com,,Joe,Fong,Los Gatos,jfong@apr.com,831.888.7878,Y,AGENT
+cmfoo@apr.com,,C.M.,Foo,San Francisco - Noe Valley,cmfoo@apr.com,cmfoo@apr.com,Y,AGENT
+Quefoor@apr.com,,Que,Foor,San Mateo,Quefoor@apr.com,650.931.2818,Y,AGENT
+lforward@apr.com,,Lisa,Forward,Half Moon Bay,lforward@apr.com,650.479.1103,Y,AGENT
+bfouche@apr.com,,Bruce,Fouche,Pleasanton / Livermore Valley,bfouche@apr.com,925.621.4099,Y,AGENT
+kfoxgrover@apr.com,,Kristi,Foxgrover,Los Altos,kfoxgrover@apr.com,650.941.1111,Y,AGENT
+Joanne@BayAreaRE.com,,Joanne,Fraser,Los Altos,Joanne@BayAreaRE.com,650.796.9888,Y,AGENT
+msafraser@apr.com,,Matthew,Fraser,Mill Valley,msafraser@apr.com,628.241.5084,Y,AGENT
+efreeman@apr.com,,Estela,Freeman,Menlo Park,efreeman@apr.com,650.462.1111,Y,AGENT
+lfretto@apr.com,,Larry,Fretto,Palo Alto,lfretto@apr.com,415.516.0853,Y,AGENT
+lfrias@apr.com,,Lupe,Frias,Los Gatos,lfrias@apr.com,408.981.4675,Y,AGENT
+efry@apr.com,,Elaine,Fry,San Francisco,efry@apr.com,415.923.9700,Y,AGENT
+lilyfu@apr.com,,Lily,Fu,Saratoga,lilyfu@apr.com,408.666.6964,Y,AGENT
+lfulford@apr.com,,Lance,Fulford,San Francisco,lfulford@apr.com,415.923.9700,Y,AGENT
+sfurstman@apr.com,,Susan,Furstman,Woodside,sfurstman@apr.com,650.529.1111,Y,AGENT
+linda@apr.com,,Linda,Futral,Pleasanton / Livermore Valley,linda@apr.com,925.980.3561,Y,AGENT
+rgable@apr.com,,Ron,Gable,Menlo Park,rgable@apr.com,650.462.1111,Y,OFFICE ADMINISTRATOR
+kgaitan@apr.com,,Karen,Gaitan,Relocation,kgaitan@apr.com,800.445.1111,Y,AGENT
+mgalante@apr.com,,Margaret,Galante,Burlingame,mgalante@apr.com,650.931.2053,Y,AGENT
+agalatolo@apr.com,,Angie,Galatolo,Los Altos,agalatolo@apr.com,650.209.1555,Y,AGENT
+agalindo@apr.com,,Antoinette,Galindo,Burlingame,agalindo@apr.com,650.302.7411,Y,AGENT
+egalles@apr.com,,Erica,Galles,Menlo Park,egalles@apr.com,650.387.6105,Y,AGENT
+michael@apr.com,,Michael,Galli,Los Altos,michael@apr.com,650.248.3076,Y,AGENT
+dangamache@apr.com,,Dan,Gamache Jr.,Pleasanton / Livermore Valley,dangamache@apr.com,925.918.0332,Y,AGENT
+darcyfgamble@gmail.com,,Darcy,Gamble,Menlo Park,darcyfgamble@gmail.com,650.380.9415,Y,AGENT
+margaret@apr.com,,Margaret,Garber-Teeter,Walnut Creek,margaret@apr.com,925.998.6046,Y,AGENT
+sgarcia@apr.com,,Suzanne,Garcia,San Mateo,sgarcia@apr.com,650.924.5772,Y,AGENT
+dgardner@apr.com,,Darlene,Gardner,Alameda,dgardner@apr.com,510.809.1111,Y,AGENT
+dgarrido@apr.com,,Desiree,Garrido,Palo Alto,dgarrido@apr.com,650.885.0078,Y,AGENT
+pgarvic@apr.com,,Pandy,Garvic,Burlingame,pgarvic@apr.com,650.888.9586,Y,AGENT
+kgaskins@apr.com,,Kat,Gaskins,Pleasanton / Livermore Valley,kgaskins@apr.com,925.621.4050,Y,AGENT
+kgates@apr.com,,Kimberly,Gates,Oakland Hills - Montclair Village,kgates@apr.com,510.421.0488,Y,AGENT
+sgavande@apr.com,,Supriya,Gavande,Palo Alto,sgavande@apr.com,650.556.3890,Y,AGENT
+pgee@apr.com,,Paula,Gee,San Jose - Almaden Valley,pgee@apr.com,(408) 219-2450,Y,AGENT
+bgeller@apr.com,,Becky,Geller,Burlingame,bgeller@apr.com,650.931.2950,Y,AGENT
+dgenet@apr.com,,Deborah,Genet,San Francisco,dgenet@apr.com,415.513.9889,Y,AGENT
+sgennaro@apr.com,,Sheila,Gennaro,Los Gatos,sgennaro@apr.com,408.394.3960,Y,AGENT
+jgerards@apr.com,,Jean,Gerards,Relocation,jgerards@apr.com,866.468.0111,Y,AGENT
+jgeritz@apr.com,,John,Geritz,Los Gatos,jgeritz@apr.com,408.358.1111,Y,AGENT
+bgerlach@apr.com,,Bob,Gerlach,Palo Alto,bgerlach@apr.com,650.543.1001,Y,OFFICE ADMINISTRATOR
+p.ghiglieri@yahoo.com,,Paul,Ghiglieri,San Francisco,p.ghiglieri@yahoo.com,415.923.9700,Y,AGENT
+jgibson@apr.com,,Jayne ,Gibson,Los Gatos,jgibson@apr.com,408.358.1111,Y,AGENT
+cgigas@apr.com,,Christiane,Gigas,San Francisco,cgigas@apr.com,415.814.8299,Y,AGENT
+amazzon@apr.com,,Adela,Gildo-Mazzon,Palo Alto,amazzon@apr.com,650.543.1053,Y,AGENT
+patgill@apr.com,,Pat,Gill,San Mateo,patgill@apr.com,650.548.1111,Y,AGENT
+mgilles@apr.com,,Mary,Gilles,Menlo Park,mgilles@apr.com,650.814.0858,Y,AGENT
+cgilliland@apr.com,,Christine,Gilliland,San Mateo,cgilliland@apr.com,650.683.0012,Y,AGENT
+christy@apr.com,,Christy,Giuliacci,Palo Alto,christy@apr.com,650.380.5989,Y,AGENT
+cgivens@apr.com,,Carolyn,Givens,Saratoga,cgivens@apr.com,408.741.1111,Y,AGENT
+tglidden@apr.com,,Tom,Glidden,Carmel,tglidden@apr.com,831.622.1040,Y,AGENT
+kglidewell@apr.com,,Ken,Glidewell Jr.,Menlo Park,kglidewell@apr.com,650.543.1148,Y,AGENT
+donna@lifestylemarin.com,,Donna,Goldman,Ross,donna@lifestylemarin.com,415.458.3500,Y,AGENT
+cgonzalez@apr.com,,Cristina,Gonzalez,San Jose - Almaden Valley,cgonzalez@apr.com,408.754.1500,Y,AGENT
+sonalcg@apr.com,,Sonal Chopra ,Gopalla,Burlingame,sonalcg@apr.com,650.534.4822,Y,AGENT
+sgordon@apr.com,,Steven,Gordon,Los Gatos,sgordon@apr.com,408.857.2643,Y,AGENT
+mgorelick@apr.com,,Michael,Gorelick,Oakland Hills - Montclair Village,mgorelick@apr.com,702.286.2272,Y,AGENT
+lindag@apr.com,,Linda,Goveia,Pleasanton / Livermore Valley,lindag@apr.com,925.989.9811,Y,AGENT
+rgowdy@apr.com,,Ryan,Gowdy,Los Altos,rgowdy@apr.com,408.309.8660,Y,AGENT
+agran@apr.com,,Aidole,Gran,Walnut Creek,agran@apr.com,925.948.5584,Y,AGENT
+linda@grangergrouptahoe.com,,Linda,Granger,Lake Tahoe,linda@grangergrouptahoe.com,530.581.6927,Y,OFFICE ADMINISTRATOR
+cgravagno@apr.com,,Connie,Gravagno,San Mateo,cgravagno@apr.com,650.302.3715,Y,AGENT
+dgreen@apr.com,,Debi,Green,San Francisco,dgreen@apr.com,415.923.9700,Y,AGENT
+hgreen@apr.com,,Heather,Green,Los Altos,hgreen@apr.com,650.941.1111,Y,AGENT
+mgreen@apr.com,,Michelle,Green,Burlingame,mgreen@apr.com,650.280.5697,Y,AGENT
+sgreen@apr.com,,Scott,Green,Saratoga,sgreen@apr.com,408.761.2092,Y,AGENT
+jaygreenberg@apr.com,,Jay,Greenberg,APR Investment Group,jaygreenberg@apr.com,415.593.8615,Y,AGENT
+agreenman@apr.com,,Andrew,Greenman,Burlingame,agreenman@apr.com,650.375.1111,Y,AGENT
+lgreenman@apr.com,,Lehua,Greenman,Woodside,lgreenman@apr.com,650.245.1845,Y,AGENT
+judson@judsongregory.com,,Judson,Gregory,San Francisco - Noe Valley,judson@judsongregory.com,415.722.5515,Y,AGENT
+dgrewal@apr.com,,Debbie,Grewal,Burlingame,dgrewal@apr.com,650.931.2044,Y,AGENT
+mgriffin@apr.com,,Marlaine,Griffin,Saratoga,mgriffin@apr.com,408.741.1111,Y,AGENT
+quetzal@apr.com,,Quetzal,Grimm,Woodside,quetzal@apr.com,650.434.4330,Y,OFFICE ADMINISTRATOR
+pgross@apr.com,,Patricia,Gross,Corte Madera - Central Marin,pgross@apr.com,415.755.1111,Y,AGENT
+mgrossman@apr.com,,Marti,Grossman,Corte Madera - Central Marin,mgrossman@apr.com,415.250.3446,Y,AGENT
+tgrossman@apr.com,,Tyler,Grossman,Corte Madera - Central Marin,tgrossman@apr.com,415.496.9431,Y,AGENT
+rgrunert@apr.com,,Robert,Grunert,Oakland Hills - Montclair Village,rgrunert@apr.com,510.681.3414,Y,AGENT
+jguardino@apr.com,,Janet,Guardino,Morgan Hill,jguardino@apr.com,408.779.4400,Y,AGENT
+dguercio@apr.com,,David,Guercio,Saratoga,dguercio@apr.com,408.529.4069,Y,AGENT
+bguilard@apr.com,,Benjamin,Guilardi,Los Gatos,bguilard@apr.com,408.357.7910,Y,AGENT
+hguillory@apr.com,,Hollie,Guillory,Walnut Creek,hguillory@apr.com,925.382.8729,Y,AGENT
+kgunn@apr.com,,Karen,Gunn,Woodside,kgunn@apr.com,650.888.9457,Y,AGENT
+JINGJING@APR.COM,,Jing-Jing,Guo,Palo Alto,JINGJING@APR.COM,650.223.5988,Y,AGENT
+mgutierrez@apr.com,,Melva,Gutierrez,Pleasanton / Livermore Valley,mgutierrez@apr.com,925 699-9633,Y,AGENT
+jhabluetzel@apr.com,,Janice,Habluetzel,Pleasanton / Livermore Valley,jhabluetzel@apr.com,925.699.3122,Y,AGENT
+shiloh@apr.com,,Shiloh,Hagen,Danville / Blackhawk,shiloh@apr.com,925.791.2536,Y,AGENT
+ehalenbeck@apr.com,,Edie,Halenbeck,Saratoga,ehalenbeck@apr.com,650.996.8466,Y,AGENT
+johannah@apr.com,,Johanna,Hall,Alameda,johannah@apr.com,510.809.1111,Y,AGENT
+shall@apr.com,,Stacey,Hall,Los Gatos,shall@apr.com,408.357.8693,Y,AGENT
+thamadani@apr.com,,Takami,Hamadani,Los Gatos,thamadani@apr.com,408.357.8680,Y,AGENT
+ghamer@apr.com,,Greg,Hamer,Carmel,ghamer@apr.com,831.224.3694,Y,AGENT
+jhamilton@apr.com,,Jim,Hamilton,Los Gatos,jhamilton@apr.com,408-888-4389,Y,AGENT
+dhammer@apr.com,,Diana,Hammer,Ross,dhammer@apr.com,415.755.1111,Y,AGENT
+khammill@apr.com,,Kathi,Hammill,Los Gatos,khammill@apr.com,408.497.1175,Y,AGENT
+mhammill@apr.com,,Mike,Hammill,Los Gatos,mhammill@apr.com,408.357.8621,Y,AGENT
+mhammons@apr.com,,Michelle,Hammons,Carmel,mhammons@apr.com,831.915.0653,Y,AGENT
+shan@apr.com,,Sally,Han,Oakland Hills - Montclair Village,shan@apr.com,510.610.5009,Y,OFFICE ADMINISTRATOR
+lhanchett@apr.com,,Lynn,Hanchett,Saratoga,lhanchett@apr.com,408.741.1111,Y,AGENT
+bhansen@apr.com,,Brett,Hansen,Pleasanton / Livermore Valley,bhansen@apr.com,925.980.4925,Y,AGENT
+hhansen@apr.com,,Heather,Hansen,Burlingame,hhansen@apr.com,650.931.2071,Y,AGENT
+rhansen@apr.com,,Rhonda,Hansen,Los Gatos,rhansen@apr.com,408.357.8652,Y,AGENT
+jhansen@apr.com,,Julie,Hansen-Orvis,Pleasanton / Livermore Valley,jhansen@apr.com,925.980.4925,Y,AGENT
+aharber@apr.com,,Angela,Harber,Burlingame,aharber@apr.com,209.607.4569,Y,AGENT
+jharber@apr.com,,Jeff,Harber,Burlingame,jharber@apr.com,650.740.2418,Y,AGENT
+mharber@apr.com,,Maureen,Harber,Burlingame,mharber@apr.com,650.931.2010,Y,AGENT
+rharber@apr.com,,Rich,Harber,Burlingame,rharber@apr.com,650.931.2011,Y,AGENT
+valerieharder@apr.com,,Valerie,Harder,San Jose - Almaden Valley,valerieharder@apr.com,650-291-2638,Y,AGENT
+mharkov@apr.com,,Michele,Harkov,Palo Alto,mharkov@apr.com,650.543.1011,Y,AGENT
+thartford@apr.com,,Teresa,Hartford,Pleasanton / Livermore Valley,thartford@apr.com,925.344.9983,Y,AGENT
+shartsell@apr.com,,Stefani,Hartsell,Menlo Park,shartsell@apr.com,650.438.3334,Y,AGENT
+chata@apr.com,,Cheryl,Hata,Orinda,chata@apr.com,510.912.5882,Y,AGENT
+jhaugh@apr.com,,Jackie,Haugh,Los Altos,jhaugh@apr.com,415.990.0539,Y,AGENT
+ghawk@apr.com,,Gina,Hawk,Corte Madera - Central Marin,ghawk@apr.com,415.497.4967,Y,AGENT
+chawkins@apr.com,,Cecile,Hawkins,Corte Madera - Central Marin,chawkins@apr.com,415.385.5202,Y,AGENT
+jhawkins@apr.com,,James,Hawkins,Walnut Creek,jhawkins@apr.com,925-997-2452,Y,AGENT
+kirk@grangergrouptahoe.com,,Kirk,Hawkyard,Lake Tahoe,kirk@grangergrouptahoe.com,530-448-3850,Y,AGENT
+nhayes@apr.com,,Noelle,Hayes,Carmel,nhayes@apr.com,831.402.5528,Y,AGENT
+rhealy@apr.com,,Ronda,Healy,Los Gatos,rhealy@apr.com,408.357.7305,Y,AGENT
+mheilman@apr.com,,Maggie Garside,Heilman,Menlo Park,mheilman@apr.com,650.888.9315,Y,AGENT
+dhenderson@apr.com,,David,Henderson,Danville / Blackhawk,dhenderson@apr.com,925.895.3761,Y,AGENT
+chendrickson@apr.com,,Colleen,Hendrickson,Walnut Creek,chendrickson@apr.com,925.482.6121,Y,AGENT
+ghenneberry@apr.com,,Gail,Henneberry,Pleasanton / Livermore Valley,ghenneberry@apr.com,925.980.1900,Y,AGENT
+gherbert@apr.com,,Gary,Herbert,Los Altos,gherbert@apr.com,650-209-1538,Y,AGENT
+khering@apr.com,,Kimberly,Hering,Corte Madera - Central Marin,khering@apr.com,415.755.1111,Y,AGENT
+therlihy@apr.com,,Tom,Herlihy,Carmel,therlihy@apr.com,831.620.6105,Y,AGENT
+hherz@apr.com,,Heidi,Herz,Los Gatos,hherz@apr.com,408.205.9625,Y,AGENT
+bherzog@apr.com,,Bob,Herzog,Palo Alto,bherzog@apr.com,650.543.1010,Y,AGENT
+shewitt@apr.com,,Stephanie,Hewitt,Palo Alto,shewitt@apr.com,650.619.7885,Y,AGENT
+ehighley@apr.com,,Emilie,Highley,Los Gatos,ehighley@apr.com,408.357.8622,Y,AGENT
+mike@mikehiguchi.com,,Mike,Higuchi,Los Altos,mike@mikehiguchi.com,,Y,AGENT
+dhill@apr.com,,Dee,Hill,San Mateo,dhill@apr.com,650.548.1111,Y,AGENT
+mhirner@apr.com,,Mike,Hirner,Burlingame,mhirner@apr.com,415.722.4862,Y,AGENT
+nhitchcock@apr.com,,Nathan,Hitchcock,Danville / Blackhawk,nhitchcock@apr.com,925.397.4000,Y,AGENT
+hitchcock@apr.com,,Sherry,Hitchcock,Saratoga,hitchcock@apr.com,408.314.0678,Y,AGENT
+alho@apr.com,,Al,Ho,Burlingame,alho@apr.com,650.384.9113,Y,AGENT
+mho@apr.com,,Matilde,Ho,Burlingame,mho@apr.com,650.391.3309,Y,AGENT
+nhobson@apr.com,,Nancy,Hobson,Menlo Park,nhobson@apr.com,650.464.3284,Y,AGENT
+rhogue@apr.com,,Ray,Hogue,Palo Alto,rhogue@apr.com,(650) 964-3722,Y,AGENT
+lholden@apr.com,,Loren,Holden,San Mateo,lholden@apr.com,650.931.2823,Y,AGENT
+lhollister@apr.com,,Linda,Hollister,Half Moon Bay,lhollister@apr.com,650.479.1105,Y,AGENT
+mike@mhood.com,,Mike,Hood,San Francisco,mike@mhood.com,415-710-9976,Y,AGENT
+phorvath@apr.com,,Patrice,Horvath,Los Altos,phorvath@apr.com,650.209.1602,Y,AGENT
+rhowsmit@apr.com,,Rick,Howard-Smith,Palo Alto,rhowsmit@apr.com,650.888.3009,Y,AGENT
+jhowmill@apr.com,,John,Howmiller,Los Gatos,jhowmill@apr.com,408.621.5033,Y,AGENT
+choyle@apr.com,,Candi,Hoyle,Danville / Blackhawk,choyle@apr.com,925.791.2542,Y,AGENT
+johnhoyle@apr.com,,John,Hoyle,Danville / Blackhawk,johnhoyle@apr.com,925.791.2541,Y,AGENT
+choyt@apr.com,,Cinda,Hoyt,San Jose - Almaden Valley,choyt@apr.com,408.754.1574,Y,AGENT
+lilyhsu@apr.com,,Lily,Hsu,Burlingame,lilyhsu@apr.com,650.931.2088,Y,AGENT
+lhuang@apr.com,,Lina,Huang,Saratoga,lhuang@apr.com,408.741.1111 Ext. 307,Y,AGENT
+chudson@apr.com,,Cait,Hudson,Walnut Creek,chudson@apr.com,925.451.6844,Y,AGENT
+khudson@apr.com,,Katherine,Hudson,Carmel,khudson@apr.com,831.293.4878,Y,AGENT
+lhuff@apr.com,,Leigh Ann,Huff,Los Gatos,lhuff@apr.com,408.656.7922,Y,AGENT
+ghuggins@apr.com,,Gina,Huggins,Pleasanton / Livermore Valley,ghuggins@apr.com,925.583.1124,Y,AGENT
+Robert@RobertDHughes.com,,Robert D.,Hughes,San Mateo,Robert@RobertDHughes.com,650.931.2865,Y,AGENT
+fonia@apr.com,,Fonia,Humphries,Danville / Blackhawk,fonia@apr.com,925.791.2505,Y,AGENT
+dhunnicutt@apr.com,,Dan,Hunnicutt,Palo Alto,dhunnicutt@apr.com,650.704.5628,Y,AGENT
+jhunnicutt@apr.com,,Justin,Hunnicutt,Palo Alto,jhunnicutt@apr.com,650.822.3904,Y,AGENT
+ahunter@apr.com,,Anita,Hunter,Saratoga,ahunter@apr.com,408.741.1111,Y,AGENT
+fhunter@apr.com,,Francis,Hunter,Woodside,fhunter@apr.com,650.529.1111,Y,AGENT
+kichiki@apr.com,,Ken,Ichiki,Los Gatos,kichiki@apr.com,408.357.8678,Y,AGENT
+tivarson@apr.com,,Thomas,Ivarson,Pleasanton / Livermore Valley,tivarson@apr.com,925.200.3600,Y,AGENT
+cjacob@apr.com,,Charles,Jacob,Palo Alto,cjacob@apr.com,650.546.1360,Y,AGENT
+sjacob@apr.com,,Sargiz,Jacob,Los Gatos,sjacob@apr.com,408.966.4011,Y,AGENT
+sjacobus@apr.com,,Suzanne,Jacobus,Danville / Blackhawk,sjacobus@apr.com,510.507.4115,Y,AGENT
+john.james@apr.com,,John Forsyth,James,Palo Alto,john.james@apr.com,650.543.1090,Y,AGENT
+markjames@apr.com,,Mark,James,Pleasanton / Livermore Valley,markjames@apr.com,925.216.0454,Y,AGENT
+tammiejann@apr.com,,Tammie,Jann,Morgan Hill,tammiejann@apr.com,408.718.4128,Y,AGENT
+janjaramillo@apr.com,,Jan,Jaramillo,Burlingame,janjaramillo@apr.com,650.464.5738,Y,AGENT
+ketan@apr.com,,Ketan,Jashapara,Saratoga,ketan@apr.com,408-913-7735,Y,AGENT
+TheJenkinsTeam@apr.com,,John,Jenkins,Saratoga,TheJenkinsTeam@apr.com,408.823.3600,Y,AGENT
+rjepsen@apr.com,,Rebecca,Jepsen,Saratoga,rjepsen@apr.com,408.357.3990,Y,AGENT
+milanj@apr.com,,Milan,Jezdimirovic,San Francisco - SoMa,milanj@apr.com,415.933.4364,Y,AGENT
+xjiang@apr.com,,Xin,Jiang,Palo Alto,xjiang@apr.com,650.283.8379,Y,AGENT
+sophiejo@apr.com,,Sophie (Yeon Jeong),Jo,Saratoga,sophiejo@apr.com,650.918.8994,Y,AGENT
+mjoglekar@apr.com,,Meena,Joglekar,San Mateo,mjoglekar@apr.com,650.799.2555,Y,AGENT
+ljoh@apr.com,,Lee,Joh,Palo Alto,ljoh@apr.com,650-888-3265,Y,AGENT
+arlenej@apr.com,,Arlene,Johnson,Alameda,arlenej@apr.com,415.543.1131,Y,AGENT
+bjohnson@apr.com,,Barb,Johnson,San Jose - Almaden Valley,bjohnson@apr.com,408-307-9517,Y,AGENT
+bradj@apr.com,,Brad,Johnson,Saratoga,bradj@apr.com,408.234.3327,Y,AGENT
+cjohnson@apr.com,,Craig,Johnson,San Francisco,cjohnson@apr.com,415.923.9700,Y,AGENT
+djohnson@apr.com,,Deborah,Johnson,Saratoga,djohnson@apr.com,408.497.3900,Y,AGENT
+heidi@apr.com,,Heidi,Johnson,Woodside,heidi@apr.com,650.868.3714,Y,AGENT
+sjohnson@apr.com,,Stella Kwak,Johnson,Half Moon Bay,sjohnson@apr.com,650.479.1100,Y,AGENT
+mjohnston@apr.com,,Michael,Johnston,Palo Alto,mjohnston@apr.com,650. 533. 5102,Y,AGENT
+sjolley@apr.com,,Sean,Jolley,Pleasanton / Livermore Valley,sjolley@apr.com,925.621.4063,Y,AGENT
+tjones@apr.com,,Tanya,Jones,Danville / Blackhawk,tjones@apr.com,925.791.2570,Y,AGENT
+hjoshi@apr.com,,Heena,Joshi,Los Gatos,hjoshi@apr.com,408.6565939,Y,AGENT
+mjoshi@apr.com,,Megha,Joshi,San Jose - Almaden Valley,mjoshi@apr.com,408.960.9933,Y,AGENT
+sjoshi@apr.com,,Shilpa,Joshi,Saratoga,sjoshi@apr.com,(408) 966-2710,Y,AGENT
+pkaake@apr.com,,Philip,Kaake,Alameda,pkaake@apr.com,510.847.2638,Y,AGENT
+dianek@apr.com,,Diane,Kahle,Carmel,dianek@apr.com,831.236.2940,Y,AGENT
+pkalish@apr.com,,Patricia,Kalish,Palo Alto,pkalish@apr.com,650-823-4624,Y,AGENT
+nkamboj@apr.com,,Narinder,Kamboj,Los Gatos,nkamboj@apr.com,408.357.8638,Y,AGENT
+skaney@apr.com,,Susan,Kaney,Alameda,skaney@apr.com,510.366.8456,Y,AGENT
+mkarpiel@apr.com,,Marta,Karpiel,Carmel,mkarpiel@apr.com,831.620.6120,Y,AGENT
+kkatz@apr.com,,Karen,Katz,Carmel,kkatz@apr.com,831.915.8153,Y,AGENT
+skaur@apr.com,,Sharan,Kaur,Pleasanton / Livermore Valley,skaur@apr.com,510.402.9108,Y,AGENT
+bkawamoto@apr.com,,Brian,Kawamoto,Burlingame,bkawamoto@apr.com,650.759.8352,Y,AGENT
+karonkaye@apr.com,,Karon,Kaye,San Mateo,karonkaye@apr.com,650.548.1111,Y,AGENT
+mkayed@apr.com,,Mouna,Kayed,San Mateo,mkayed@apr.com,650.784.1682,Y,AGENT
+seyda@apr.com,,Seyda,Kaynak,Danville / Blackhawk,seyda@apr.com,925.699.8181,Y,AGENT
+ckeddington@apr.com,,Carolyn,Keddington (Aarts),Los Altos,ckeddington@apr.com,949.887.6419,Y,AGENT
+bkeifenheim@apr.com,,Brian,Keifenheim,Menlo Park,bkeifenheim@apr.com,650..462.1111,Y,AGENT
+skeihani@apr.com,,Sheila,Keihani,Danville / Blackhawk,skeihani@apr.com,925.963.6051,Y,AGENT
+leika@apr.com,,Leika,Kejriwal,Palo Alto,leika@apr.com,650.323.1111,Y,AGENT
+skelly@apr.com,,Susan,Kelly,Carmel,skelly@apr.com,831.324.8448,Y,AGENT
+rkemp@apr.com,,Rand,Kemp,Walnut Creek,rkemp@apr.com,541.410.8377,Y,AGENT
+ekennedy@apr.com,,Evelyn,Kennedy,Alameda,ekennedy@apr.com,510.504.5612,Y,AGENT
+hkennedy@apr.com,,Heidi,Kennedy,Palo Alto,hkennedy@apr.com,650.323.1111,Y,AGENT
+hcheng@apr.com,,Hong,Kennel,San Mateo,hcheng@apr.com,650.833.8611,Y,AGENT
+tkent@apr.com,,Therese,Kent,Carmel,tkent@apr.com,831.622.1040,Y,AGENT
+dkent@apr.com,,David,Kent CRS,Carmel,dkent@apr.com,831.238.0653,Y,AGENT
+kkermani@apr.com,,Khush,Kermanizadeh,Danville / Blackhawk,kkermani@apr.com,925.577.3422,Y,AGENT
+skhalili@apr.com,,Shadi,Khalili,Saratoga,skhalili@apr.com,408.913.7727,Y,AGENT
+cking@apr.com,,Colton,King,Pleasanton / Livermore Valley,cking@apr.com,925.980.6209,Y,AGENT
+lkking@apr.com,,Kelly,King,Pleasanton / Livermore Valley,lkking@apr.com,510.714.7231,Y,AGENT
+Susan@ThisFeelsLikeHome.com,,Susan,Kingsley,Walnut Creek,Susan@ThisFeelsLikeHome.com,(925) 381-4693,Y,AGENT
+rkirby@apr.com,,Robin,Kirby,Half Moon Bay,rkirby@apr.com,650.763.3231,Y,AGENT
+mkirkham@apr.com,,Madhuri,Kirkham,Pleasanton / Livermore Valley,mkirkham@apr.com,510.290.2949,Y,AGENT
+aklarich@apr.com,,Aimee,Klarich,Burlingame,aklarich@apr.com,650.483.3795,Y,AGENT
+eklemm@apr.com,,Elaine,Klemm,Los Altos,eklemm@apr.com,650.209.1514,Y,AGENT
+aklink@apr.com,,Andrew,Klink,San Mateo,aklink@apr.com,650.222.9999,Y,AGENT
+wklopp@apr.com,,Will,Klopp,Morgan Hill,wklopp@apr.com,408.483.2900,Y,OFFICE ADMINISTRATOR
+pknauff@apr.com,,Paul,Knauff,Walnut Creek,pknauff@apr.com,925.899.6288,Y,AGENT
+kknight@apr.com,,Kirk,Knight,Alameda,kknight@apr.com,510.390.0840,Y,AGENT
+kknutzen@apr.com,,Kristi,Knutzen,Carmel,kknutzen@apr.com,831.620.6121,Y,AGENT
+dkockos@apr.com,,Deb,Kockos,Burlingame,dkockos@apr.com,415.309.4176,Y,AGENT
+bkodweis@apr.com,,Brittany,Kodweis,Los Altos,bkodweis@apr.com,650.941.1111,Y,AGENT
+ckodweis@apr.com,,Cindi,Kodweis,Los Altos,ckodweis@apr.com,650.209.1511,Y,AGENT
+jkollenb@apr.com,,Jan,Kollenborn,Los Gatos,jkollenb@apr.com,408.357.8644,Y,AGENT
+skorn@apr.com,,Steve,Korn,Menlo Park,skorn@apr.com,650.208.5425,Y,AGENT
+jkosta@apr.com,,John,Kosta,San Francisco,jkosta@apr.com,415.923.9700,Y,AGENT
+ckosturos@apr.com,,Christine,Kosturos,Burlingame,ckosturos@apr.com,650.218.3203,Y,AGENT
+markkotch@apr.com,,Mark,Kotch,Pleasanton / Livermore Valley,markkotch@apr.com,925.989.1581,Y,AGENT
+ykotval@apr.com,,Yasmin,Kotval,Danville / Blackhawk,ykotval@apr.com,925.791.2555,Y,AGENT
+mkozak@apr.com,,Melanie,Kozak,Walnut Creek,mkozak@apr.com,925.457.0073,Y,AGENT
+rkozak@apr.com,,Ray,Kozak,Walnut Creek,rkozak@apr.com,925.330.0624,Y,AGENT
+jkruger@apr.com,,Joy,Kruger,Saratoga,jkruger@apr.com,408.741.1111,Y,AGENT
+rkucera@apr.com,,Ron,Kucera,Half Moon Bay,rkucera@apr.com,650.743.5084,Y,AGENT
+skuramoto@apr.com,,Susan,Kuramoto,Pleasanton / Livermore Valley,skuramoto@apr.com,408.316.0278,Y,AGENT
+rkurkend@apr.com,,Ronald,Kurkendall,Carmel,rkurkend@apr.com,831.620.6142,Y,OFFICE ADMINISTRATOR
+akutsenda@apr.com,,Andrew,Kutsenda,Los Gatos,akutsenda@apr.com,408.358.1111,Y,AGENT
+mkwan@apr.com,,Marina,Kwan,Los Gatos,mkwan@apr.com,408.605.6035,Y,AGENT
+jmasse@apr.com,,Jennifer,La Macchia Masse,Danville / Blackhawk,jmasse@apr.com,925.495.0088,Y,AGENT
+mlahidji@apr.com,,Mitra,Lahidji,Los Gatos,mlahidji@apr.com,408.357.8640,Y,AGENT
+blahl@apr.com,,Bob,Lahl,San Mateo,blahl@apr.com,650.573.5599,Y,AGENT
+hlakhani@apr.com,,Hema,Lakhani,Los Altos,hlakhani@apr.com,650.823.1321,Y,AGENT
+jllaminette@apr.com,,Jean-Luc,Laminette,Palo Alto,jllaminette@apr.com,650.833.9336,Y,AGENT
+Jeff@JeffLangHomes.com,,Jeff,Lang,San Mateo,Jeff@JeffLangHomes.com,650.645.1742,Y,AGENT
+dlangley@apr.com,,Diana,Langley,Palo Alto,dlangley@apr.com,650.543.1065,Y,AGENT
+ilanza@apr.com,,Isabella,Lanza,Burlingame,ilanza@apr.com,650.375.1111,Y,AGENT
+nlapena@apr.com,,Nestle,Lapena,San Francisco - SoMa,nlapena@apr.com,415.359.7247,Y,AGENT
+alash@apr.com,,Adam,Lash,San Francisco - Noe Valley,alash@apr.com,415.720.4410,Y,AGENT
+llau@apr.com,,Ling,Lau,Palo Alto,llau@apr.com,650.543.1055,Y,AGENT
+slauria@apr.com,,Shannon,Lauria,Pleasanton / Livermore Valley,slauria@apr.com,925.251.1111,Y,AGENT
+tlavigna@apr.com,,Trina,Lavigna,Ross,tlavigna@apr.com,415.755.1111,Y,AGENT
+nlavrov@apr.com,,Nick,Lavrov,Oakland Hills - Montclair Village,nlavrov@apr.com,510.339.8900,Y,AGENT
+mlawson@apr.com,,Mary,Lawson,Burlingame,mlawson@apr.com,650.888.3826,Y,AGENT
+plawton@apr.com,,Pattie,Lawton,San Francisco,plawton@apr.com,415.309.7836,Y,AGENT
+tle@apr.com,,Tiffany,Le,Los Gatos,tle@apr.com,949.630.5303,Y,AGENT
+pleary@apr.com,,Paula,Leary,Los Gatos,pleary@apr.com,408.357.8645,Y,AGENT
+tleary@apr.com,,Terence,Leary,Los Gatos,tleary@apr.com,408.358.1111,Y,AGENT
+bleavy@apr.com,,Bill,Leavy,Saratoga,bleavy@apr.com,408.741.1111,Y,AGENT
+clebo@apr.com,,Chuck,Lebo,Burlingame,clebo@apr.com,650.931.2096,Y,AGENT
+jledahl@apr.com,,John,Ledahl,Pleasanton / Livermore Valley,jledahl@apr.com,925.989.4994,Y,AGENT
+pledoux@apr.com,,Peggy,LeDoux,Burlingame,pledoux@apr.com,(650) 678-0515,Y,AGENT
+rledoux@apr.com,,Rick,LeDoux,San Mateo,rledoux@apr.com,415.531.3370,Y,OFFICE ADMINISTRATOR
+ryanledoux@apr.com,,Ryan,LeDoux,Burlingame,ryanledoux@apr.com,650-465-2969,Y,AGENT
+clee@apr.com,,Christine,Lee,Burlingame,clee@apr.com,650.303.2688,Y,AGENT
+hlee@apr.com,,Holly Barker,Lee,Sonoma,hlee@apr.com,415.987.7116,Y,AGENT
+jlee@apr.com,,Judy,Lee,Burlingame,jlee@apr.com,650.834.5833,Y,AGENT
+Soyoung@TheCusackGroup.com,,Soyoung,Lee,Alameda,Soyoung@TheCusackGroup.com,510-239-1696,Y,AGENT
+slee@apr.com,,Suh,Lee,Palo Alto,slee@apr.com,650.388.8250,Y,AGENT
+tlee@apr.com,,Teri,Lee,Palo Alto,tlee@apr.com,650.323.1111,Y,AGENT
+llegler@apr.com,,Lori,Legler,Orinda,llegler@apr.com,925.286.1244,Y,OFFICE ADMINISTRATOR
+CLenert@apr.com,,Carolyn,Lenert,Corte Madera - Central Marin,CLenert@apr.com,415.496.2951,Y,AGENT
+sleonardis@apr.com,,Steve,Leonardis,Los Gatos,sleonardis@apr.com,408.358.1111,Y,AGENT
+bleone@apr.com,,Bill,Leone,Orinda,bleone@apr.com,925.258.1111,Y,AGENT
+slessard@apr.com,,Steve,Lessard,Woodside,slessard@apr.com,650.529.1111,Y,AGENT
+blewis@apr.com,,Bill,Lewis,Los Altos,blewis@apr.com,650.209.1542,Y,OFFICE ADMINISTRATOR
+llewis@apr.com,,Linda,Lewis,Walnut Creek,llewis@apr.com,925.627.3096,Y,AGENT
+cli@apr.com,,Carol,Li,Palo Alto,cli@apr.com,650.281.8368,Y,AGENT
+klirussell@apr.com,,Katherine,Li-Russell,Danville / Blackhawk,klirussell@apr.com,925.791.2632,Y,AGENT
+cliebsch@apr.com,,Cindy,Liebsch,Menlo Park - Downtown,cliebsch@apr.com,650.591.7473,Y,AGENT
+mliffmann@apr.com,,Michael,Liffmann,Burlingame,mliffmann@apr.com,650.307.5100,Y,AGENT
+kligeti@apr.com,,Kiersten,Ligeti,Los Altos,kligeti@apr.com,650.766.8319,Y,AGENT
+bettylin@apr.com,,Betty,Lin,Saratoga,bettylin@apr.com,408.741.1111,Y,AGENT
+clin@apr.com,,Carol,Lin,Palo Alto,clin@apr.com,650.323.1111,Y,AGENT
+clairel@apr.com,,Claire,Lin,Burlingame,clairel@apr.com,510.859.5220,Y,AGENT
+pattylin@apr.com,,Patty,Lin,Danville / Blackhawk,pattylin@apr.com,925.200.5301,Y,AGENT
+plin@apr.com,,Ping,Lin,San Mateo,plin@apr.com,650.548.1111,Y,AGENT
+tlin@apr.com,,Ta-Chun,Lin,Menlo Park,tlin@apr.com,650.678.7409,Y,AGENT
+clinton@apr.com,,Connie,Linton,Menlo Park,clinton@apr.com,650.400.4873,Y,AGENT
+izabella@apr.com,,Izabella,Lipetski,Pleasanton / Livermore Valley,izabella@apr.com,510.506.2072,Y,AGENT
+clittlefield@apr.com,,Cathy,Littlefield,Burlingame,clittlefield@apr.com,650.931.2944,Y,AGENT
+dliu@apr.com,,Dorothy,Liu,Los Altos,dliu@apr.com,650.209.1501,Y,AGENT
+frankliu@apr.com,,Frank,Liu,Saratoga,frankliu@apr.com,408.858.0328,Y,AGENT
+lliu@apr.com,,Xihe,Liu,San Jose - Almaden Valley,lliu@apr.com,408.221.6457,Y,AGENT
+llo@apr.com,,Laura 羅蘭,Lo,Danville / Blackhawk,llo@apr.com,415-758-1689,Y,AGENT
+vlo@apr.com,,Valerie,Lo,Palo Alto,vlo@apr.com,650.543.1042,Y,AGENT
+mlockwood@apr.com,,Margot,Lockwood,Woodside,mlockwood@apr.com,650.529.1111 x734,Y,AGENT
+blofland@apr.com,,Blaise,Lofland,Pleasanton / Livermore Valley,blofland@apr.com,925.846.6500,Y,AGENT
+virajain@apr.com,,Vira,Lokhande,Saratoga,virajain@apr.com,408.931.3958,Y,AGENT
+amlomano@gmail.com,,Andrew,Lomano,San Mateo,amlomano@gmail.com,650.346.0900,Y,AGENT
+rlombardi@apr.com,,Ray,Lombardi,Burlingame,rlombardi@apr.com,650.931.2058,Y,AGENT
+llomond@apr.com,,Leslie,Lomond,Orinda,llomond@apr.com,925.438.2028,Y,AGENT
+glontoc@apr.com,,Gloria,Lontoc,Pleasanton / Livermore Valley,glontoc@apr.com,510.913.1100,Y,AGENT
+alopez@apr.com,,Alba M.,Lopez,San Mateo,alopez@apr.com,650.692.0166,Y,AGENT
+mlore@apr.com,,Marie,Lore,Saratoga,mlore@apr.com,408.741.1111,Y,AGENT
+wloren@apr.com,,Wendy,Loren,Carmel,wloren@apr.com,831.915.8292,Y,AGENT
+alorenz@apr.com,,Ann,Lorenzano,Morgan Hill,alorenz@apr.com,408.981.7607,Y,AGENT
+jlovell@apr.com,,Jenora,Lovell,Los Gatos,jlovell@apr.com,408.357.8672,Y,AGENT
+SLOVETT@APR.COM,,Sara,Lovett,Pleasanton / Livermore Valley,SLOVETT@APR.COM,925.518.8177,Y,AGENT
+alowe@apr.com,,Anya,Lowe,Saratoga,alowe@apr.com,415-816-2600,Y,AGENT
+blowland@apr.com,,Bev,Lowland,Saratoga,blowland@apr.com,408.309.6662,Y,AGENT
+aluce@apr.com,,Ali,Luce,Oakland Hills - Montclair Village,aluce@apr.com,510.339.8900,Y,AGENT
+cluckenbach@apr.com,,Carol,Luckenbach,San Francisco,cluckenbach@apr.com,415.923.9700,Y,AGENT
+tludwig@apr.com,,Toni,Ludwig,Saratoga,tludwig@apr.com,408.741.1111,Y,AGENT
+jflue@apr.com,,J.F.,Lue,Los Gatos,jflue@apr.com,408.357.8776,Y,AGENT
+jluisi@apr.com,,Jo Ann,Luisi,Pleasanton / Livermore Valley,jluisi@apr.com,925.583.1106,Y,AGENT
+cindyl@apr.com,,Cindy,Lunk,Los Altos,cindyl@apr.com,650.941.1111 x 410,Y,AGENT
+jma@apr.com,,Jing,Ma,San Jose - Almaden Valley,jma@apr.com,408.754.1500,Y,AGENT
+cassiemaas@gmail.com,,Cassandra,Maas,Saratoga,cassiemaas@gmail.com,408.472.7988,Y,AGENT
+rich@getrichandbehappy.com,,Rich and Leslie,Macario,Half Moon Bay,rich@getrichandbehappy.com,650.656.7909,Y,AGENT
+nicole@nicolecornejo.com,,Nicole,Machado-Cornejo,San Mateo,nicole@nicolecornejo.com,650.645.1755,Y,AGENT
+scottm@apr.com,,Scott,MacIntyre,Walnut Creek,scottm@apr.com,925.934.1111,Y,AGENT
+dmadden@apr.com,,Donna,Madden,Danville / Blackhawk,dmadden@apr.com,925.200.3714,Y,AGENT
+tmaddox@apr.com,,Tracy,Maddox,Oakland Hills - Montclair Village,tmaddox@apr.com,510.339.8900,Y,AGENT
+clarencem@apr.com,,Clarence,Madrilejos,Saratoga,clarencem@apr.com,408.390.5819,Y,AGENT
+mmaglioc@apr.com,,Marc,Magliocco,Los Gatos,mmaglioc@apr.com,408.314.2256,Y,AGENT
+kirk@homesbykirk.com,,Kirk,Mahncke,Los Altos,kirk@homesbykirk.com,650.941.1111,Y,AGENT
+jan@majeski.com,,Jan,Majeski,San Mateo,jan@majeski.com,650.888.1230,Y,AGENT
+mneves@apr.com,,Maaike,Maks-Neves,Menlo Park,mneves@apr.com,650.361.1254,Y,AGENT
+tiffanym@apr.com,,Tiffany,Manaoat,San Mateo,tiffanym@apr.com,650.548.1111,Y,AGENT
+lmanifold@apr.com,,Lisa Marie,Manifold,Walnut Creek,lmanifold@apr.com,925.934.1111,Y,AGENT
+bmanning@apr.com,,Barbara,Manning,San Francisco,bmanning@apr.com,415.933.9106,Y,AGENT
+Karen@karenmanuel.com,,Karen,Manuel,Oakland Hills - Montclair Village,Karen@karenmanuel.com,510.332.6507,Y,AGENT
+kmarcotte@apr.com,,Kelly,Marcotte,Danville / Blackhawk,kmarcotte@apr.com,925.791.2680,Y,AGENT
+wmarioni@apr.com,,Wendy,Marioni,Los Gatos,wmarioni@apr.com,408.529.0279,Y,AGENT
+amarkoulis@apr.com,,Aris,Markoulis,Burlingame,amarkoulis@apr.com,650.931.2073,Y,AGENT
+Alan@AlanMarks.com,,Alan,Marks,Orinda,Alan@AlanMarks.com,925.899.9000,Y,AGENT
+jonathan@marksrealtygroup.com,,Jonathan,Marks,Corte Madera - Central Marin,jonathan@marksrealtygroup.com,415.307.0505,Y,AGENT
+bmarshall@apr.com,,Ben,Marshall,Orinda,bmarshall@apr.com,415.321.9206,Y,AGENT
+dmarshall@apr.com,,Dan,Marshall,San Francisco,dmarshall@apr.com,800-679-0201,Y,AGENT
+nmarshall@apr.com,,Nancy,Marshall,Orinda,nmarshall@apr.com,925.258.1111,Y,AGENT
+amartines@apr.com,,Amber,Martines,San Jose - Almaden Valley,amartines@apr.com,408.505.5580,Y,AGENT
+rene@apr.com,,Rene David,Martinez,Los Gatos,rene@apr.com,408.410.6645,Y,AGENT
+lmaslow@apr.com,,Ludmila,Maslow,Palo Alto,lmaslow@apr.com,650.543.1054,Y,AGENT
+Hengameh@apr.com,,Hengameh,Massoumi,Mill Valley,Hengameh@apr.com,415.384.1111,Y,AGENT
+lmasterman@apr.com,,Leslie,Masterman,Los Gatos,lmasterman@apr.com,408.892.1697,Y,AGENT
+amateo@apr.com,,Ashley,Mateo,Los Altos,amateo@apr.com,650.279.7475,Y,AGENT
+jmateo@apr.com,,Jerylann,Mateo,Los Altos,jmateo@apr.com,650.743.7895,Y,AGENT
+amathur@apr.com,,Astha,Mathur,Los Gatos,amathur@apr.com,408.314.3091,Y,AGENT
+cmauldin@apr.com,,Carol,Mauldin,Saratoga,cmauldin@apr.com,408.741.1111,Y,AGENT
+emaulick@apr.com,,Elizabeth Elliott,Maulick,Palo Alto,emaulick@apr.com,650.799-3130,Y,AGENT
+mmausser@apr.com,,Molly,Mausser,Burlingame,mmausser@apr.com,650.931.2050,Y,AGENT
+hmawla@apr.com,,Heather,Mawla,Half Moon Bay,hmawla@apr.com,650.479.1171,Y,AGENT
+mmaxwell@apr.com,,Malonie,Maxwell,Menlo Park,mmaxwell@apr.com,650.304.3226,Y,AGENT
+rmazaher@apr.com,,Reza,Mazaheri,Saratoga,rmazaher@apr.com,408.741.1111,Y,AGENT
+emazzoni@apr.com,,Ellen,Mazzoni,Burlingame,emazzoni@apr.com,650.931.2007,Y,AGENT
+kmcafee@apr.com,,Kim,McAfee,Pleasanton / Livermore Valley,kmcafee@apr.com,510.290.1673,Y,AGENT
+ymcavoy@apr.com,,Yvette,McAvoy,Los Gatos,ymcavoy@apr.com,408.358.1199,Y,AGENT
+amccafferty@apr.com,,Amy,McCafferty,Los Gatos,amccafferty@apr.com,408.387.3227,Y,AGENT
+mara@apr.com,,Mara,McCain,Menlo Park,mara@apr.com,650.307.8477,Y,AGENT
+kmccann@apr.com,,Kristina,McCann,Orinda,kmccann@apr.com,925.567.4328,Y,AGENT
+lmccarthy@apr.com,,Laura,McCarthy,Los Altos,lmccarthy@apr.com,650.269.1609,Y,AGENT
+lilym@apr.com,,Lily,McClanahan,Pleasanton / Livermore Valley,lilym@apr.com,925.209.9328,Y,AGENT
+emcclay@apr.com,,Esther,McClay,Pleasanton / Livermore Valley,emcclay@apr.com,925.519.5025,Y,AGENT
+amccluskey@apr.com,,Alex,McCluskey,Saratoga,amccluskey@apr.com,408.913.7906,Y,AGENT
+trishmccoy@apr.com,,Trish,McCoy,Half Moon Bay,trishmccoy@apr.com,650.245 9903,Y,AGENT
+smcelhone@apr.com,,Sharon,McElhone,Saratoga,smcelhone@apr.com,408.402.2101,Y,AGENT
+tmcguire@apr.com,,Tim,McGuire,Pleasanton / Livermore Valley,tmcguire@apr.com,925.462.7653,Y,AGENT
+smcinroy@apr.com,,Sherri,McInroy,Danville / Blackhawk,smcinroy@apr.com,925.791.2622,Y,AGENT
+amcintyre@apr.com,,Angela,McIntyre,Alameda,amcintyre@apr.com,510.377.7733,Y,AGENT
+kmckenzie@apr.com,,Kathy,McKenzie,Saratoga,kmckenzie@apr.com,408.741.1111 Ext. 721,Y,AGENT
+bmckeon@apr.com,,Bill,McKeon,Corte Madera - Central Marin,bmckeon@apr.com,415.828.6130,Y,AGENT
+smckeon@apr.com,,Sharon,McKeon,Corte Madera - Central Marin,smckeon@apr.com,415.496.2941,Y,AGENT
+amckereghan@apr.com,,Anne,McKereghan,Alameda,amckereghan@apr.com,510.407.0175,Y,AGENT
+emckibben@apr.com,,Edd,McKibben,San Mateo,emckibben@apr.com,650.645.1441,Y,AGENT
+jmckinna@apr.com,,Jane,McKinna,San Jose - Almaden Valley,jmckinna@apr.com,408.210-9741,Y,AGENT
+bmckleroy@apr.com,,Bruce,McKleroy,San Francisco,bmckleroy@apr.com,415.353.5781,Y,AGENT
+lmcphers@apr.com,,Lorraine,McPherson,Danville / Blackhawk,lmcphers@apr.com,925.876-8277,Y,AGENT
+bmcquaid@apr.com,,Bill,McQuaid,Burlingame,bmcquaid@apr.com,650.245.1605,Y,AGENT
+smeehan@apr.com,,Shealagh,Meehan,Burlingame,smeehan@apr.com,650.931.2067,Y,AGENT
+zmendenhall@apr.com,,Zan,Mendenhall,Los Gatos,zmendenhall@apr.com,408.806.3205,Y,AGENT
+kmercado@apr.com,,Krystal,Mercado,Palo Alto,kmercado@apr.com,650.520.3878,Y,AGENT
+pmercado@apr.com,,Patsy,Mercado,Danville / Blackhawk,pmercado@apr.com,925.314.1111,Y,AGENT
+lmercer@apr.com,,Lynne,Mercer,Palo Alto,lmercer@apr.com,650.906.0162,Y,AGENT
+kim@kimmercer.com,,Kim,Mercer-Claus,Morgan Hill,kim@kimmercer.com,408.710.2435,Y,AGENT
+mmerchant@apr.com,,Minoti,Merchant,Saratoga,mmerchant@apr.com,408.741.1111,Y,AGENT
+shilpa@shilpamerchant.com,,Shilpa,Merchant,Los Altos,shilpa@shilpamerchant.com,650.906.6869,Y,AGENT
+amerkert@apr.com,,Alexander,Merkert,Menlo Park,amerkert@apr.com,650.660.0033,Y,AGENT
+jmeuschke@apr.com,,Judy,Meuschke,Burlingame,jmeuschke@apr.com,650.931.2079,Y,AGENT
+gracem@apr.com,,Grace,Mgrdechian,San Francisco,gracem@apr.com,415.336.3510,Y,AGENT
+susan@smichal.com,,Susan,Michal,Burlingame,susan@smichal.com,650.387.1427,Y,AGENT
+amiglani@apr.com,,Arti,Miglani,Palo Alto,amiglani@apr.com,650.804.6942,Y,AGENT
+grush@apr.com,,Germaine,Milber-Rush,San Mateo,grush@apr.com,650.544.6743,Y,AGENT
+bmiller@apr.com,,Brenda,Miller,Saratoga,bmiller@apr.com,408.515.5161,Y,AGENT
+colinm@apr.com,,Colin,Miller,Danville / Blackhawk,colinm@apr.com,925.314.1111,Y,AGENT
+cmiller@apr.com,,Connie,Miller,Los Altos,cmiller@apr.com,650.279.7074,Y,AGENT
+kmiller@apr.com,,Karen,Miller,Alameda,kmiller@apr.com,510.388.2501,Y,AGENT
+rmiller@apr.com,,Raymond,Miller,Los Altos,rmiller@apr.com,650.209.1548,Y,AGENT
+nmills@apr.com,,Neva,Mills,Los Gatos,nmills@apr.com,(408)666-0556,Y,AGENT
+jmin@apr.com,,Jessica,Min,Saratoga,jmin@apr.com,408.741.1111,Y,AGENT
+carmenmiranda@apr.com,,Carmen,Miranda,Burlingame,carmenmiranda@apr.com,650.743.4320,Y,AGENT
+gmojica@apr.com,,Gloria,Mojica,Morgan Hill,gmojica@apr.com,408.779.4066,Y,AGENT
+emonley@apr.com,,Elizabeth,Monley,San Jose - Almaden Valley,emonley@apr.com,408.754.1626,Y,AGENT
+dmonroe@apr.com,,Dottie,Monroe,Los Altos,dmonroe@apr.com,650.208.2500,Y,AGENT
+hmonroe@apr.com,,Hayward,Monroe,Los Altos,hmonroe@apr.com,650.941.1111,Y,AGENT
+cmontalban@apr.com,,Claudia,Montalban,Los Altos,cmontalban@apr.com,650.209.1612,Y,AGENT
+George@apr.com,,George,Montanari,Los Gatos,George@apr.com,408.357.8808,Y,AGENT
+smontgelas@apr.com,,Susie,Montgelas,Burlingame,smontgelas@apr.com,650.931.2026,Y,AGENT
+mmontoya@apr.com,,Mandy,Montoya,Menlo Park,mmontoya@apr.com,650.823.8212,Y,AGENT
+rmoore@apr.com,,Roberta,Moore,San Jose - Almaden Valley,rmoore@apr.com,408.425.5611,Y,AGENT
+mmoresco@apr.com,,Mike,Moresco,Los Gatos,mmoresco@apr.com,408.357.8727,Y,AGENT
+mmorgan@apr.com,,Michelle,Morgan,Alameda,mmorgan@apr.com,510.809.1111,Y,AGENT
+vmoriconi@apr.com,,Virginia,Moriconi,Burlingame,vmoriconi@apr.com,650.931.2039,Y,AGENT
+emoritz@apr.com,,Edward,Moritz,Menlo Park,emoritz@apr.com,650.798.7996,Y,AGENT
+susiesteele@apr.com,,Susie,Morton-Steele,Pleasanton / Livermore Valley,susiesteele@apr.com,925.413.9306,Y,AGENT
+cmoscaret@apr.com,,Cindy,Moscaret,San Mateo,cmoscaret@apr.com,650.759.3356,Y,AGENT
+mmoussavian@apr.com,,Mansour,Moussavian,Los Altos,mmoussavian@apr.com,650.209.1625,Y,AGENT
+azitam@apr.com,,Azita,Mowlavi,Danville / Blackhawk,azitam@apr.com,925.209.4095,Y,AGENT
+kmoxley@apr.com,,Kris,Moxley,Pleasanton / Livermore Valley,kmoxley@apr.com,925.600.0990,Y,AGENT
+tmoxley@apr.com,,Tyler,Moxley,Pleasanton / Livermore Valley,tmoxley@apr.com,925.518.1083,Y,AGENT
+jmu@apr.com,,Jim,Mu,Menlo Park,jmu@apr.com,650.600.1001,Y,AGENT
+dmulvihi@apr.com,,Dennis,Mulvihill,Los Gatos,dmulvihi@apr.com,408.357.8796,Y,AGENT
+mmunda@apr.com,,Michele,Munda,Burlingame,mmunda@apr.com,650.207.1623,Y,AGENT
+cmunson@apr.com,,Carol,Munson,Corte Madera - Central Marin,cmunson@apr.com,415.286.0120,Y,AGENT
+jmurphy@apr.com,,James,Murphy,APR Investment Group,jmurphy@apr.com,415.814.6690,Y,AGENT
+lmurphy@apr.com,,Linda,Murphy,Menlo Park,lmurphy@apr.com,650.543.1172,Y,AGENT
+jmurtagh@apr.com,,Julia,Murtagh,Pleasanton / Livermore Valley,jmurtagh@apr.com,925.997.2411,Y,AGENT
+smurthy@apr.com,,Sandhya,Murthy,Los Gatos,smurthy@apr.com,510.304.2703,Y,AGENT
+mmusy@apr.com,,Michele,Musy,Menlo Park,mmusy@apr.com,650.462.1111,Y,AGENT
+bmyers@apr.com,,Brian,Myers,Danville / Blackhawk,bmyers@apr.com,408.892.8019,Y,AGENT
+anaimi@apr.com,,Ali,Naimi,San Jose - Almaden Valley,anaimi@apr.com,408.691.0292,Y,AGENT
+rnaman@apr.com,,Rita,Naman,Walnut Creek,rnaman@apr.com,925.322.1380,Y,AGENT
+jnappo@apr.com,,Jim,Nappo,Los Altos,jnappo@apr.com,650.209.1517,Y,AGENT
+nappoj@apr.com,,Jimmy,Nappo,Los Altos,nappoj@apr.com,650.209.1567,Y,AGENT
+dnaranche@apr.com,,Dennis,Naranche,Corte Madera - Central Marin,dnaranche@apr.com,415.496.2927,Y,AGENT
+stephanien@apr.com,,Stephanie,Nash,Woodside,stephanien@apr.com,650.995.3820,Y,AGENT
+dneca@apr.com,,David,Neca,Pleasanton / Livermore Valley,dneca@apr.com,510.506.0403,Y,AGENT
+KarenN@apr.com,,Karen,Nelsen,Oakland Hills - Montclair Village,KarenN@apr.com,510-912-8681,Y,AGENT
+tnemeth@apr.com,,Tom,Nemeth,Oakland Hills - Montclair Village,tnemeth@apr.com,510.339.8900,Y,AGENT
+cnessier@apr.com,,Chris,Nessier,Corte Madera - Central Marin,cnessier@apr.com,415.279.7948,Y,AGENT
+mnevis@apr.com,,Michael,Nevis,Los Gatos,mnevis@apr.com,408.781.0779,Y,AGENT
+cng@apr.com,,Christina,Ng,Burlingame,cng@apr.com,415.420.4828,Y,AGENT
+dnguyen@apr.com,,Duc,Nguyen,San Jose - Almaden Valley,dnguyen@apr.com,408.754.1500,Y,AGENT
+mniadj@apr.com,,Mitra,Niadj,Corte Madera - Central Marin,mniadj@apr.com,415.755.1111,Y,AGENT
+hnicholas@apr.com,,Helen,Nicholas,Oakland Hills - Montclair Village,hnicholas@apr.com,510.339.6160,Y,AGENT
+keri@kerinicholas.com,,Keri,Nicholas,Menlo Park - Downtown,keri@kerinicholas.com,650.533.7373,Y,AGENT
+mnokes@apr.com,,Maureen,Nokes,Pleasanton / Livermore Valley,mnokes@apr.com,925.621.4067,Y,AGENT
+cnoll@apr.com,,Cliff,Noll,Los Altos,cnoll@apr.com,650.823.2065,Y,AGENT
+jnoorzoy@apr.com,,Jamal,Noorzoy,Carmel,jnoorzoy@apr.com,831.277.5544,Y,AGENT
+jnorris@apr.com,,Joanne,Norris,Burlingame,jnorris@apr.com,650.400.0589,Y,AGENT
+lnorth@apr.com,,Lynn,North,Los Altos,lnorth@apr.com,650.209.1562,Y,AGENT
+dnorton@apr.com,,Deborah,Norton,San Mateo,dnorton@apr.com,650.678.1010,Y,AGENT
+mnouralipour@apr.com,,Melody,Nouralipour,Los Gatos,mnouralipour@apr.com,408.358.1111,Y,AGENT
+snutting@apr.com,,Steve,Nutting,Los Gatos,snutting@apr.com,831.566.3280,Y,AGENT
+snystrom@apr.com,,Sue,Nystrom-Walsh,Los Gatos,snystrom@apr.com,408.482.9343,Y,AGENT
+boleary@apr.com,,Bill,O'Leary,San Mateo,boleary@apr.com,650.483.4386,Y,AGENT
+roleary@apr.com,,Ronda,O'Leary,San Mateo,roleary@apr.com,650.520.8390,Y,AGENT
+jorourke@apr.com,,Joanne,O'Rourke,Saratoga,jorourke@apr.com,408.741.1111,Y,AGENT
+dogutu@apr.com,,Demphina,Ogutu,Los Gatos,dogutu@apr.com,408.357.7916,Y,AGENT
+cokuno@apr.com,,Cheryl,Okuno,Los Altos,cokuno@apr.com,650.209.1577,Y,AGENT
+doliphant@apr.com,,David,Oliphant,Half Moon Bay,doliphant@apr.com,650.712.1199,Y,AGENT
+moliverez@apr.com,,Mark,Oliverez,Los Gatos,moliverez@apr.com,408-891-4663,Y,AGENT
+tolmedo@apr.com,,Taj,Olmedo,Pleasanton / Livermore Valley,tolmedo@apr.com,925.518.5829,Y,AGENT
+lolson@apr.com,,Lori,Olson,Alameda,lolson@apr.com,510.541.0572,Y,AGENT
+michi@apr.com,,Michi,Olson,Relocation,michi@apr.com,925.935.1271,Y,OFFICE ADMINISTRATOR
+moravec@apr.com,,Michele,Oravec,Burlingame,moravec@apr.com,415.948.3500,Y,AGENT
+sornstein@apr.com,,Shari,Ornstein,Palo Alto,sornstein@apr.com,650.543.1077,Y,AGENT
+tosborne@apr.com,,Tova,Osborne,Oakland Hills - Montclair Village,tosborne@apr.com,510.305.8252,Y,AGENT
+lota@apr.com,,Helena,Ota,Pleasanton / Livermore Valley,lota@apr.com,925.251.1111,Y,AGENT
+kott@apr.com,,Kim,Ott,Pleasanton / Livermore Valley,kott@apr.com,510.220.0703,Y,AGENT
+billotto@apr.com,,Bill,Otto,Los Altos,billotto@apr.com,650.941.1111,Y,AGENT
+sos@osullivanteam.com,,Siobhan,O`Sullivan,Palo Alto,sos@osullivanteam.com,650.776.5445,Y,AGENT
+jpadilla@apr.com,,Jose,Padilla,Los Gatos,jpadilla@apr.com,408.357.8770,Y,AGENT
+ppage@apr.com,,Pam,Page,Palo Alto,ppage@apr.com,650.400.5061,Y,AGENT
+npalmer@apr.com,,Nancy,Palmer,Woodside,npalmer@apr.com,650.434.4313,Y,AGENT
+cpappas@apr.com,,Christina,Pappas,Carmel,cpappas@apr.com,831.747.7620,Y,AGENT
+apark@apr.com,,Anna,Park,Palo Alto,apark@apr.com,650.387.6159,Y,AGENT
+colleen@apr.com,,Colleen,Parker,San Mateo,colleen@apr.com,415.515.1555,Y,AGENT
+ericparker@apr.com,,Eric,Parker,San Jose - Almaden Valley,ericparker@apr.com,408.202.9000,Y,AGENT
+lparkhurst@apr.com,,Lee,Parkhurst,Tiburon / Belvedere,lparkhurst@apr.com,415.506.4138,Y,AGENT
+nparmar@apr.com,,Navneet,Parmar,Los Gatos,nparmar@apr.com,408.513.7318,Y,AGENT
+joeparsons@apr.com,,Joe,Parsons,Menlo Park,joeparsons@apr.com,650.462.1111,Y,AGENT
+pasquale@apr.com,,Gino,Pasquale,Los Gatos,pasquale@apr.com,408.357.8683,Y,AGENT
+tpaulin@apr.com,,Ted,Paulin,Palo Alto,tpaulin@apr.com,650.323.1111,Y,AGENT
+dpaulson@apr.com,,Denise Laverne,Paulson,San Francisco - SoMa,dpaulson@apr.com,415.860.0718,Y,AGENT
+mpavicich@apr.com,,Michael,Pavicich,Los Gatos,mpavicich@apr.com,(408) 721-1155,Y,AGENT
+speck@apr.com,,Suzy,Peck,Danville / Blackhawk,speck@apr.com,925.200.2988,Y,AGENT
+benedict@apr.com,,Benedict,Pedro,San Jose - Almaden Valley,benedict@apr.com,408.754.1649,Y,AGENT
+admin@gracepeirealestate.com,,Yuan Yuan,Pei,San Jose - Almaden Valley,admin@gracepeirealestate.com,408.966.1138,Y,AGENT
+apereira@apr.com,,Amanda,Pereira,Pleasanton / Livermore Valley,apereira@apr.com,925.518.2887,Y,AGENT
+drosello@apr.com,,David,Perez-Rosello,Saratoga,drosello@apr.com,408.420.6993,Y,AGENT
+Perkins@apr.com,,Laura,Perkins,Saratoga,Perkins@apr.com,408.913.7712,Y,AGENT
+dperry@apr.com,,Doug,Perry,Los Gatos,dperry@apr.com,408.913.7761,Y,AGENT
+lpeters@apr.com,,Laura,Peters,San Mateo,lpeters@apr.com,650.346.6870,Y,AGENT
+cpeterson@apr.com,,Cynthia,Peterson,Orinda,cpeterson@apr.com,415.802.4000,Y,AGENT
+dpfeffer@apr.com,,Diane,Pfeffer,Los Gatos,dpfeffer@apr.com,408.357.8768,Y,AGENT
+dphan@apr.com,,Dennis,Phan,San Mateo,dphan@apr.com,650.667.0156,Y,AGENT
+spinsky@apr.com,,Scott D.,Pinsky,Corte Madera - Central Marin,spinsky@apr.com,415/456-6163,Y,AGENT
+jpitman@apr.com,,Jackie,Pitman,Los Gatos,jpitman@apr.com,408.234.2415,Y,AGENT
+bpiuma@apr.com,,Barbara,Piuma,Woodside,bpiuma@apr.com,650.464.8593,Y,AGENT
+lou@apr.com,,Lou,Plummer,Danville / Blackhawk,lou@apr.com,925.791.2600,Y,AGENT
+apocat@apr.com,,Andre,Pocat,Saratoga,apocat@apr.com,408.913.7905,Y,AGENT
+cpolifrone@apr.com,,Carmen,Polifrone,Danville / Blackhawk,cpolifrone@apr.com,925.314.1111,Y,AGENT
+cposnanski@apr.com,,Cindy,Posnanski,Los Altos,cposnanski@apr.com,,Y,AGENT
+tpower@apr.com,,Trish,Power,San Mateo,tpower@apr.com,650.808.0972,Y,AGENT
+mpratt@apr.com,,Maura,Pratt,Burlingame,mpratt@apr.com,650.931.2059,Y,AGENT
+cprice@apr.com,,Cheryl,Price,San Mateo,cprice@apr.com,650.464.6638,Y,AGENT
+rprofeta@apr.com,,Bob,Profeta,Morgan Hill,rprofeta@apr.com,408.779.4400,Y,OFFICE ADMINISTRATOR
+jprofeta@apr.com,,Judie,Profeta,Carmel,jprofeta@apr.com,831.601.3207,Y,OFFICE ADMINISTRATOR
+robp@apr.com,,Rob,Profeta,Carmel,robp@apr.com,831.601.5212,Y,OFFICE ADMINISTRATOR
+rprovencio@apr.com,,Rena,Provencio,San Mateo,rprovencio@apr.com,650.548.1111,Y,AGENT
+candacep@apr.com,,Candace,Pucci,Danville / Blackhawk,candacep@apr.com,925.366.9555,Y,AGENT
+dpylkkanen@apr.com,,Darlene,Pylkkanen,Menlo Park,dpylkkanen@apr.com,650.543.1211,Y,AGENT
+jquattrone@apr.com,,Julie,Quattrone,Menlo Park,jquattrone@apr.com,650.543.1223,Y,AGENT
+squattrone@apr.com,,Steve,Quattrone,Menlo Park,squattrone@apr.com,650.543.1167,Y,AGENT
+nquichocho@apr.com,,Nicole,Quichocho,Danville / Blackhawk,nquichocho@apr.com,925.791.2609,Y,AGENT
+pradcliffe@apr.com,,Paul,Radcliffe,APR Investment Group,pradcliffe@apr.com,415.814.6690,Y,AGENT
+sramirez@apr.com,,Sophia,Ramirez,San Francisco - SoMa,sramirez@apr.com,415.810.4404,Y,AGENT
+jramos@apr.com,,Justin,Ramos,Pleasanton / Livermore Valley,jramos@apr.com,510.673.7004,Y,AGENT
+rrankin@apr.com,,Reid,Rankin,San Francisco,rrankin@apr.com,415.571.6606,Y,AGENT
+araskopf@apr.com,,Andrew,Raskopf,Oakland Hills - Montclair Village,araskopf@apr.com,510.339.8900,Y,AGENT
+grathborne@apr.com,,Gregory,Rathborne,San Mateo,grathborne@apr.com,650.931.2815,Y,AGENT
+mrazizad@apr.com,,Mani,Razizad,Menlo Park,mrazizad@apr.com,650.543.1168,Y,AGENT
+lrealyvasquez@apr.com,,Lou,Realyvasquez,Burlingame,lrealyvasquez@apr.com,650.375.1111,Y,AGENT
+mreese@apr.com,,Mary,Reese,Saratoga,mreese@apr.com,408.741.1111,Y,AGENT
+areichenberg@apr.com,,Anat,Reichenberg,Los Gatos,areichenberg@apr.com,408.358.1111,Y,AGENT
+dianereilly@apr.com,,Diane,Reilly,Orinda,dianereilly@apr.com,925.438-2056,Y,AGENT
+areisman@apr.com,,Aileen,Reisman,San Mateo,areisman@apr.com,650.548.1111,Y,AGENT
+BRemmel@APR.com,,Becky,Remmel,San Francisco,BRemmel@APR.com,650.823.7936,Y,AGENT
+dreno@apr.com,,David,Reno,Oakland Hills - Montclair Village,dreno@apr.com,510.473.6617,Y,AGENT
+sreschar@apr.com,,Sya Renée,Reschar,Los Gatos,sreschar@apr.com,408.781.3014,Y,AGENT
+kreynolds@apr.com,,Kim,Reynolds,San Jose - Almaden Valley,kreynolds@apr.com,408.754.1500,Y,AGENT
+lrhodes@apr.com,,Liz,Rhodes,Palo Alto,lrhodes@apr.com,650.543.1066,Y,AGENT
+mrhyan@apr.com,,Michael,Rhyan,Palo Alto,mrhyan@apr.com,650.924.8060,Y,AGENT
+trice@apr.com,,Terry,Rice,Palo Alto,trice@apr.com,650.207.4142,Y,AGENT
+jrice@apr.com,,Jerry,Rice Jr.,Menlo Park,jrice@apr.com,650.462.1111,Y,AGENT
+krichards@apr.com,,Kim,Richards,Pleasanton / Livermore Valley,krichards@apr.com,510.816.6031,Y,AGENT
+krichardson@apr.com,,Karen,Richardson,Orinda,krichardson@apr.com,925.639.3904,Y,AGENT
+mriedy@apr.com,,Marta,Riedy,Pleasanton / Livermore Valley,mriedy@apr.com,925.621.4087,Y,AGENT
+Sheldon@apr.com,,Sheldon,Rilliet,Burlingame,Sheldon@apr.com,650.931.2085,Y,AGENT
+susan@susanring.com,,Susan,Ring,San Francisco - Noe Valley,susan@susanring.com,415-298-6577 cell,Y,AGENT
+wrivas@apr.com,,Wayne,Rivas,Woodside,wrivas@apr.com,650.434.4320,Y,AGENT
+srivers@apr.com,,Sarah,Rivers,Woodside,srivers@apr.com,650.529.1111,Y,AGENT
+sroberson@apr.com,,Shelly,Roberson,Palo Alto,sroberson@apr.com,650.464.3797,Y,AGENT
+awr@wilsonroberts.com,,Anne,Roberts,Palo Alto,awr@wilsonroberts.com,650.279.5958,Y,AGENT
+crodinsk@apr.com,,Carole,Rodinsky,San Mateo,crodinsk@apr.com,650.931.2838,Y,AGENT
+rrodinsk@apr.com,,Robert,Rodinsky,San Mateo,rrodinsk@apr.com,650.931.2862,Y,AGENT
+jrodrigu@apr.com,,Joe,Rodriguez,San Jose - Almaden Valley,jrodrigu@apr.com,408.754.1646,Y,AGENT
+grolstad@apr.com,,Ginger,Rolstad,Corte Madera - Central Marin,grolstad@apr.com,415.377.5428 call/text,Y,AGENT
+jromley@apr.com,,John,Romley,Carmel,jromley@apr.com,831.574.9393,Y,AGENT
+jrorvik@apr.com,,Jeannie,Rorvik,Mill Valley,jrorvik@apr.com,415-828-4766,Y,AGENT
+mrosen@apr.com,,Melanie Rolfe,Rosen,Carmel,mrosen@apr.com,831-594-8767,Y,AGENT
+crosenfeld@apr.com,,Christine,Rosenfeld,San Mateo,crosenfeld@apr.com,650.270.9397,Y,AGENT
+drosland@apr.com,,Diane,Rosland,Menlo Park,drosland@apr.com,650.575.6594,Y,AGENT
+reneer@apr.com,,Renee,Ross,Los Gatos,reneer@apr.com,408.357.8703,Y,AGENT
+julie@julierossirideau.com,,Julie,Rossi Rideau,Menlo Park,julie@julierossirideau.com,650.543.1191,Y,AGENT
+broth@apr.com,,Barbara,Roth,Orinda,broth@apr.com,510.435.3805,Y,AGENT
+drothe@apr.com,,Diane,Rothe,Woodside,drothe@apr.com,650.787.9894,Y,AGENT
+jrowe@apr.com,,Jenny,Rowe,Menlo Park,jrowe@apr.com,650.462.1111,Y,AGENT
+mroza@apr.com,,Michael J.,Roza,San Mateo,mroza@apr.com,650.685.2345,Y,AGENT
+rruch@apr.com,,Richard,Ruch,Burlingame,rruch@apr.com,650.375.1111,Y,AGENT
+pbell@apr.com,,Pearl,Rudometkin-Bell,Saratoga,pbell@apr.com,408.204.7077,Y,AGENT
+mrugani@apr.com,,Mike,Rugani,Los Gatos,mrugani@apr.com,408.357.8755,Y,AGENT
+srruhman@apr.com,,Shelley,Ruhman,Orinda,srruhman@apr.com,925.258.1111,Y,AGENT
+aruport@apr.com,,Andrea,Ruport,Alameda,aruport@apr.com,510.213.4169,Y,AGENT
+srushton@apr.com,,Steve,Rushton,Los Altos,srushton@apr.com,(650) 941-1111,Y,AGENT
+vrutus@apr.com,,Vitaly,Rutus,APR Investment Group,vrutus@apr.com,415.814.6696,Y,AGENT
+pjryan@apr.com,,Patrick,Ryan,San Mateo,pjryan@apr.com,650.931.2842,Y,AGENT
+tjr@apr.com,,Tom,Ryglinski,APR Investment Group,tjr@apr.com,415.814.6694,Y,AGENT
+soli@apr.com,,Soli,Saatchi,Los Altos,soli@apr.com,650.209.1624,Y,AGENT
+psafavi@apr.com,,Paul,Safavi,Burlingame,psafavi@apr.com,650.931.2934,Y,AGENT
+csafir@apr.com,,Carole,Safir,Los Gatos,csafir@apr.com,408.357.7319,Y,AGENT
+frank@apr.com,,Frank,Salmen,Orinda,frank@apr.com,925.258.1111,Y,AGENT
+tsalter@apr.com,,Teresa,Salter,Burlingame,tsalter@apr.com,650.678.3847,Y,AGENT
+usanchor@apr.com,,Umang,Sanchorawala,Palo Alto,usanchor@apr.com,650.960.5363,Y,AGENT
+dsanders@apr.com,,Debbie,Sanders,Saratoga,dsanders@apr.com,408.741.1111,Y,AGENT
+asanguinetti@apr.com,,Alicia,Sanguinetti,Burlingame,asanguinetti@apr.com,650.888.6432,Y,AGENT
+rsantomauro@apr.com,,Ryan,Santomauro,Menlo Park,rsantomauro@apr.com,650.304.3766,Y,AGENT
+asantos@apr.com,,Alex,Santos,Walnut Creek,asantos@apr.com,510.703.2458,Y,AGENT
+nsayage@apr.com,,Norma,Sayage,San Mateo,nsayage@apr.com,650.759.6774,Y,AGENT
+cschanderl@apr.com,,Cathy,Schanderl,Carmel,cschanderl@apr.com,831.238.8311,Y,AGENT
+kschantz@apr.com,,Kim,Schantz,Danville / Blackhawk,kschantz@apr.com,925.791.2580,Y,AGENT
+tscheid@apr.com,,Todd,Scheid,Walnut Creek,tscheid@apr.com,925.323.6150,Y,AGENT
+Linda@LindaSMarks.com,,Linda,Scheifler Marks,Burlingame,Linda@LindaSMarks.com,650.931.2948,Y,AGENT
+bschilling@apr.com,,Bruce,Schilling,Burlingame,bschilling@apr.com,650.375.1111,Y,AGENT
+aschultz@apr.com,,Andrea,Schultz,Palo Alto,aschultz@apr.com,650.323.1111,Y,AGENT
+dschurhoff@apr.com,,Dave,Schurhoff,Orinda,dschurhoff@apr.com,925.997.9569,Y,AGENT
+ronni@ronnischwartz.com,,Ronni,Schwartz,Walnut Creek,ronni@ronnischwartz.com,925.876.7689,Y,AGENT
+kscirpo@apr.com,,Kelly,Scirpo,Los Altos,kscirpo@apr.com,650.941.1111,Y,AGENT
+andrea@apr.com,,Andrea,Scott,Danville / Blackhawk,andrea@apr.com,925.791.2511,Y,AGENT
+escott@apr.com,,Elvie,Scott,Los Gatos,escott@apr.com,408.357.8778,Y,AGENT
+lscott@apr.com,,Lauren,Scott,Burlingame,lscott@apr.com,650.759.1593,Y,AGENT
+sscott@apr.com,,Suzanne,Scott,Menlo Park,sscott@apr.com,650.462.1111,Y,AGENT
+khultman@apr.com,,Karen,Scott-Hultman,Walnut Creek,khultman@apr.com,925.627.3004,Y,AGENT
+msegal@apr.com,,Maria,Segal,Saratoga,msegal@apr.com,408.741.1111,Y,AGENT
+lserafini@apr.com,,Laure,Serafini,Saratoga,lserafini@apr.com,408.828.7044,Y,AGENT
+nserdy@apr.com,,Nate,Serdy,Half Moon Bay,nserdy@apr.com,650.479.1117,Y,AGENT
+rserdy@apr.com,,Rose,Serdy,Half Moon Bay,rserdy@apr.com,650.712.1199,Y,AGENT
+gserrato@apr.com,,Gina,Serrato,Los Gatos,gserrato@apr.com,408.357.7901,Y,AGENT
+ksexton@apr.com,,Kerry,Sexton,San Jose - Almaden Valley,ksexton@apr.com,408.476.4844,Y,AGENT
+lsgarlato@apr.com,,Lisa,Sgarlato,Los Gatos,lsgarlato@apr.com,408.396.7231,Y,AGENT
+lshahsavari@apr.com,,Leila,Shahsavari,Los Gatos,lshahsavari@apr.com,408.358.1111,Y,AGENT
+mshanahan@apr.com,,Mike,Shanahan,Danville / Blackhawk,mshanahan@apr.com,925.366.7109,Y,AGENT
+cshen@apr.com,,Catherine,Shen,Palo Alto,cshen@apr.com,650.543.1075,Y,AGENT
+dshen@apr.com,,Diana,Shen,Menlo Park,dshen@apr.com,650.462.1111,Y,AGENT
+wshen@apr.com,,Wayne,Shen,Burlingame,wshen@apr.com,650.245.0025,Y,AGENT
+jsherman@apr.com,,James,Sherman,Burlingame,jsherman@apr.com,650.931.2045,Y,AGENT
+dsid@apr.com,,Daryl,Sid,Palo Alto,dsid@apr.com,650.323.1111,Y,AGENT
+csijbrant@apr.com,,Corey,Sijbrant,Burlingame,csijbrant@apr.com,650.375.1111,Y,AGENT
+ssilverie@apr.com,,Susan,Silverie,Carmel,ssilverie@apr.com,831.238.3328,Y,AGENT
+csilvestri@apr.com,,Craig,Silvestri,Corte Madera - Central Marin,csilvestri@apr.com,415.755.1111,Y,OFFICE ADMINISTRATOR
+dsimons@apr.com,,Denise,Simons,Palo Alto,dsimons@apr.com,650.543.1104,Y,AGENT
+csimpson@apr.com,,Cary,Simpson,Carmel,csimpson@apr.com,831.402.4394,Y,AGENT
+ssims@apr.com,,Susan,Sims,Los Altos,ssims@apr.com,650.209.1607,Y,AGENT
+rsinclair@apr.com,,Rita,Sinclair,Burlingame,rsinclair@apr.com,650.931.2062,Y,AGENT
+bsines@apr.com,,Bea,Sines,Los Altos,bsines@apr.com,650.743.5198,Y,AGENT
+bslaton@apr.com,,Barbara,Slaton,Menlo Park,bslaton@apr.com,650.543.1215,Y,AGENT
+annas@apr.com,,Anna,Slutsky,Palo Alto,annas@apr.com,650.703.8849,Y,AGENT
+aimeesmith@apr.com,,Aimee,Smith,Saratoga,aimeesmith@apr.com,408.741.1111 Ext. 819,Y,AGENT
+cynthia@apr.com,,Cynthia,Smith,San Mateo,cynthia@apr.com,650.743.6865,Y,AGENT
+lwsmith@apr.com,,Linda W.,Smith,Los Altos,lwsmith@apr.com,650 209-1571,Y,AGENT
+lsmith@apr.com,,Lynise,Smith,Menlo Park,lsmith@apr.com,650.759.3508,Y,AGENT
+vsmith@apr.com,,Val,Smith,Los Altos,vsmith@apr.com,650.941.1111,Y,AGENT
+diane@apr.com,,Diane,Smugeresky,Pleasanton / Livermore Valley,diane@apr.com,925.872.1276,Y,AGENT
+esmulever@apr.com,,Erica,Smulever,San Mateo,esmulever@apr.com,650.576.6637,Y,AGENT
+iso@apr.com,,Insook (Iris),So,San Mateo,iso@apr.com,650.931.2849,Y,AGENT
+ssoden@apr.com,,Suzie,Soden,Menlo Park,ssoden@apr.com,650.315.8922,Y,AGENT
+vsoltau@apr.com,,Valerie,Soltau,Menlo Park - Downtown,vsoltau@apr.com,650.464.3896,Y,AGENT
+lsomanathan@apr.com,,Lauren,Somanathan,Walnut Creek,lsomanathan@apr.com,925.490.4667,Y,AGENT
+csong@apr.com,,Celine,Song,Saratoga,csong@apr.com,408.741.1111,Y,AGENT
+rsonntag@apr.com,,Roy,Sonntag,Tiburon / Belvedere,rsonntag@apr.com,415.884.2468,Y,AGENT
+MSorrell@apr.com,,Mona,Sorrell,Orinda,MSorrell@apr.com,925.438.2036,Y,AGENT
+cspaulding@apr.com,,Christina,Spaulding,Pleasanton / Livermore Valley,cspaulding@apr.com,925.548.6534,Y,AGENT
+sspencer@apr.com,,Samantha,Spencer,Walnut Creek,sspencer@apr.com,925.627.3024,Y,AGENT
+tspindler@apr.com,,Theresa,Spindler,Mill Valley,tspindler@apr.com,415.384.1111,Y,AGENT
+lspiteri@apr.com,,Larry,Spiteri,Danville / Blackhawk,lspiteri@apr.com,925.314.1111,Y,OFFICE ADMINISTRATOR
+tsplenda@apr.com,,Trigg,Splenda,APR Investment Group,tsplenda@apr.com,415.593.8616,Y,AGENT
+cstark@apr.com,,Christine,Stark,Pleasanton / Livermore Valley,cstark@apr.com,925.525.7136,Y,AGENT
+mstaten@apr.com,,Mary,Staten,Orinda,mstaten@apr.com,925.258.1111,Y,AGENT
+tstaten@apr.com,,Troy,Staten,Alameda,tstaten@apr.com,510.508.0762,Y,AGENT
+sstearns@apr.com,,Silke,Stearns,Los Gatos,sstearns@apr.com,408.667.9955,Y,AGENT
+stuart@apr.com,,Stuart,Steele,Danville / Blackhawk,stuart@apr.com,925.791.2611,Y,AGENT
+dsteil@apr.com,,David,Steil,San Mateo,dsteil@apr.com,650.931.2820,Y,AGENT
+ed@apr.com,,Ed,Stellingsma,Carmel,ed@apr.com,831.620.6160,Y,AGENT
+csternsmith@apr.com,,Casey,Sternsmith,Burlingame,csternsmith@apr.com,650.678.5455,Y,AGENT
+lstevens@apr.com,,Laura,Stevens,Los Altos,lstevens@apr.com,650-814-8584,Y,AGENT
+rstillinger@apr.com,,Ryan,Stillinger,San Francisco - SoMa,rstillinger@apr.com,714.342.3530,Y,AGENT
+holly@hollystockman.com,,Holly,Stockman,Woodside,holly@hollystockman.com,650.464.6080,Y,AGENT
+cstockton@apr.com,,Cheryl,Stockton,Half Moon Bay,cstockton@apr.com,650.888.8894,Y,AGENT
+mstornetta@apr.com,,Mark,Stornetta,Sonoma,mstornetta@apr.com,707.815.8749,Y,AGENT
+ystout@apr.com,,Yvette,Stout,Los Altos,ystout@apr.com,650.208.4510,Y,AGENT
+kstovall@apr.com,,Katherine,Stovall,Saratoga,kstovall@apr.com,408.741.1111,Y,AGENT
+dstrannigan@apr.com,,Diana,Strannigan,San Jose - Almaden Valley,dstrannigan@apr.com,408.482.0637,Y,AGENT
+jstricker@apr.com,,Jeff,Stricker,Los Altos,jstricker@apr.com,650.823.8057,Y,AGENT
+mstudebaker@apr.com,,Michael,Studebaker,Alameda,mstudebaker@apr.com,510.759.2396,Y,AGENT
+esuharski@apr.com,,Edward,Suharski,APR Investment Group,esuharski@apr.com,(415) 722-1159,Y,AGENT
+ssutton@apr.com,,Shirley,Sutton,Orinda,ssutton@apr.com,925.285.6555,Y,AGENT
+gswall@apr.com,,Gretchen,Swall,Los Altos,gswall@apr.com,650.810.5678,Y,AGENT
+tswan@apr.com,,Therese,Swan,Los Gatos,tswan@apr.com,408.358.1111,Y,AGENT
+bsweat@apr.com,,Bonnie,Sweat,San Francisco - SoMa,bsweat@apr.com,408.358.1111,Y,AGENT
+bsweeley@apr.com,,Bryan,Sweeley,Los Altos,bsweeley@apr.com,650.793.0355,Y,AGENT
+Ssweeley@apr.com,,Susan,Sweeley,Los Altos,Ssweeley@apr.com,650.941.1111,Y,AGENT
+mswenson@apr.com,,Matthew,Swenson,Los Gatos,mswenson@apr.com,408.357.8722,Y,AGENT
+smsymon@apr.com,,Scott,Symon,Palo Alto,smsymon@apr.com,650.543.1125,Y,AGENT
+kszabo@apr.com,,Kimberly,Szabo,Saratoga,kszabo@apr.com,(408) 741-1111,Y,AGENT
+sszenda@apr.com,,Stacey,Szenda,Los Gatos,sszenda@apr.com,408-802-6686,Y,AGENT
+ltabet@apr.com,,Lizi,Tabet,Burlingame,ltabet@apr.com,415.990.6070,Y,AGENT
+dtam@apr.com,,Demetrius,Tam,Menlo Park,dtam@apr.com,650.666.9566,Y,AGENT
+htan@apr.com,,Helen,Tan,Los Gatos,htan@apr.com,408.357.8721,Y,AGENT
+stannenbaum@apr.com,,Sean,Tannenbaum,Pleasanton / Livermore Valley,stannenbaum@apr.com,510.557.5950,Y,AGENT
+Myrick@SFdwell.com,,Myrick,Tantiado,San Francisco,Myrick@SFdwell.com,415.923.9700,Y,AGENT
+ctapia@apr.com,,Carolina,Tapia-Urzua,Alameda,ctapia@apr.com,510.809.1111,Y,AGENT
+alyssa@ajtaubman.com,,Alyssa,Taubman,Ross,alyssa@ajtaubman.com,415.518.1558,Y,AGENT
+jtaylor@apr.com,,Janise,Taylor,Menlo Park,jtaylor@apr.com,650.462.1111,Y,AGENT
+jt@apr.com,,Judy,Taylor,Half Moon Bay,jt@apr.com,650.479.1284,Y,AGENT
+ptaylor@apr.com,,Patrick,Taylor,Los Altos,ptaylor@apr.com,650.269.2160,Y,AGENT
+dteare@apr.com,,David,Teare,Oakland Hills - Montclair Village,dteare@apr.com,510.384.5204,Y,AGENT
+cteerlink@apr.com,,Cynthia,Teerlink,Saratoga,cteerlink@apr.com,408.913.7874,Y,AGENT
+dteigland@apr.com,,Dee,Teigland,Pleasanton / Livermore Valley,dteigland@apr.com,925.201.8316,Y,AGENT
+rtemple@apr.com,,Rhonda,Temple,Walnut Creek,rtemple@apr.com,510-846-0306,Y,AGENT
+tenczarteam@apr.com,,Matt,Tenczar,San Jose - Almaden Valley,tenczarteam@apr.com,408.605.8124,Y,AGENT
+jteng@apr.com,,Jenny,Teng,Palo Alto,jteng@apr.com,650.323.1111,Y,AGENT
+jtenore@apr.com,,Jean,Tenore,Los Gatos,jtenore@apr.com,408.429.9769,Y,AGENT
+aterry@apr.com,,Ahna,Terry,San Mateo,aterry@apr.com,650.931.2821,Y,AGENT
+gterry@apr.com,,Greg,Terry,San Mateo,gterry@apr.com,650.685.2341,Y,AGENT
+tthames@apr.com,,Tish,Thames,Sonoma,tthames@apr.com,707-738-3313,Y,AGENT
+kthielke@apr.com,,Katy,Thielke Straser,Menlo Park,kthielke@apr.com,650.888.2389,Y,AGENT
+dthomas@apr.com,,Dana,Thomas,Burlingame,dthomas@apr.com,650.302.5717,Y,AGENT
+adgroup.mat@gmail.com,,Margaret,Thomas,Oakland Hills - Montclair Village,adgroup.mat@gmail.com,917.549.8171,Y,AGENT
+athompson@apr.com,,Amanda,Thompson,Danville / Blackhawk,athompson@apr.com,925.260.7405,Y,AGENT
+kthompso@apr.com,,Kay,Thompson,Saratoga,kthompso@apr.com,408.741.1111,Y,AGENT
+michellet@apr.com,,Michelle,Thompson,Los Gatos,michellet@apr.com,408.357.8612,Y,AGENT
+mollyt@apr.com,,Molly,Thompson,Saratoga,mollyt@apr.com,408.741.1111,Y,AGENT
+sthornhill@apr.com,,Sally,Thornhill-Peterson,Sonoma,sthornhill@apr.com,415.806.1260,Y,AGENT
+stephanie@apr.com,,Stephanie,Tice,Danville / Blackhawk,stephanie@apr.com,925.324.2416,Y,AGENT
+mtimm@apr.com,,Mark,Timm,Los Gatos,mtimm@apr.com,408.482.9034,Y,AGENT
+tcole@apr.com,,Tammy Lee,Tiscornia-Cole,Woodside,tcole@apr.com,650.683.0426,Y,AGENT
+dtonna@apr.com,,David,Tonna,Los Gatos,dtonna@apr.com,408.234.3369,Y,AGENT
+rtool@apr.com,,Rosemary,Tool,Orinda,rtool@apr.com,925.258.1111,Y,AGENT
+ttrailer@apr.com,,Tim,Trailer,Menlo Park - Downtown,ttrailer@apr.com,650.333.3833,Y,AGENT
+ztrailer@apr.com,,Zach,Trailer,Menlo Park - Downtown,ztrailer@apr.com,650.304.3100,Y,AGENT
+ltraurig@apr.com,,Linda,Traurig,Pleasanton / Livermore Valley,ltraurig@apr.com,925.621.4073,Y,AGENT
+dtrevarthen@apr.com,,Debra,Trevarthen,Orinda,dtrevarthen@apr.com,925.258.1111,Y,AGENT
+ltrinidad@apr.com,,Linda,Trinidad,Burlingame,ltrinidad@apr.com,650.346.1929,Y,AGENT
+ktrolan@apr.com,,Karen,Trolan,Los Gatos,ktrolan@apr.com,408.358.1111,Y,OFFICE ADMINISTRATOR
+ltrolan@apr.com,,Lindsay,Trolan,Los Gatos,ltrolan@apr.com,408.621.7652,Y,AGENT
+ttrolan@apr.com,,TJ,Trolan,Los Gatos,ttrolan@apr.com,408.358.1111,Y,AGENT
+ctruelove@apr.com,,Cathy,Truelove,Oakland Hills - Montclair Village,ctruelove@apr.com,510.250.6769,Y,AGENT
+jtsailaw@apr.com,,Julie,Tsai-Law,Menlo Park,jtsailaw@apr.com,650-799-8888,Y,AGENT
+sophie@apr.com,,Sophie,Tsang,Palo Alto,sophie@apr.com,650.687.7388,Y,AGENT
+elenat@apr.com,,Elena,Tsukanova,Los Altos,elenat@apr.com,408.205.1724,Y,AGENT
+etucker@apr.com,,Elizabeth,Tucker,Los Gatos,etucker@apr.com,408.421.8610,Y,AGENT
+kturmala@apr.com,,Kathleen,Turmala,San Mateo,kturmala@apr.com,650.931.2847,Y,AGENT
+jturner@apr.com,,Judy,Turner,Pleasanton / Livermore Valley,jturner@apr.com,925.518.3115,Y,AGENT
+ctwisselman@apr.com,,Colleen,Twisselman,Burlingame,ctwisselman@apr.com,650.683.0508,Y,AGENT
+ketyson@apr.com,,Elena,Tyson,Orinda,ketyson@apr.com,925.438.2027,Y,AGENT
+dvanhulsen@apr.com,,Dana,Van Hulsen,Palo Alto,dvanhulsen@apr.com,650.248.3950,Y,AGENT
+tvanlaanen@apr.com,,Todd,Van Laanen,Walnut Creek,tvanlaanen@apr.com,925.934.1111,Y,AGENT
+domivr@apr.com,,Dominique,Van Ryckeghem,Palo Alto,domivr@apr.com,650.453.8873,Y,AGENT
+kevin@apr.com,,Kevin,Vandermate,Danville / Blackhawk,kevin@apr.com,925.791.2515,Y,AGENT
+kvaughan@apr.com,,Krista,Vaughan,Saratoga,kvaughan@apr.com,650.353.6255,Y,AGENT
+jvaughn@apr.com,,Jerry,Vaughn,Danville / Blackhawk,jvaughn@apr.com,925.314.1111,Y,AGENT
+lvaughn@apr.com,,Laura,Vaughn,Danville / Blackhawk,lvaughn@apr.com,925.683.3114,Y,AGENT
+svaupen@apr.com,,Scott,Vaupen,Danville / Blackhawk,svaupen@apr.com,925.683.9710,Y,AGENT
+aparnav@apr.com,,Aparna,Veeravalli,Los Gatos,aparnav@apr.com,408.358.1111,Y,AGENT
+aveeravalli@apr.com,,Ashwin,Veeravalli,Los Gatos,aveeravalli@apr.com,408.358.1111,Y,AGENT
+mvelasquez@apr.com,,Matthew,Velasquez,Carmel,mvelasquez@apr.com,831.254.3949,Y,AGENT
+bradv@apr.com,,Brad,Verma,Menlo Park,bradv@apr.com,650.665.0894,Y,AGENT
+evieler@apr.com,,Erika,Vieler,Pleasanton / Livermore Valley,evieler@apr.com,925.201.8308,Y,AGENT
+dvirella@apr.com,,Dino,Virella,San Mateo,dvirella@apr.com,415.828.4503,Y,AGENT
+jvitro@apr.com,,Jenny,Vitro,Burlingame,jvitro@apr.com,650 931-2080,Y,AGENT
+jvolkoff@apr.com,,Janell,Volkoff,Los Gatos,jvolkoff@apr.com,408.221.9955,Y,AGENT
+amadeev@apr.com,,Amadee,Vongthongsri,Burlingame,amadeev@apr.com,650.918.9093,Y,AGENT
+dwagerma@apr.com,,Dean,Wagerman,Pleasanton / Livermore Valley,dwagerma@apr.com,925.621.4074,Y,AGENT
+gwalker@apr.com,,Gloria,Walker,Los Altos,gwalker@apr.com,650.941.1111,Y,AGENT
+lwalker@apr.com,,Lisa,Walker,Los Altos,lwalker@apr.com,650.209.1574,Y,AGENT
+swalker@apr.com,,Stefan,Walker,Los Altos,swalker@apr.com,650.209.1516,Y,AGENT
+dwalsh@apr.com,,Dave,Walsh,San Jose - Almaden Valley,dwalsh@apr.com,408.761.7401,Y,OFFICE ADMINISTRATOR
+lwalsh@apr.com,,Lynn,Walsh,San Jose - Almaden Valley,lwalsh@apr.com,408.234.4976,Y,AGENT
+swalsh@apr.com,,Sue,Walsh,San Mateo,swalsh@apr.com,650.548.1111,Y,AGENT
+rwalton@apr.com,,Ray,Walton,Menlo Park,rwalton@apr.com,650.543.1181,Y,AGENT
+swalz@apr.com,,Sharon,Walz,Los Altos,swalz@apr.com,650.209.1523,Y,AGENT
+kwang@apr.com,,Kay,Wang,Menlo Park,kwang@apr.com,650.462.1111,Y,AGENT
+pwang@apr.com,,Priscilla,Wang,Los Gatos,pwang@apr.com,408.358.1111,Y,AGENT
+bwarren@apr.com,,Barbara,Warren,Corte Madera - Central Marin,bwarren@apr.com,415.496.2926,Y,AGENT
+mwarren@apr.com,,Michael,Warren,Menlo Park - Downtown,mwarren@apr.com,650.304.3100,Y,AGENT
+awaskow@apr.com,,Adam,Waskow,Corte Madera - Central Marin,awaskow@apr.com,415.755.1111,Y,AGENT
+dwatkins@apr.com,,Desmond,Watkins,Oakland Hills - Montclair Village,dwatkins@apr.com,510.593.9397,Y,AGENT
+cway@apr.com,,Carolyn,Way,Orinda,cway@apr.com,925.890.4115,Y,AGENT
+lweaverling@apr.com,,Len,Weaverling,Burlingame,lweaverling@apr.com,650.619.0030,Y,AGENT
+mwebb@apr.com,,Mirella,Webb,APR Investment Group,mwebb@apr.com,415.814.6690,Y,AGENT
+jwei@apr.com,,Jane,Wei,Palo Alto,jwei@apr.com,650.283.3953,Y,AGENT
+pweingrow@apr.com,,Philip,Weingrow,Oakland Hills - Montclair Village,pweingrow@apr.com,510.899.8001,Y,OFFICE ADMINISTRATOR
+mweisbarth@apr.com,,Mark,Weisbarth,Half Moon Bay,mweisbarth@apr.com,650.868.6783,Y,AGENT
+sweisgerber@apr.com,,Scott,Weisgerber,San Mateo,sweisgerber@apr.com,650.799.0692,Y,AGENT
+eweissma@apr.com,,Emely,Weissman,Palo Alto,eweissma@apr.com,650.543.1057,Y,AGENT
+bweitzmann@apr.com,,Brett,Weitzmann,Los Altos,bweitzmann@apr.com,650.495.2903,Y,AGENT
+denisew@apr.com,,Denise,Welsh,Los Altos,denisew@apr.com,650.209.1566,Y,AGENT
+dwelton@apr.com,,David,Welton,Saratoga,dwelton@apr.com,408.913.7826,Y,AGENT
+bwersel@apr.com,,Bonne,Wersel,Danville / Blackhawk,bwersel@apr.com,925.791.2550,Y,AGENT
+thomaswestfall@apr.com,,Thomas,Westfall,San Francisco - Noe Valley,thomaswestfall@apr.com,415.746.1111,Y,AGENT
+pwheeler@apr.com,,Patty Douglas,Wheeler,San Mateo,pwheeler@apr.com,650.464.5549,Y,AGENT
+awhite@apr.com,,Angela,White,Saratoga,awhite@apr.com,408.821.6492,Y,AGENT
+cwhite@apr.com,,Carla,White,Carmel,cwhite@apr.com,831.620.6177,Y,AGENT
+swhite@apr.com,,Susan,White,Sonoma,swhite@apr.com,707.696.4951,Y,AGENT
+kwiessler@apr.com,,Kenneth,Wiessler,Orinda,kwiessler@apr.com,415.279.6058,Y,AGENT
+bwilbur@apr.com,,Brett,Wilbur,Carmel,bwilbur@apr.com,831.915.6394,Y,AGENT
+bwilliams@apr.com,,Barbara,Williams,Los Altos,bwilliams@apr.com,650.814.0741,Y,AGENT
+dwilliams@apr.com,,Dana,Williams,Mill Valley,dwilliams@apr.com,415.609.7972,Y,AGENT
+dougw@apr.com,,Doug,Williams,Saratoga,dougw@apr.com,408-605-3893,Y,AGENT
+jaynewilliams@apr.com,,Jayne,Williams,Woodside,jaynewilliams@apr.com,650.906.5599,Y,AGENT
+jeremyw@apr.com,,Jeremy,Williams,APR Investment Group,jeremyw@apr.com,415.814.8203,Y,AGENT
+lwilliams@apr.com,,Liz,Williams,Saratoga,lwilliams@apr.com,408.741.1111,Y,AGENT
+marsha@apr.com,,Marsha,Williams,San Francisco,marsha@apr.com,415.533.1894,Y,AGENT
+genella@apr.com,,Genella,Williamson,Woodside,genella@apr.com,650.434.4319,Y,AGENT
+jillw@apr.com,,Jill,Wilson,Saratoga,jillw@apr.com,408.835.0026,Y,AGENT
+kwilson@apr.com,,Kathleen,Wilson,Palo Alto,kwilson@apr.com,650.543.1094,Y,AGENT
+lwilsonroberts@apr.com,,Lynn,Wilson Roberts,Palo Alto,lwilsonroberts@apr.com,650.255.6987,Y,AGENT
+jwiser@apr.com,,Julie,Wiser,Los Gatos,jwiser@apr.com,408.531.7749,Y,AGENT
+Joanne@apr.com,,Joanne,Wondolowski,Burlingame,Joanne@apr.com,650.931.2000,Y,OFFICE ADMINISTRATOR
+swondo@apr.com,,Stephen,Wondolowski,Danville / Blackhawk,swondo@apr.com,925.791.2664,Y,AGENT
+awong@apr.com,,Anna C.,Wong,San Mateo,awong@apr.com,650.207.8112,Y,AGENT
+ewong@apr.com,,Emma,Wong,San Francisco - SoMa,ewong@apr.com,626.464.3650,Y,AGENT
+lwong@apr.com,,Lana,Wong,Los Gatos,lwong@apr.com,650.530.0448,Y,AGENT
+lilyw@apr.com,,Lily,Wong,Burlingame,lilyw@apr.com,650.218.9797,Y,AGENT
+mark@apr.com,,Mark,Wong,Saratoga,mark@apr.com,408.913.7815,Y,AGENT
+jwoods@apr.com,,Janice,Woods,Burlingame,jwoods@apr.com,650.931.2029,Y,AGENT
+swoods@apr.com,,Stacey,Woods,Palo Alto,swoods@apr.com,650.503.4740,Y,AGENT
+Chih@ChihWu.com,,Chih,Wu,Alameda,Chih@ChihWu.com,510.213.1346,Y,AGENT
+gwu@apr.com,,Grace,Wu,Palo Alto,gwu@apr.com,650.543.1086,Y,AGENT
+gracew@apr.com,,Grace,Wu,Los Altos,gracew@apr.com,650-772-0200,Y,AGENT
+gwyatt@apr.com,,Gaylene,Wyatt,Saratoga,gwyatt@apr.com,408.832.6922,Y,AGENT
+bwygant@apr.com,,Bill,Wygant ,San Francisco,bwygant@apr.com,415.593.8622,Y,AGENT
+alicexu@apr.com,,Alice,Xu,Saratoga,alicexu@apr.com,408.913.7898,Y,AGENT
+minxu@apr.com,,Min,Xu,Pleasanton / Livermore Valley,minxu@apr.com,925.586.1864,Y,AGENT
+iwyang@apr.com,,Irene,Yang,Los Altos,iwyang@apr.com,650.209.1630,Y,AGENT
+myang@apr.com,,Michael,Yang,San Mateo,myang@apr.com,650.303.8388,Y,AGENT
+pyang@apr.com,,Paul,Yang,Palo Alto,pyang@apr.com,408.203.0567,Y,AGENT
+Mary@MaryYeargain.com,,Mary,Yeargain,San Mateo,Mary@MaryYeargain.com,650.868.6488,Y,AGENT
+myeganian@apr.com,,Mojgan,Yeganian,Menlo Park,myeganian@apr.com,650.644.5841,Y,AGENT
+myeh@apr.com,,Mei-Ling,Yeh,Los Altos,myeh@apr.com,650.941.1111,Y,AGENT
+jyen@apr.com,,Joseph,Yen,Saratoga,jyen@apr.com,408.741.1111,Y,AGENT
+syie@apr.com,,Sandra,Yie,Palo Alto,syie@apr.com,650.533.7943,Y,AGENT
+nyilmaz@apr.com,,Nesli,Yilmaz,Los Gatos,nyilmaz@apr.com,408.358.1111 X:191,Y,AGENT
+suzanne@suzanneyost.com,,Suzanne,Yost,Los Gatos,suzanne@suzanneyost.com,408-357-8762,Y,AGENT
+pearly@apr.com,,Pearl,You,Los Altos,pearly@apr.com,650.300.9773,Y,AGENT
+kyoung@apr.com,,Karen,Young,Palo Alto,kyoung@apr.com,650.400.8228,Y,AGENT
+maisy@apr.com,,Maisy,Young,Saratoga,maisy@apr.com,408.913.7899,Y,AGENT
+mayoung@apr.com,,Marguerite Ann ,Young,Mill Valley,mayoung@apr.com,415-699-4800,Y,AGENT
+myoung@apr.com,,Monique,Young,Walnut Creek,myoung@apr.com,925.324.4771,Y,AGENT
+ryoung@apr.com,,Robin,Young,Pleasanton / Livermore Valley,ryoung@apr.com,925.583.1136,Y,AGENT
+myoussefi@apr.com,,Madlen,Youssefi,San Jose - Almaden Valley,myoussefi@apr.com,408.759.2887,Y,AGENT
+Syundt@apr.com,,Scott,Yundt,Oakland Hills - Montclair Village,Syundt@apr.com,510.339.8900,Y,AGENT
+gzachow@apr.com,,Ginny,Zachow,Los Altos,gzachow@apr.com,650.209.1512,Y,AGENT
+jzavlaris@apr.com,,Joanne,Zavlaris,Corte Madera - Central Marin,jzavlaris@apr.com,415.496.2901,Y,AGENT
+pzavlaris@apr.com,,Pete,Zavlaris,San Francisco,pzavlaris@apr.com,415.637.6257,Y,AGENT
+rzea@apr.com,,Rick,Zea,Los Altos,rzea@apr.com,650.941.1111,Y,AGENT
+ezhang@apr.com,,Ellen,Zhang,Los Altos,ezhang@apr.com,650.941.1575,Y,AGENT
+yzhang@apr.com,,Ying,Zhang,Los Gatos,yzhang@apr.com,650.868.1078,Y,AGENT
+jzhao@apr.com,,Joyce,Zhao,Los Gatos,jzhao@apr.com,408.249.0908,Y,AGENT
+clairezhou@apr.com,,Claire,Zhou,Palo Alto,clairezhou@apr.com,650.245.5698,Y,AGENT
+jzielinski@apr.com,,Josh,Zielinski,Danville / Blackhawk,jzielinski@apr.com,925.594.0126,Y,AGENT
+rzuvella@apr.com,,Rich,Zuvella,San Jose - Almaden Valley,rzuvella@apr.com,408.754.1500,Y,AGENT

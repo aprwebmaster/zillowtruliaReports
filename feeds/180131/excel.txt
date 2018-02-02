@@ -1,0 +1,561 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge"><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(2),u=e(3),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}finally{f.emit("fn-end",[c.now()],t)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now()])}},{}],2:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],3:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],4:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=m(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){v[e]=m(e).concat(n)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(t)}function g(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var v={},y={},b={on:l,emit:t,get:w,listeners:m,context:n,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(2),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!x++){var e=h.info=NREUM.info,n=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+h.offset],null,"api");var t=d.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===d.readyState&&i()}function i(){f("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),f=e("handle"),c=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1044.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=n.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),f("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+			<title>San Francisco Bay Area Real Estate | San Francisco Homes for Sale</title>
+		<meta name="keywords" content="">
+			<meta name="description" content="Alain Pinel Realtors® has been the leader in luxury real estate since 1990. Search homes for sale with the most reliable property data, updated every 15 minutes.">
+	    <meta name="google-site-verification" content="BOhCXZ9vH-WhpnayJiLQoA67LQkU763_T3cmbK5HwJw" />
+	<meta name="robots" content="index,follow" />
+				<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="/rss/">
+	<link rel="shortcut icon" href="/images/favicon.ico">
+	<link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Oswald%7CPlayfair+Display:400italic,700italic%7CDroid+Serif:400%2C700%7CWork+Sans:400%2C500%2C600%2C700">
+	<link rel="stylesheet" href="/css/non_bootstrap_styles.min.css">
+	<link rel="stylesheet" href="/css/company_styles.min.css?v=1.1.2">
+	<script src="/js/modernizer/modernizr.2.6.2.custom.js"></script>
+		<script src="/js/buildlist.js?scripts=/js/libs/jquery/jquery.js,/js/validation/jquery.validate.min.js,/js/fancy_box/jquery.fancybox.latest.pack.js,/js/lib/jquery.openid.min.js"></script>
+
+	<script>window.booj={"application_key":"f7177163c833dff4b38fc8d2872f1ec6","current_user":false}</script>
+
+				
+				
+	
+	<script>
+					(function(w,d,s,l,i){
+						w[l]=w[l]||[];
+						w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});
+						var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';
+						j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+					})
+					(window,document,'script','dataLayer','GTM-WFR4W4S');
+				</script></head> 
+<body class=" os-other">
+	<noscript>
+					<iframe src='https://www.googletagmanager.com/ns.html?id=GTM-WFR4W4S' height='0' width='0' style='display:none;visibility:hidden'>
+					</iframe>
+				</noscript>		<div id="wrapper" class="site-wrapper is-home-page">
+		<header id="header" class="site-header hidden-print">
+	<div class="site-header-mask"> </div>
+	<div class="header-content">
+		<div class="header-actions" role="tablist">
+			<button id="action-navigation" data-toggle="tab" aria-controls="sidebar-navigation" data-target="#sidebar-navigation">
+				<span class="hamburgler-container">
+					<span class="hamburgler-menu-center"></span>
+				</span>
+				<span class="hidden-xs action-label">Menu</span>
+			</button>
+			<button id="action-search" data-toggle="tab" aria-controls="sidebar-quicksearch" data-target="#sidebar-quicksearch">
+				<span class="action-icon-original"><svg class="svg-icon"><use xlink:href="/svg/svg-sprite.svg#icon-quick-search"></use></svg></span>
+				<span class="action-icon-close"><svg class="svg-icon gold-dark"><use xlink:href="/svg/svg-sprite.svg#icon-close"></use></svg></span>
+				<span class="hidden-xs action-label">Search</span>
+			</button>
+			<button id="action-account" data-toggle="tab" aria-controls="sidebar-account" data-target="#sidebar-account">
+				<span class="action-icon-flip">
+					<span class="action-icon-original"><svg class="svg-icon"><use xlink:href="/svg/svg-sprite.svg#icon-login"></use></svg></span>
+					<span class="action-icon-close"><svg class="svg-icon gold-dark"><use xlink:href="/svg/svg-sprite.svg#icon-close"></use></svg></span>
+				</span>
+				<span class="hidden-xs action-label" id="account-header-button-label">Login</span>
+			</button>
+		</div>
+		<div class="alain-pinel-logo">
+			<div class="logo-container">
+				<span class="text-right block">					<i class="svg-logo-top"><svg class="svg-icon gold"><use xlink:href="/svg/svg-sprite.svg#icon-apr-logo-top"></use></svg></i>
+					<i class="svg-logo-bottom"><svg class="svg-icon"><use xlink:href="/svg/svg-sprite.svg#icon-apr-logo-bottom"></use></svg></i>
+				</span>			</div>
+		</div>
+	</div>
+</header>		<div id="sidebar" class="sidebar-nav bg-gray-dark font-droid upper hidden-print">
+	<div class="sidebar-tab-content tab-content">
+				<nav class="sidebar-tab-pane sidebar-inner-nav tab-pane fade active sidebar-menu" id="sidebar-navigation">
+			<ul class="list-unstyled company-navigation-ul">
+																<li class="hidden-xs">
+					<div class="compare-container compare-bin-wrapper">
+						<button class="nav-item no-decoration toggle-compare block upper" type="button" data-toggle="collapse" data-target="#compare-actions-container" aria-expanded="false" aria-controls="compare-actions-container">
+							Compare&nbsp;<span class="property-compare-count"></span> <svg class="svg-icon"><use xlink:href="/svg/svg-sprite.svg#icon-down-arrow"></use></svg>
+						</button>
+						<ul id="compare-actions-container" class="list-unstyled compare-ul collapse">
+							<li class="nav-li-secondary">
+								<a role="button" class="no-decor nav-item padding-top-0">No Items</a>
+							</li>
+							<li hidden class="nav-li-secondary">
+								<a data-compare-action="compare" role="button" class="no-decor nav-item padding-top-0">compare properties</a>
+							</li>
+							<li hidden class="nav-li-secondary">
+								<a data-compare-action="tour" role="button" class="no-decor nav-item">view driving tour</a>
+							</li>
+							<li hidden class="nav-li-secondary">
+															</li>
+							<li hidden class="nav-li-secondary">
+								<a data-compare-action="empty" role="button" class="no-decor nav-item">remove all from compare</a>
+							</li>
+						</ul>
+						<hr class="gray-mid-dark margin-top-10 margin-bottom-5">					
+					</div>
+				</li>
+													
+
+																										
+					<li class="nav-li-top no-children">
+													<a href="/"  class="nav-item pointer no-decoration" title="Home">Home</a>
+											</li>						
+									
+
+																										
+					<li class="nav-li-top has-children">
+													<a class="nav-item pointer no-decoration has-children">Buy <svg class="svg-icon"><use xlink:href="/svg/svg-sprite.svg#icon-down-arrow"></use></svg></a>
+							<ul class="secondary-nav margin-0 padding-left-50 padding-top-0 padding-bottom-0 font-16 font-work">
+								 									<li class="nav-li-secondary">
+										<a href="/buy/"  class="nav-item pointer no-decoration" title="Buy">Buy</a>
+									</li>
+																									<li class="nav-li-secondary">
+										<a href="/buy/"  class="nav-item pointer no-decoration" title="Homes For Sale">Homes For Sale</a>
+									</li>
+																	<li class="nav-li-secondary">
+										<a href="/open-houses/"  class="nav-item pointer no-decoration" title="Open Houses">Open Houses</a>
+									</li>
+																	<li class="nav-li-secondary">
+										<a href="/luxury-properties/"  class="nav-item pointer no-decoration" title="Luxury Properties">Luxury Properties</a>
+									</li>
+																	<li class="nav-li-secondary">
+										<a href="/investment-properties/"  class="nav-item pointer no-decoration" title="Investment Properties">Investment Properties</a>
+									</li>
+																	<li class="nav-li-secondary">
+										<a href="/global-property-search/"  class="nav-item pointer no-decoration" title="Global Property Search">Global Property Search</a>
+									</li>
+																		
+							</ul>
+											</li>						
+									
+
+																										
+					<li class="nav-li-top no-children">
+													<a href="/sell/"  class="nav-item pointer no-decoration" title="Sell">Sell</a>
+											</li>						
+									
+
+																										
+					<li class="nav-li-top has-children">
+													<a class="nav-item pointer no-decoration has-children">Agents &amp; Offices <svg class="svg-icon"><use xlink:href="/svg/svg-sprite.svg#icon-down-arrow"></use></svg></a>
+							<ul class="secondary-nav margin-0 padding-left-50 padding-top-0 padding-bottom-0 font-16 font-work">
+																									<li class="nav-li-secondary">
+										<a href="/find-an-agent/"  class="nav-item pointer no-decoration" title="Find an Agent">Find an Agent</a>
+									</li>
+																	<li class="nav-li-secondary">
+										<a href="/find-an-office/"  class="nav-item pointer no-decoration" title="Find an Office">Find an Office</a>
+									</li>
+																		
+							</ul>
+											</li>						
+									
+
+																										
+					<li class="nav-li-top no-children">
+													<a href="/the-bay-area/"  class="nav-item pointer no-decoration" title="The Bay Area">The Bay Area</a>
+											</li>						
+									
+
+																										
+					<li class="nav-li-top has-children">
+													<a class="nav-item pointer no-decoration has-children">Resources <svg class="svg-icon"><use xlink:href="/svg/svg-sprite.svg#icon-down-arrow"></use></svg></a>
+							<ul class="secondary-nav margin-0 padding-left-50 padding-top-0 padding-bottom-0 font-16 font-work">
+																									<li class="nav-li-secondary">
+										<a href="/relocation/"  class="nav-item pointer no-decoration" title="Relocation">Relocation</a>
+									</li>
+																	<li class="nav-li-secondary">
+										<a href="http://pmaloans.com/" target="_blank" class="nav-item pointer no-decoration" title="Get a Loan">Get a Loan</a>
+									</li>
+																		
+							</ul>
+											</li>						
+									
+
+																										
+					<li class="nav-li-top has-children">
+													<a class="nav-item pointer no-decoration has-children">About Us <svg class="svg-icon"><use xlink:href="/svg/svg-sprite.svg#icon-down-arrow"></use></svg></a>
+							<ul class="secondary-nav margin-0 padding-left-50 padding-top-0 padding-bottom-0 font-16 font-work">
+								 									<li class="nav-li-secondary">
+										<a href="/about-us/"  class="nav-item pointer no-decoration" title="About Us">About Us</a>
+									</li>
+																									<li class="nav-li-secondary">
+										<a href="/careers/"  class="nav-item pointer no-decoration" title="Careers">Careers</a>
+									</li>
+																	<li class="nav-li-secondary">
+										<a href="/global-affiliations/"  class="nav-item pointer no-decoration" title="Global Affiliations">Global Affiliations</a>
+									</li>
+																	<li class="nav-li-secondary">
+										<a href="/contact-us/"  class="nav-item pointer no-decoration" title="Contact Us">Contact Us</a>
+									</li>
+																	<li class="nav-li-secondary">
+										<a href="/leadership-team/"  class="nav-item pointer no-decoration" title="Leadership Team">Leadership Team</a>
+									</li>
+																	<li class="nav-li-secondary">
+										<a href="http://blackandgold.apr.com" target="_blank" class="nav-item pointer no-decoration" title="Blog">Blog</a>
+									</li>
+																		
+							</ul>
+											</li>						
+							</ul>
+		</nav>
+		
+				<div class="sidebar-tab-pane tab-pane fade" id="sidebar-quicksearch">
+			<div class="quick-search-component">
+	<form action="/search/url_search/" method="post">
+		<input type="hidden" name="view" value="map">
+		<div class="form-group margin-top-30 float-label-wrap">
+			<label for="qsc-AddressAndLoc">City, Address, Street, Zip or Listing#</label>
+			<input id="qsc-AddressAndLoc" class="form-control input-lg float-label-form-control" name="AddressAndLoc" placeholder="City, Address, Street, Zip or Listing#">
+		</div>
+		<div class="form-group margin-top-30 float-label-wrap">
+			<label for="qsc-Max_Price">Max Price</label>
+			<input id="qsc-Max_Price" class="form-control input-lg float-label-form-control" type="text" name="Max_Price" placeholder="Max Price">
+		</div>
+		<div class="row">
+			<div class="col-xs-6">
+				<div class="form-group margin-top-30 float-label-wrap">
+					<label for="qsc-MinBeds">Min Beds</label>
+					<div class="select-wrapper">
+						<select id="qsc-MinBeds" class="form-control input-lg float-label-form-control" name="MinBeds">
+							<option value="" class="placeholder">Min Beds</option>
+														  <option value="1">1&#43;</option>
+														  <option value="2">2&#43;</option>
+														  <option value="3">3&#43;</option>
+														  <option value="4">4&#43;</option>
+														  <option value="5">5&#43;</option>
+														  <option value="6">6&#43;</option>
+														  <option value="7">7&#43;</option>
+														  <option value="8">8&#43;</option>
+														  <option value="9">9&#43;</option>
+													</select>
+						<svg class="svg-icon select-handle"><use xlink:href="/svg/svg-sprite.svg#icon-down-arrow"></use></svg>
+					</div>
+				</div>
+			</div>
+			<div class="col-xs-6">
+				<div class="form-group margin-top-30 float-label-wrap">
+					<label for="qsc-Bathrooms">Min Baths</label>
+					<div class="select-wrapper">
+						<select id="qsc-Bathrooms" class="form-control input-lg float-label-form-control" name="Bathrooms">
+							<option value="" class="placeholder">Min Baths</option>
+															<option value="1">1&#43;</option>
+															<option value="2">2&#43;</option>
+															<option value="3">3&#43;</option>
+															<option value="4">4&#43;</option>
+															<option value="5">5&#43;</option>
+															<option value="6">6&#43;</option>
+															<option value="7">7&#43;</option>
+															<option value="8">8&#43;</option>
+															<option value="9">9&#43;</option>
+													</select>
+						<svg class="svg-icon select-handle"><use xlink:href="/svg/svg-sprite.svg#icon-down-arrow"></use></svg>		
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="form-group margin-top-30 float-label-wrap">
+			<label for="qsc-MinBuildingApproxSqft">Square Feet</label>
+			<div class="select-wrapper">
+				<select id="qsc-MinBuildingApproxSqft" class="form-control input-lg float-label-form-control" name="MinBuildingApproxSqft">
+					<option value="" class="placeholder">Square Feet</option>
+					<option value="250">250</option>
+					<option value="500">500</option>
+					<option value="1000">1,000</option>
+					<option value="1250">1,250</option>
+					<option value="1500">1,500</option>
+					<option value="1750">1,750</option>
+					<option value="2000">2,000</option>
+					<option value="2250">2,250</option>
+					<option value="2500">2,500</option>
+					<option value="2750">2,750</option>
+					<option value="3000">3,000</option>
+					<option value="3250">3,250</option>
+					<option value="3500">3,500</option>
+					<option value="3750">3,750</option>
+					<option value="4000">4,000</option>
+					<option value="5000">5,000</option>
+					<option value="10000">10,000</option>
+				</select>
+				<svg class="svg-icon select-handle"><use xlink:href="/svg/svg-sprite.svg#icon-down-arrow"></use></svg>			
+			</div>
+		</div>
+		<div class="form-group margin-top-30">
+			<button type="submit" class="btn bg-blue btn-block btn-lg" title="Search For Homes">Search For Homes</button>
+		</div>
+	</form>
+</div>
+		</div>
+				
+				<div class="sidebar-tab-pane tab-pane fade" id='sidebar-account'>
+			<div hidden id="sidebar-account-links" class="sidebar-inner-nav">
+				<ul class="list-unstyled company-navigation-ul account-nav">
+					<li class="nav-li-top"><a class="nav-item pointer no-decoration" href="/account/" title="Home">Home</a></li>
+					<li class="nav-li-top"><a class="nav-item pointer no-decoration" href="/account/manage_favorites/" title="Favorites">Favorites</a></li>
+					<li class="nav-li-top"><a class="nav-item pointer no-decoration" href="/account/searches/" title="Saved Searches">Saved Searches</a></li>
+					<li class="nav-li-top"><a class="nav-item pointer no-decoration" href="/account/edit/" title="Account Details">Account Details</a></li>
+					<li class="nav-li-top"><a class="nav-item pointer no-decoration" href="/account/contact_agent/" title="Contact Preferred Agent">Contact Preferred Agent</a></li>
+					<li class="nav-li-top"><a class="nav-item pointer no-decoration" href="/account/logout/" title="Logout">Logout</a></li>
+				</ul>
+			</div>
+							<div id="sidebar-account-cta">
+					<ul class="nav nav-tabs nav-justified nav-tabs-inverse ie-fix" id="header-account-nav" role="tablist">
+						<li role="presentation" class="active text-center">
+							<a href="#login-action" aria-controls="login-action" class="text-left" data-toggle="tab"><span>Login</span></a>
+						</li>
+						<li class="text-center" role="presentation">
+							<a href="#register-action" aria-controls="register-action" data-toggle="tab"><span>Register</span></a>
+						</li>
+						<li class="text-center" role="presentation">
+							<a href="/account/" class="text-right"><span>Learn More</span></a>
+						</li>
+					</ul>
+					<div class="tab-content">
+						<div role="tabpanel" class="tab-pane fade in active" id="login-action">
+							<form method="post" id="account_login_ajax" class="account-form" action="/account/ajax_login">
+								<div class="form-group margin-top-30 float-label-wrap">
+									<label for="account-login-email-field">Email</label>
+									<input name="email_address" type="email" class="form-control float-label-form-control input-lg" required placeholder="Email" id="account-login-email-field">
+								</div>
+								<div class="form-group margin-top-30 float-label-wrap">
+									<label for="account-login-password-field">Password</label>
+									<input type="password" name="password" class="form-control float-label-form-control input-lg" required placeholder="Password" id="account-login-password-field">
+								</div>
+								<div class="form-group margin-top-30">
+									<button class="btn bg-blue btn-lg btn-block" type="submit" value="Log In" name="Submit">Log In</button>
+								</div>
+								<div class="center margin-top-15">
+									<a href="/account/forgot_password" class="font-16 capitalize center font-work white no-decoration" title="Forgot Password?">Forgot your password?</a>
+								</div>
+								<div class="form-group margin-top-10">
+									<div class="openid-container">
+    <div class="or-divider center margin-bottom-15">
+        <span class="bock h5 bold relative"><span class="padding-left-10 padding-right-10">OR</span></span>
+    </div>
+    <span class="bock h5 gray-light margin-bottom-5">Connect With:</span>
+    <div class="row">
+        <div class="col-xs-6 openid-links">
+            <a href="/openId/begin?openIdUrl=http://www.facebook.com/" class="openid-service-facebook btn btn-block btn-lg bg-blue-fb" data-fancybox-width="365" data-fancybox-height="185">Facebook</a>
+        </div>
+        <div class="col-xs-6 openid-links">
+            <a href="/openId/begin?openIdUrl=googlePlus" class="openid-service-google btn btn-block btn-lg bg-red-gplus" data-fancybox-width="365" data-fancybox-height="185">Google+</a>
+        </div>
+    </div>
+    <div class="hidden">
+        <div class="openid-transfer-screen popupBody">
+            <span class="h1 block margin-bottom-30">Connecting to <span class="openid-transfer-screen-provider"></span></span>
+            <div class="text-center">
+                <img class="openid-transfer-screen-loader-icon" alt="Loading..." src="/images/system/thirdPartyLoginLogos/loader_indicator.gif">
+            </div>
+        </div>
+    </div>
+</div>
+								</div>
+							</form>						
+						</div>
+						<div role="tabpanel" class="tab-pane fade" id="register-action"></div>
+					</div>
+				</div>
+					</div>
+			</div>
+</div>		
+				<div class="sidebar-push">
+			<main class="page-yield">
+														<div class="homepage">
+		<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" id="homepageImage" hidden alt="San Francisco Bay Area Real Estate - Photo #1"/>
+		<div class="featured-image relative margin-bottom-35" title="San Francisco Bay Area Real Estate - Photo #1">
+		<div class="video-container">
+					    		</div>
+		<div class="feature-overlay">
+			<div class="h1 tagline overlay-shadow white center"><span class="spacer">Local<span class="font-work">.</span></span><span class="spacer"> Global<span class="font-work">.</span></span> <span class="spacer">Luxury<span class="font-work">.</span></span></div>
+			<div class="quick-search">
+	<div class="xs-quicksearch padding-15">
+		<div class="input-imitation" id="quick-search-imitation-toggle">
+			<span class="font-droid bold font-12 upper">Start Your Home Search!</span>
+			<button class="pull-right bg-blue" aria-controls="sidebar-quicksearch"><svg class="svg-icon white font-24"><use xlink:href="/svg/svg-sprite.svg#icon-quick-search"></use></svg></button>
+		</div>
+	</div>
+	<div class="standard-quicksearch hidden-xs">	
+		<form class="clearfix" action="/search/url_search/" method="post">
+			<input type="hidden" name="view" value="map">
+			<div class="form-group address">
+				<label for="qs-home-AddressAndLoc" class="sr-only">City, Address, Zip, Or Listing#</label>
+				<input id="qs-home-AddressAndLoc" name="AddressAndLoc" class="form-control input-lg border-right-0" placeholder="City, Address, Zip, Or Listing#">
+			</div>
+			<div class="form-group price">
+				<label for="qs-home-Max_Price" class="sr-only">Max Price</label>
+				<input id="qs-home-Max_Price" class="form-control input-lg border-right-0" name="Max_Price" placeholder="Max Price" type="text">
+			</div>
+			<div class="form-group select-wrapper float-label-wrap beds">
+				<label class="sr-only" for="qs-home-MinBeds">Min Beds</label>
+				<select id="qs-home-MinBeds" name="MinBeds" class="form-control input-lg border-right-0 watermark">
+					<option value="" class="placeholder">Min Beds</option>
+											<option value="1">1&#43; Beds</option>
+											<option value="2">2&#43; Beds</option>
+											<option value="3">3&#43; Beds</option>
+											<option value="4">4&#43; Beds</option>
+											<option value="5">5&#43; Beds</option>
+											<option value="6">6&#43; Beds</option>
+											<option value="7">7&#43; Beds</option>
+											<option value="8">8&#43; Beds</option>
+											<option value="9">9&#43; Beds</option>
+									</select>
+				<svg class="svg-icon select-handle"><use xlink:href="/svg/svg-sprite.svg#icon-down-arrow"></use></svg>
+			</div>
+			<div class="form-group select-wrapper float-label-wrap baths">
+				<label class="sr-only" for="qs-home-Bathrooms">Min Baths</label>
+				<select id="qs-home-Bathrooms" class="form-control input-lg border-right-0 watermark" name="Bathrooms">
+					<option value="" class="placeholder">Min Baths</option>
+											<option value="1">1&#43; Baths</option>
+											<option value="2">2&#43; Baths</option>
+											<option value="3">3&#43; Baths</option>
+											<option value="4">4&#43; Baths</option>
+											<option value="5">5&#43; Baths</option>
+											<option value="6">6&#43; Baths</option>
+											<option value="7">7&#43; Baths</option>
+											<option value="8">8&#43; Baths</option>
+											<option value="9">9&#43; Baths</option>
+									</select>
+				<svg class="svg-icon select-handle"><use xlink:href="/svg/svg-sprite.svg#icon-down-arrow"></use></svg>
+			</div>
+			<div class="form-group submit">
+				<button class="btn btn-lg btn-block bg-blue visible-xs-inline-block visible-sm-inline-block padding-left-0 padding-right-0" type="submit" title="Find Your Home"><svg class="svg-icon white font-18"><use xlink:href="/svg/svg-sprite.svg#icon-quick-search"></use></svg></button>
+				<button class="btn btn-lg btn-block bg-blue visible-md-inline-block visible-lg-inline-block" type="submit" title="Search for Properties">Find Your Home</button>
+			</div>
+		</form>
+	</div>
+</div>
+		</div>
+	</div>
+	<div class="container home-cta-container">
+		<div class="h1 dashing-strikethrough center margin-bottom-20 margin-top-20"><span>local</span></div>
+		<h2 class="feature-text gold font-18 lower center margin-bottom-70">Bringing the best of Northern California real estate since 1990</h2>
+		<div class="row">
+			<div class="col-sm-6 col-md-3">
+				<div class="home-cta list-with-us" title="San Francisco Bay Area Real Estate - Photo #2">
+					<a href="/sell/"></a>
+					<h3 class="h2 center-overlay pointer-events-none overlay-shadow white center">List<br>With Us</h3>
+				</div> 
+			</div>			
+			<div class="col-sm-6 col-md-3">
+				<div class="home-cta our-communities" title="San Francisco Bay Area Real Estate - Photo #3">
+					<a href="/the-bay-area/" title="Our Communities"><span class="sr-only">Our Communities</span></a>
+					<h3 class="h2 center-overlay pointer-events-none overlay-shadow white center">Our<br>Communities</h3>
+				</div> 
+			</div>
+			<div class="col-sm-6 col-md-3">
+				<div class="home-cta market-reports" title="San Francisco Bay Area Real Estate - Photo #4">
+					<a href="/market-reports/"></a>
+					<h3 class="h2 center-overlay pointer-events-none overlay-shadow white center">Market<br>Reports</h3>
+				</div> 
+			</div>
+			<div class="col-sm-6 col-md-3">
+				<div class="home-cta commute-time">
+					<a href="/buy/module/proximity_search_module" title="San Francisco Bay Area Real Estate - Photo #5"></a>
+					<h3 class="h2 center-overlay pointer-events-none overlay-shadow white center">Proximity<br>Search</h3>
+				</div> 
+			</div>						
+		</div>
+	</div>
+	<div class="global-container relative">
+		<div class="center-overlay">
+			<div class="h2 overlay-shadow white center no-wrap margin-bottom-10">Global &amp; Luxury</div>
+			<h2 class="feature-text font-18 overlay-shadow white center no-wrap margin-bottom-25 lower">Marketing over $54 billion of luxury <br class="visible-xs visible-sm">properties in 50+ countries</h2>
+			<div class="center">
+				<a class="btn bg-white btn-lg" title="Learn more about Alain Pinel in the global market" href="/luxury-properties/">learn more</a>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+							</main>
+			<footer id="company-footer" class="footer">
+	<div class="company-info font-droid upper center margin-bottom-30">
+		<div class="footer-phone">Phone: 866.468.0111</div>
+		<div class="footer-email">ClientServices@apr.com</div>
+		<div class="footer-license">License# 01079009</div>
+	</div>
+	<div class="social-icons social-links center margin-bottom-25 hidden-print">
+		<a href="https://www.facebook.com/AlainPinelRealtors" target="_blank" title="Alain Pinel on Facebook"><span class="sr-only">Facebook</span><i class="icon-facebook"></i></a> 
+		<a href="https://twitter.com/alainpinel" target="_blank" title="Alain Pinel on Twitter"><span class="sr-only">Twitter</span><i class="icon-twitter"></i></a> 
+		<a href="https://www.linkedin.com/company/alain-pinel-realtors" target="_blank" title="Alain Pinel on LinkedIn"><span class="sr-only"></span><i class="icon-linkedin"></i></a> 
+		<a href="https://www.youtube.com/user/AlainPinelRealtors" target="_blank" title="Alain Pinel on YouTube"><span class="sr-only">YouTube</span><i class="icon-youtube"></i></a> 
+		<a href="https://www.pinterest.com/alainpinel/" target="_blank" title="Alain Pinel on Pinterest"><span class="sr-only">Pinterest</span><i class="icon-pinterest"></i></a> 
+		<a href="https://www.instagram.com/alainpinel/" target="_blank" title="Alain Pinel on Instagram"><span class="sr-only">Instagram</span><i class="icon-instagram"></i></a> 
+		<a href="https://blackandgold.apr.com/" target="_blank" title="Alain Pinel RSS Feed"><span class="sr-only">RSS Feed</span><i class="icon-rss"></i></a> 
+	</div>
+	<div class="affiliate-logos center xs-margin-bottom-10 sm-margin-bottom-35 hidden-print">
+		<a class="logo-realtor" href="http://www.realtor.org/" title="National Association of Realtors" target="_blank">
+			<svg class="svg-icon white" viewBox="0 0 33 40"><switch><use xlink:href="/svg/svg-sprite.svg#icon-logo-realtor"></use><foreignObject height='100%' width='100%'><img src="/images/logo_realtor.gif" alt=""></foreignObject></switch></svg>
+		</a>
+		<a class="logo-eho" href="http://portal.hud.gov/hudportal/HUD" title="Equal Housing" target="_blank">
+			<svg class="svg-icon white" viewBox="0 0 39.1 40"><switch><use xlink:href="/svg/svg-sprite.svg#icon-logo-eho"></use><foreignObject height='100%' width='100%'><img src="/images/logo_eho.gif" alt=""></foreignObject></switch></svg>
+		</a>
+		<a class="logo-luxury" href="http://www.luxuryportfolio.com/" title="Luxury Portfolio" target="_blank">
+			<svg class="svg-icon white" viewBox="0 0 350 150"><use xlink:href="/svg/svg-sprite.svg#icon-logo-luxury"></use></svg>
+		</a>
+		<a class="logo-lre" href="http://www.leadingre.com/" title="Leading Real Estate Companies" target="_blank">
+			<svg class="svg-icon white" viewBox="0 0 65 40"><use xlink:href="/svg/svg-sprite.svg#icon-logo-lre"></use></svg>
+		</a>
+		<a class="logo-board-luxury" href="http://www.luxuryrealestate.com/" title="Luxury Real Estate" target="_blank">
+			<svg class="svg-icon white" viewBox="0 0 113.6 40"><use xlink:href="/svg/svg-sprite.svg#icon-logo-board-luxury"></use></svg>
+		</a>
+		<a class="logo-pma" href="https://www.pmaloans.com/" title="Private Mortgage Advisors" target="_blank">
+			<svg class="svg-icon white" viewBox="0 0 135 40"><use xlink:href="/svg/svg-sprite.svg#icon-logo-pma"></use></svg>
+		</a>
+	</div>
+	<div class="fine-print center margin-bottom-10">
+		<span class="margin-right-5">&copy;2018 Alain Pinel Realtors&reg;</span>
+		<a class="privacy hidden-print" href="/privacy-statement/" title="Privacy Statement">Privacy Statement</a>
+		<a class="terms hidden-print" href="/terms-conditions/" title="Terms &amp; Conditions">Terms &amp; Conditions</a>
+		<a class="fair hidden-print" href="http://portal.hud.gov/hudportal/documents/huddoc?id=928.1.pdf" rel="nofollow" target="_blank" title="Fair Housing">Fair Housing</a>
+	</div>
+</footer>		</div>
+	</div>
+	<script src="/js/min/actions.min.js"></script>
+	
+		<script>
+		
+		jQuery(document).ready(function() {
+			// vars for loading images
+			var 
+				loadingImage = $('#homepageImage'),
+				featuredImage = $('.featured-image')
+			;
+			// Obj of images to load. Key is the CSS class with low rez version, value is the cinemagraph to be laoded
+			var imageObj = {
+				"cinemagraph-car" : "//media.apr.com/pics/company/44/14736",
+				"cinemagraph-bridge" : "//media.apr.com/pics/company/44/15073/",
+				"cinemagraph-beach" : "//media.apr.com/pics/company/44/15075/",
+				//"cinemagraph-pool" : "//media.apr.com/pics/company/44/14804",
+			};
+			// grabbing random key and value from Obj and creating vars
+			var imageArray  = Object.keys(imageObj);
+			var imageClass = imageArray[Math.floor(Math.random() * imageArray.length)];
+			var imageGif  = imageObj[imageClass]; 
+			//load class with low rez image
+			featuredImage.addClass(imageClass);
+			// loading the animated gif in the dom, and populating the CSS background property once the image is loaded
+			loadingImage.on('load', function() {
+				featuredImage.css('background-image', 'url(' + imageGif + ')');
+			}).attr('src', imageGif);
+		});
+		
+	</script>
+
+	
+	<script type="text/javascript">
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-8177833-2', 'auto');
+ga('require', 'displayfeatures');
+ga('send', 'pageview');
+ga('create', 'UA-28710577-1', 'auto', {'name': 'boojTracker'});
+ga('require', 'displayfeatures');
+ga('boojTracker.send', 'pageview');
+</script>
+
+	<script src="/js/libs/svg-4-everybody/svg4everybody.min.js"></script>
+	<script>svg4everybody();</script>
+		
+        <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"a98cacdce4","applicationID":"2113332","transactionName":"YVNXY0BQChUCVEVdWlgZYEVbHg0IB1JJGkVeRg==","queueTime":0,"applicationTime":179,"atts":"TRRUFQhKGRs=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html><!-- //new search --><!-- //0.1777880191803 --><!-- //10.10.4.38 -->

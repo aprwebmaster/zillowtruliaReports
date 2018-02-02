@@ -1,0 +1,44 @@
+  http://syndication.enterprise.websiteidx.com/feeds/Zillow_ZIF/44.xml:
+  code: 301
+  protocol: https
+        
+  http://syndication.enterprise.websiteidx.com/feeds/Homelink/44.xml:
+  code: 301
+  protocol: https
+
+  http://apr.com/smarterAgentAgents:
+  code: 301
+  protocol: https
+
+  http://syndication.enterprise.websiteidx.com/feeds/WorldPostings/44.xml:
+  code: 301
+  protocol: https
+
+  http://syndication.enterprise.websiteidx.com/feeds/Reach/44.xml:
+  code: 301
+  protocol: https
+
+  http://syndication.enterprise.websiteidx.com/feeds/Xpressdocs/XpressDocs - XpressDocs - 20160926.xml:
+  code: 301
+  protocol: https
+
+  http://syndication.enterprise.websiteidx.com/feeds/LuxuryPortfolio/Alain_Pinel_Realtors.txt:
+  code: 301
+  protocol: https
+
+  http://syndication.enterprise.websiteidx.com/feeds/LREv2/44.xml:
+  code: 301
+  protocol: https
+
+  http://syndication.enterprise.websiteidx.com/feeds/RealtorDotCom/Alain_Pinel_Realtors/Property.txt:
+  code: 301
+  protocol: https
+
+  http://www.apr.com/excel.txt:
+  code: 301
+  protocol: https
+
+  http://syndication.enterprise.websiteidx.com/feeds/SFGate_v2/Alain_Pinel_Realtors.txt:
+  code: 301
+  protocol: https
+

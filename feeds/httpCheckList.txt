@@ -1,0 +1,12 @@
+https://kit.hoodline.com/setup
+http://syndication.enterprise.websiteidx.com/feeds/Zillow_ZIF/44.xml     
+http://syndication.enterprise.websiteidx.com/feeds/Homelink/44.xml
+http://apr.com/smarterAgentAgents
+http://syndication.enterprise.websiteidx.com/feeds/WorldPostings/44.xml
+http://syndication.enterprise.websiteidx.com/feeds/Reach/44.xml
+http://syndication.enterprise.websiteidx.com/feeds/Xpressdocs/XpressDocs%20-%20XpressDocs%20-%2020160926.xml
+http://syndication.enterprise.websiteidx.com/feeds/LuxuryPortfolio/Alain_Pinel_Realtors.txt
+http://syndication.enterprise.websiteidx.com/feeds/LREv2/44.xml
+http://syndication.enterprise.websiteidx.com/feeds/RealtorDotCom/Alain_Pinel_Realtors/Property.txt
+http://www.apr.com/excel.txt
+http://syndication.enterprise.websiteidx.com/feeds/SFGate_v2/Alain_Pinel_Realtors.txt

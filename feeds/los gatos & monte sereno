@@ -1,0 +1,72 @@
+los gatos & monte sereno 
+
+areadid for call: 
+
+losgatos : 27482
+montesereno : 27485
+
+losgatos+montesereno : 28070
+
+
+average sales price
+
+id : 10
+
+location: los gatos and monte sereno combined
+Query: http://ftapi.trendgraphix.com/Service.aspx?service=data&reportdates=11/2017,12/2017&datacolumns=10&settingid=286&region=653&location=27482,27485&proptype=2646,373'
+results: nov 2349| dec 2352
+
+location: los gatos & Monte Sereno (as one combined area)
+query: http://ftapi.trendgraphix.com/Service.aspx?service=data&reportdates=11/2017,12/2017&datacolumns=10&settingid=286&region=653&location=28070&proptype=2646,373'
+results: nov 2297| dec 2519
+
+
+
+
+median sales price
+
+id : 16
+
+location: los gatos and monte sereno combined
+Query: http://ftapi.trendgraphix.com/Service.aspx?service=data&reportdates=11/2017,12/2017&datacolumns=16&settingid=286&region=653&location=27482,27485&proptype=2646,373'
+results: nov 2015 | dec 2250
+
+location: los gatos & Monte Sereno (as one combined area)
+Query: http://ftapi.trendgraphix.com/Service.aspx?service=data&reportdates=11/2017,12/2017&datacolumns=16&settingid=286&region=653&location=28070&proptypeid=289,290'
+results: nov 2039 | dec 2360
+
+
+total sold listings 
+
+id : 3
+
+location: los gatos and monte sereno combined
+Query: http://ftapi.trendgraphix.com/Service.aspx?service=data&reportdates=11/2017,12/2017&datacolumns=3&settingid=286&region=653&location=27482,27485&proptype=2646,373'
+results: nov 52 | dec 42
+
+location: los gatos & Monte Sereno (as one combined area)
+Query: http://ftapi.trendgraphix.com/Service.aspx?service=data&reportdates=11/2017,12/2017&datacolumns=3&settingid=286&region=653&location=28070&proptype=2646,373'
+results: nov 39 | dec 25
+
+
+total new listings 
+
+id : 2
+
+location: los gatos and monte sereno combined
+Query: http://ftapi.trendgraphix.com/Service.aspx?service=data&reportdates=11/2017,12/2017&datacolumns=2&settingid=286&region=653&location=27482,27485&proptype=2646,373'
+results: nov 27 | dec 23
+
+location: los gatos & Monte Sereno (as one combined area)
+Query: http://ftapi.trendgraphix.com/Service.aspx?service=data&reportdates=11/2017,12/2017&datacolumns=2&settingid=286&region=653&location=28070&proptype=2646,373'
+results: nov 20 | dec 19
+
+
+Sold vs List Price
+
+id: 12
+
+location: los gatos and monte sereno combined
+Query: http://ftapi.trendgraphix.com/Service.aspx?service=data&reportdates=11/2017,12/2017&datacolumns=12&settingid=286&region=653&location=27482,27485&proptype=2646,373'
+results: nov 100 | dec 99
+

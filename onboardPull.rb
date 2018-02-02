@@ -22,11 +22,3 @@ puts @response.message.to_json
 File.write('file.txt', @response.to_json)
 
 
-CSV.open("onboard.csv", "w") do |csv|
-	JSON.parse(File.open("file.txt").read).each_line do |hash|
-		csv << hash.values 
-	end
-end
-
-
-
